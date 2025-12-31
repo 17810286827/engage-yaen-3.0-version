@@ -1,0 +1,375 @@
+[MID_RELIANCE_A_#001]
+$Type(2)
+$Window(0, "PID_アイビー", "1")
+$Window(0, "PID_Jingliu", "2")
+$Window(2, "PID_アイビー")
+Jingliu, there is something I wish to say.$Wait(0)
+
+[MID_RELIANCE_A_#002]
+$Window(2, "PID_Jingliu")
+Then speak it plainly.$Wait(0)
+
+[MID_RELIANCE_A_#003]
+$Window(2, "PID_アイビー")
+I have come to respect you. Not merely as a warrior,
+but also as someone who understands burdens.$Wait(0)
+
+[MID_RELIANCE_A_#004]
+$Window(2, "PID_Jingliu")
+Even though I told you that I'm a traitor, that I've
+killed many of my former soldiers?$Wait(0)
+
+[MID_RELIANCE_A_#005]
+$Window(2, "PID_アイビー")
+Our circumstances are different, yes, but I was
+once labeled a traitor to Elusia.$Wait(0)
+
+[MID_RELIANCE_A_#006]
+$Window(2, "PID_アイビー")
+As a result, I had to strike down many Elusian
+soldiers for a time.$Wait(0)
+
+[MID_RELIANCE_A_#007]
+$Window(2, "PID_Jingliu")
+Hm. You surprise me, Princess. Few would admit
+to valuing shared pain.$Wait(0)
+
+[MID_RELIANCE_A_#008]
+$Window(2, "PID_アイビー")
+Pain unspoken festers. But shared, it forges bonds.
+Unexpected ones, but bonds nonetheless.$Wait(0)
+
+[MID_RELIANCE_A_#009]
+$Window(2, "PID_Jingliu")
+Wise words for a future ruler, but our lives are
+and will be forever different.$Wait(0)
+
+[MID_RELIANCE_A_#010]
+$Window(2, "PID_Jingliu")
+Still, I find it strange that I find some reassurance
+in those very words.$Wait(0)
+
+[MID_RELIANCE_A_#011]
+$Window(2, "PID_アイビー")
+Quite strange, isn't it? To find interest in another's
+company...$Wait(0)
+
+[MID_RELIANCE_A_#012]
+$Window(2, "PID_アイビー")
+And should your tether ever tighten too much,
+I will do what I can to loosen it.$Wait(0)
+
+[MID_RELIANCE_A_#013]
+$Window(2, "PID_Jingliu")
+Then in return, if you find yourself too adrift,
+I can offer a word or two of advice.$Wait(0)
+
+[MID_RELIANCE_A_#014]
+$Window(2, "PID_アイビー")
+An unlikely alliance, but I appreciate your attitude
+regardless.$Wait(0)
+
+[MID_RELIANCE_A_#015]
+$Window(2, "PID_アイビー")
+While we're at it, I am also appreciative for both
+your understanding and your strength.$Wait(0)
+
+[MID_RELIANCE_A_#016]
+$Window(2, "PID_Jingliu")
+It will be lent for a short while until I return home
+and see my plan through once and for all.$Wait(0)
+
+[MID_RELIANCE_A_#017]
+$Window(2, "PID_アイビー")
+Then, I wish you the best of luck for when that
+time arrives.$Wait(0)
+
+[MID_RELIANCE_A_#018]
+$Window(2, "PID_アイビー")
+And hopefully the people of your homeland will
+accept you again, just as mine have accepted me.$Wait(0)
+
+[MID_RELIANCE_A_#019]
+$Window(2, "PID_Jingliu")
+I highly doubt it, though I do find myself curious
+as to how my old student would react.$Wait(0)
+
+[MID_RELIANCE_A_#020]
+$Window(2, "PID_Jingliu")
+But I'll keep the possibility at the back of my mind,
+so thanks.$Wait(0)
+
+[MID_RELIANCE_A_#021]
+$Window(2, "PID_Jingliu")
+And make sure that you never let your mind or
+body falter like I once did.$Wait(0)
+
+[MID_RELIANCE_A_#022]
+$Window(2, "PID_アイビー")
+I'll try my best, Jingliu.$Wait(0)
+
+[MID_RELIANCE_B_#001]
+$Type(2)
+$Window(0, "PID_アイビー", "1")
+$Window(0, "PID_Jingliu", "2")
+$Window(2, "PID_Jingliu")
+Gazing out into the horizon, are we?$Wait(0)
+
+[MID_RELIANCE_B_#002]
+$Window(2, "PID_アイビー")
+Jingliu!...I have much work left to do today and
+felt that I needed a break.$Wait(0)
+
+[MID_RELIANCE_B_#003]
+$Window(2, "PID_Jingliu")
+Your sense of duty—it seems to drive you relentlessly.
+Why?$Wait(0)
+
+[MID_RELIANCE_B_#004]
+$Window(2, "PID_アイビー")
+Well...duty is the only constant in my life.
+Without it, I am...untethered.$Wait(0)
+
+[MID_RELIANCE_B_#005]
+$Window(2, "PID_Jingliu")
+And that tether? Does it not choke as much as it
+guides?$Wait(0)
+
+[MID_RELIANCE_B_#006]
+$Window(2, "PID_アイビー")
+This is quite sudden, but...I suppose it does.
+To let it go would leave me adrift.$Wait(0)
+
+[MID_RELIANCE_B_#007]
+$Window(2, "PID_Jingliu")
+Allowing yourself to be leashed by feelings will
+only drag you down in the long term.$Wait(0)
+
+[MID_RELIANCE_B_#008]
+$Window(2, "PID_アイビー")
+We all have them. Even now, I would be surprised
+if you weren't holding onto one.$Wait(0)
+
+[MID_RELIANCE_B_#009]
+$Window(2, "PID_アイビー")
+Knowing you and your long life, I would also imagine
+it to be quite complex.$Wait(0)
+
+[MID_RELIANCE_B_#010]
+$Window(2, "PID_Jingliu")
+Perhaps it is, but what of it?$Wait(0)
+
+[MID_RELIANCE_B_#011]
+$Window(2, "PID_アイビー")
+Tell me, what is your tether? It's only fair that
+I get to ask in turn.$Wait(0)
+
+[MID_RELIANCE_B_#012]
+$Window(2, "PID_Jingliu")
+Regret. Anger. The desire that my blade shall
+vanquish the Aeons once and for all.$Wait(0)
+
+[MID_RELIANCE_B_#013]
+$Window(2, "PID_アイビー")
+Was it due to the tragedy you mentioned?$Wait(0)
+
+[MID_RELIANCE_B_#014]
+$Window(2, "PID_Jingliu")
+That was a contributing factor and only because
+I escalated the ensuing situation.$Wait(0)
+
+[MID_RELIANCE_B_#015]
+$Window(2, "PID_アイビー")
+Then we are alike, though our reasons differ. Two
+people bound by what we cannot relinquish.$Wait(0)
+
+[MID_RELIANCE_B_#016]
+$Window(2, "PID_アイビー")
+And weighed down by pasts that we might have
+avoided with different choices.$Wait(0)
+
+[MID_RELIANCE_B_#017]
+$Window(2, "PID_Jingliu")
+That's a stretch to say, but there are indeed
+small parallels between our lives.$Wait(0)
+
+[MID_RELIANCE_B_#018]
+$Window(2, "PID_アイビー")
+Do you ever dream of severing those tethers?$Wait(0)
+
+[MID_RELIANCE_B_#019]
+$Window(2, "PID_Jingliu")
+No. I have a goal that I must see to its end, and
+even on the day I fulfill it, I cannot turn back.$Wait(0)
+
+[MID_RELIANCE_B_#020]
+$Window(2, "PID_Jingliu")
+I have been deemed a traitor in my own homeland,
+and all the people who know me now despise me.$Wait(0)
+
+[MID_RELIANCE_B_#021]
+$Window(2, "PID_アイビー")
+Is there truly no room for reconciliation? To
+settle down when all is said and done?$Wait(0)
+
+[MID_RELIANCE_B_#022]
+$Window(2, "PID_Jingliu")
+If you continue to insist, there is one last option I'm
+considering.$Wait(0)
+
+[MID_RELIANCE_B_#023]
+$Window(2, "PID_アイビー")
+And that is?$Wait(0)
+
+[MID_RELIANCE_B_#024]
+$Window(2, "PID_Jingliu")
+Just before I was taken away to this land, a traveler
+approached me.$Wait(0)
+
+[MID_RELIANCE_B_#025]
+$Window(2, "PID_Jingliu")
+He claimed that he had the means to slay the Aeon
+of Abundance.$Wait(0)
+
+[MID_RELIANCE_B_#026]
+$Window(2, "PID_Jingliu")
+Doing so would free myself and all others from
+the curse of madness that I carry.$Wait(0)
+
+[MID_RELIANCE_B_#027]
+$Window(2, "PID_Jingliu")
+Yet each time I consider his offer, I wonder if
+freedom would be worth the emptiness.$Wait(0)
+
+[MID_RELIANCE_B_#028]
+$Window(2, "PID_アイビー")
+Well, I can't say I understand your whole story,
+but I am glad that you are making an effort.$Wait(0)
+
+[MID_RELIANCE_B_#029]
+$Window(2, "PID_アイビー")
+And I don't think you'd be empty, for one. You
+seem strong enough to make those wrongs right.$Wait(0)
+
+[MID_RELIANCE_B_#030]
+$Window(2, "PID_Jingliu")
+Whether I feel like it or not is a different story.$Wait(0)
+
+[MID_RELIANCE_B_#031]
+$Window(2, "PID_Jingliu")
+Though perhaps we should sever our own binds first
+before we begin to lecture each other. $Wait(0)
+
+[MID_RELIANCE_B_#032]
+$Window(2, "PID_アイビー")
+I agree, even if that means that won't be happening
+anytime soon for either of us.$Wait(0)
+
+[MID_RELIANCE_C_#001]
+$Type(2)
+$Window(0, "PID_アイビー", "2")
+$Window(2, "PID_アイビー")
+...Jingliu. Are you...staring at me?$Wait(0)
+
+[MID_RELIANCE_C_#002]
+$Window(0, "PID_Jingliu", "1")
+$Window(2, "PID_Jingliu")
+I was simply intrigued by your composure.$Wait(0)
+
+[MID_RELIANCE_C_#003]
+$Window(2, "PID_アイビー")
+My composure? I'm not sure I understand.$Wait(0)
+
+[MID_RELIANCE_C_#004]
+$Window(2, "PID_Jingliu")
+The way you carry yourself—calm, deliberate.
+A veil over emotions. It's...familiar.$Wait(0)
+
+[MID_RELIANCE_C_#005]
+$Window(2, "PID_アイビー")
+Is that supposed to be a compliment or criticism?$Wait(0)
+
+[MID_RELIANCE_C_#006]
+$Window(2, "PID_Jingliu")
+Neither, merely an observation. You mask your
+burdens well, as though it were an art..$Wait(0)
+
+[MID_RELIANCE_C_#007]
+$Window(2, "PID_アイビー")
+The way you fight so recklessly, you must be
+carrying some burdens yourself..$Wait(0)
+
+[MID_RELIANCE_C_#008]
+$Window(2, "PID_Jingliu")
+True enough. Both of us have pasts that continue
+to weigh us down.$Wait(0)
+
+[MID_RELIANCE_C_#009]
+$Window(2, "PID_Jingliu")
+For me, it was when a close friend perished.$Wait(0)
+
+[MID_RELIANCE_C_#010]
+$Window(2, "PID_Jingliu")
+In their desperation, the others made decisions
+that had unfathomable consequences.$Wait(0)
+
+[MID_RELIANCE_C_#011]
+$Window(2, "PID_Jingliu")
+That said, do you believe yourself to have the
+emotional intelligence to rule in the right mind?$Wait(0)
+
+[MID_RELIANCE_C_#012]
+$Window(2, "PID_アイビー")
+Is that your way of prying into my past or simply
+testing my resolve?$Wait(0)
+
+[MID_RELIANCE_C_#013]
+$Window(2, "PID_Jingliu")
+Neither. I seek only to ascertain the intents of the
+person before me.$Wait(0)
+
+[MID_RELIANCE_C_#014]
+$Window(2, "PID_アイビー")
+A curious approach. I thought you'd judge a person
+by their sword, not their burdens.$Wait(0)
+
+[MID_RELIANCE_C_#015]
+$Window(2, "PID_Jingliu")
+Burdens weigh on the blade. Knowing them lends
+clarity to one's strength and weakness.$Wait(0)
+
+[MID_RELIANCE_C_#016]
+$Window(2, "PID_アイビー")
+...$Wait(0)
+
+[MID_RELIANCE_C_#017]
+$Window(2, "PID_アイビー")
+Then to answer your question, not quite.$Wait(0)
+
+[MID_RELIANCE_C_#018]
+$Window(2, "PID_アイビー")
+But I have my allies by my side who will help me
+make the right decisions as a ruler.$Wait(0)
+
+[MID_RELIANCE_C_#019]
+$Window(2, "PID_アイビー")
+As for you, Jingliu. Where were you when these
+friends of yours acted in desperation?$Wait(0)
+
+[MID_RELIANCE_C_#020]
+$Window(2, "PID_Jingliu")
+I was not immediately present when Dan Feng
+attempted to revive Baiheng.$Wait(0)
+
+[MID_RELIANCE_C_#021]
+$Window(2, "PID_Jingliu")
+But this is not a contest of tragedies.$Wait(0)
+
+[MID_RELIANCE_C_#022]
+$Window(2, "PID_アイビー")
+Perhaps not, but if you see behind my mask, I cannot
+help but want to see behind yours.$Wait(0)
+
+[MID_RELIANCE_C_#023]
+$Window(2, "PID_Jingliu")
+Heh. A fair point, Princess.$Wait(0)

@@ -1,0 +1,202 @@
+[MPID_Ephraim]
+艾弗拉姆
+
+[MPID_H_Ephraim]
+人称“圣魔纹章士”。
+为了和平挺身而战，是位英勇善战的王子。
+
+[MPID_Aqua]
+阿库娅
+
+[MPID_H_Aqua]
+生于暗夜长于白夜的公主，也是神威的表姐及义姐，在战场上以歌声支援同伴。
+
+[MPID_Reinhardt]
+莱因哈特
+
+[MPID_H_Reinhardt]
+来自里弗所在的世界。
+弗立吉军的魔道骑士，欧尔玟的兄长。精通雷电攻击。
+
+[MPID_Shez]
+谢兹
+
+[MPID_H_Shez]
+来自风花雪月无双的世界，
+出生于雷斯塔的山村。当上佣兵后便开始了流浪生活。几经波折，成为了加尔古·玛库士官学校的学生。
+
+[MPID_Veyre1]
+？？？
+
+[MPID_H_EnemyVeyre1]
+神秘人物的分身
+
+[MPID_Nanzhu]
+琉尔
+
+[MPID_Nvzhu]
+琉尔
+
+[MPID_suola]
+索拉
+
+[MPID_H_suola]
+索拉涅尔的守护神。待在洞穴里的祭坛上。
+一见到琉尔，便会兴奋地追上来。
+与琉弥艾尔相识已久。
+
+[MPID_H_Sombre1]
+从异世界召唤而来的邪龙族之王。
+拥有强大暗黑魔力的存在。
+
+[MPID_SpecialYLWS]
+尤里乌斯
+
+[MPID_SpecialYXTE]
+伊修塔尔
+
+[MPID_SpecialSKM]
+萨卡姆
+
+[MPID_SpecialMKS]
+马库斯
+
+[MPID_SpecialKML]
+卡米拉
+
+[MPID_SpecialLA]
+里昂
+
+[MPID_SpecialALZ]
+艾莉泽
+
+[MPID_SpecialLM]
+龙马
+
+[MPID_SpecialRNX]
+日乃香
+
+[MPID_SpecialTH]
+拓海
+
+[MPID_SpecialY]
+樱
+
+[MPID_SpecialMJJAA]
+艾恩
+
+[MPID_SpecialSYS]
+赛亚斯
+
+[MPID_SpecialSZ]
+晓之团-萨扎
+
+[MPID_SpecialAD]
+晓之团-艾迪
+
+[MPID_SpecialLOND]
+晓之团-雷欧纳多
+
+[MPID_SpecialNYS]
+晓之团-诺伊斯
+
+[MPID_SpecialJE]
+晓之团-吉尔
+
+[MPID_SpecialCHK]
+晓之团-崔哈克
+
+[MPID_SpecialLL]
+晓之团-罗拉
+
+[MPID_SpecialLLN]
+莉莉娜
+
+[MPID_SpecialXEK]
+希尔科
+
+[MPID_SpecialTT]
+缇塔
+
+[MPID_SpecialJN]
+杰妮
+
+[MPID_SpecialASTLY]
+阿斯特利亚
+
+[MPID_Mia]
+瓦尤
+
+[MPID_H_Mia]
+艾克所在的雇佣兵团的剑士。
+
+[MPID_Yaoling]
+李瑶铃
+
+[MPID_H_Yaoling]
+来自中国四川的少女，日本留学生。性格开朗，乐天派，偶尔孩子气。
+面对人生目标的迷茫，她积极尝试新事物寻求答案。
+代号"RIN"，初始人格面具Ⅱ为"孟婆"
+
+[MPID_Jingliu]
+镜流
+
+[MPID_H_Jingliu]
+A master swordswoman who pierces
+her foes with an icy blade. She
+treads on the fine line between
+sanity and mara-struck.
+
+[MPID_GoldenWolf]
+Golden Wolf
+
+[MPID_H_GoldenWolf]
+A wolf reminiscent to the hounds
+found on the Xianzhou. It moves
+swiftly and supports allies upon
+its defeat.
+
+[MPID_WoodenWolf]
+Wooden Wolf
+
+[MPID_H_WoodenWolf]
+A wolf reminiscent to the ones
+found on the Xianzhou. It moves
+elusively and summons allies
+when threatened.
+
+[MPID_ShadowWolf]
+Shadow Wolf
+
+[MPID_H_ShadowWolf]
+A wolf reminiscent to the shadows
+found on the Xianzhou. It prefers
+to stay near its summoner.
+
+[MPID_IrcionVillager]
+Elusian Villager
+
+[MPID_Assassin]
+Assassin
+
+[MGID_Yaen]
+亚恩幕影
+
+[MGID_Ring_Yaen]
+混沌纹章士
+
+[MGEID_Yaen]
+混沌纹章
+
+[MGID_H_Yaen]
+作者亲自下场助君通关，可以继承全部的职业技能。
+提升牵绊等级时可以获得全部武器资质。
+
+[MGID_H_Yaen_Nickname]
+作者亲自下场助君通关，可以继承全部的职业技能。
+
+[MGID_H_Ring_Yaen]
+作者亲自下场助君通关，可以继承全部的职业技能。
+
+[MPID_Yaen]
+亚恩幕影

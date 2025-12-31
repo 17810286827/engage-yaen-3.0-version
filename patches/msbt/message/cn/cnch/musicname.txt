@@ -1,0 +1,44 @@
+[MID_BGM_DontSpeakHerName_ST_Play]
+Don't speak her name!
+
+[MID_BGM_Conquest_Map_ST_Play]
+Conquest
+
+[MID_BGM_Conquest_Combat_ST_Play]
+Conquest (Ablaze)
+
+[MID_BGM_DivineDecree_Map_ST_Play]
+Divine Decree
+
+[MID_BGM_DivineDecree_Combat_ST_Play]
+Divine Decree (Ablaze)
+
+[MID_BGM_RoadTaken_Map_ST_Play]
+Road Taken
+
+[MID_BGM_RoadTaken_Combat_ST_Play]
+Road Taken (Roar)
+
+[MID_ExtraBGM_Iron14]
+Fire Emblem: Awakening
+
+[MID_ExtraBGM_Iron15]
+Fire Emblem Fates
+
+[BGM_Evt_Amb_Xianzhou_01_ST_Play]
+Anthropic Domain
+
+[BGM_Evt_Amb_Xianzhou_02_ST_Play]
+Lustrous Moonlight
+
+[BGM_Evt_Amb_Azura_02_ST_Play]
+Premonition
+
+[MID_BGM_Xianzhou_P01_Map_ST_Play]
+Into the Breach
+
+[MID_BGM_Xianzhou_P02_Map_ST_Play]
+Thundering Chariot
+
+[MID_BGM_Xianzhou_P04_Map_ST_Play]
+Blade Abracadabra

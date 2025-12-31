@@ -1,0 +1,5 @@
+[MID_Movie_Star01]
+Swordward
+
+[MID_H_Movie_Star01]
+Jingliu's character introduction.

@@ -1,0 +1,88 @@
+[MID_KR_Jingliu_BattleCount1]
+$Type(4)
+$Window(0, "Jingliu", "2")
+$Anim(1, "Jingliu", "Normal")
+$Anim(0, "Jingliu", "EmoTalk")
+I can see the potential in you. Allow me
+to teach you a technique or two some time.$Wait(0)
+
+[MID_KR_Jingliu_HeroLVUP]
+$Type(4)
+$Window(0, "Jingliu", "2")
+$Anim(1, "Jingliu", "Normal")
+$Anim(0, "Jingliu", "EmoTalk")
+Your strength has improved. Perhaps one day
+you'll stand as my equal on the battlefield.$Wait(0)
+
+[MID_KR_Jingliu_HeroMVP]
+$Type(4)
+$Window(0, "Jingliu", "2")
+$Anim(1, "Jingliu", "Smile")
+$Anim(0, "Jingliu", "EmoTalk")
+That was an impressive performance today.
+You remind me of a student whom I once taught.$Wait(0)
+
+[MID_KR_Jingliu_LVUP01]
+$Type(4)
+$Window(0, "Jingliu", "2")
+$Anim(1, "Jingliu", "Smile")
+$Anim(0, "Jingliu", "EmoTalk")
+Yet another step forward and more power
+to wield. May you direct me wisely.$Wait(0)
+
+[MID_KR_Jingliu_ManyHeal]
+$Type(4)
+$Window(0, "Jingliu", "2")
+$Anim(1, "Jingliu", "Serious")
+$Anim(0, "Jingliu", "EmoTalk")
+The healers should save themsleves first.
+I'll fight to my very end.$Wait(0)
+
+[MID_KR_Jingliu_ManyKill]
+$Type(4)
+$Window(0, "Jingliu", "2")
+$Anim(1, "Jingliu", "Normal")
+$Anim(0, "Jingliu", "EmoTalk")
+It seems the art of war has not dulled after
+all these years. A pity my foes are so weak.$Wait(0)
+
+[MID_KR_Jingliu_NoParty]
+$Type(4)
+$Window(0, "Jingliu", "2")
+$Anim(1, "Jingliu", "Serious")
+$Anim(0, "Jingliu", "EmoTalk")
+I shall not let the curse of Abundance hinder
+me, so do not keep me off the battlefield.$Wait(0)
+
+[MID_KR_Jingliu_TravelTalk_Common_01]
+$Type(4)
+$Window(0, "Jingliu", "2")
+$Anim(1, "Jingliu", "Normal")
+$Anim(0, "Jingliu", "EmoTalk")
+Young dragon, your progress is quite
+satisfying to watch. Keep it up.$Wait(0)
+
+[MID_KR_Jingliu_TravelTalk_Common_02]
+$Type(4)
+$Window(0, "Jingliu", "2")
+$Anim(1, "Jingliu", "Normal")
+$Anim(0, "Jingliu", "EmoTalk")
+You broke the enemy's strategy once again
+just like a certain someone I know.$Wait(0)
+
+[MID_KR_Jingliu_TravelTalk_Common_03]
+$Type(4)
+$Window(0, "Jingliu", "2")
+$Anim(1, "Jingliu", "Serious")
+$Anim(0, "Jingliu", "EmoTalk")
+It feels like ages since I've stood shoulder
+to shoulder in an army.$Wait(0)
+
+[MID_KR_Jingliu_TravelTalk_S011]
+$Type(4)
+$Window(0, "Jingliu", "2")
+$Window(2, "Jingliu")
+$Anim(1, "Jingliu", "Smile")
+$Anim(0, "Jingliu", "EmoTalk")
+You wield your blade exceptionally well. I
+shall lend you my own until our path diverge.$Wait(0)

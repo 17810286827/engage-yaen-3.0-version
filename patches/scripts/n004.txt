@@ -1,0 +1,916 @@
+Include("Common")
+g_pid_lueur =     "PID_リュール"
+g_pid_ivy =	      "PID_アイビー"
+g_pid_hortensia = "PID_オルテンシア"
+g_pid_jingliu =   "PID_N004_Jingliu"
+
+wolf_1 = "PID_N004_幻影狼_WoodenWolf1"
+wolf_2 = "PID_N004_幻影狼_WoodenWolf2"
+wolf_3 = "PID_N004_幻影狼_WoodenWolf3"
+wolf_4 = "PID_N004_幻影狼_WoodenWolf4"
+
+g_key_jingliu_defeat = "JingliuDefeat"
+g_key_rebound_count  = "ActivateReboundRoar"
+
+g_key_wolf_summon_1 = "WoodenWolf1Rally"
+g_key_wolf_summon_2 = "WoodenWolf2Rally"
+g_key_wolf_summon_3 = "WoodenWolf3Rally"
+g_key_wolf_summon_4 = "WoodenWolf4Rally"
+
+g_key_wolf_return    = "WolfFollowJingliu"
+g_key_remove_support = "WarpOutSummoners"
+
+g_key_startup_talent =   "PrepareTalent"
+g_key_startup_ultimate = "PrepareUltimate"
+
+g_key_use_talent =   "ShineOfTruth"
+g_key_use_ultimate = "FlorephemeralDreamflux"
+
+g_key_talent_talk =   "ShineOfTruthTalk"
+
+
+-- -----------------------------------
+
+function Startup()
+	
+	Log("Startup")
+	
+	-- 勝利条件の設定
+	WinRuleSetDestroyBoss( true )	-- 敵将撃破
+	
+	-- 勝利条件メッセージをセット
+	WinRuleSetMID( "MID_RULE_DESTROY_BOSS" )
+	
+	変数登録()
+	イベント登録()
+end
+
+-- -----------------------------------
+
+function 変数登録()
+
+	--
+	
+	VariableEntry( g_key_jingliu_defeat,   0 )
+	VariableEntry( g_key_rebound_count,    0 )
+	
+	VariableEntry( g_key_wolf_summon_1,    0 )
+	VariableEntry( g_key_wolf_summon_2,    0 )
+	VariableEntry( g_key_wolf_summon_3,    0 )
+	VariableEntry( g_key_wolf_summon_4,    0 )
+	
+	VariableEntry( g_key_wolf_return,      0 )
+	VariableEntry( g_key_remove_support,   0 )
+	
+	VariableEntry( g_key_startup_talent,   0 )
+	VariableEntry( g_key_startup_ultimate, 0 )
+	
+	VariableEntry( g_key_use_talent,       1 )
+	VariableEntry( g_key_use_ultimate,     0 )
+
+	VariableEntry( g_key_talent_talk,      0 )
+
+end
+
+-- -----------------------------------
+
+function イベント登録()
+	EventEntryArea(VariableSet, 1, 1, 1, 1,FORCE_PLAYER, condition_MOD勝利判定, "勝利", 1)	
+	EventEntryTurn(勝利条件, 1, 1, FORCE_PLAYER)
+	
+	EventEntryBattleTalk(Talk, g_pid_jingliu, FORCE_ENEMY, g_pid_lueur,	    FORCE_PLAYER, true, "Alear_Jingliu_Talk",     "MID_N4BT1_")
+	EventEntryBattleTalk(Talk, g_pid_jingliu, FORCE_ENEMY, g_pid_hortensia,	FORCE_PLAYER, true, "Hortensia_Jingliu_Talk", "MID_N4BT2")
+	EventEntryBattleTalk(Talk, g_pid_jingliu, FORCE_ENEMY, g_pid_ivy,	    FORCE_PLAYER, true, "Ivy_Jingliu_Talk",       "MID_N4BT3")
+	
+	EventEntryDie(JingliuEnd, g_pid_jingliu, FORCE_ENEMY, FORCE_ALL)
+	EventEntryBattleAfter(JingliuDefeat, g_pid_jingliu, FORCE_ENEMY, "", FORCE_PLAYER, true, condition_JingliuDefeat)
+	
+	EventEntryTurnAfter(RemoveWeaponCheck, -1, -1, FORCE_ENEMY)
+	EventEntryTurnAfter(RemoveWeaponUltimate, -1, -1, FORCE_ENEMY,  condition_RemoveWeaponUltimate)
+	EventEntryTurn(RestoreWeaponUltimate,     -1, -1, FORCE_PLAYER, condition_RestoreWeaponUltimate)
+	
+	EventEntryTurnAfter(RemoveWeaponTalent, -1, -1, FORCE_ENEMY, condition_RemoveWeaponTalent)
+	EventEntryBattleAfter(Talent, g_pid_jingliu, FORCE_ENEMY, "", FORCE_PLAYER, true, condition_Talent)
+	EventEntryTurn(RestoreWeaponTalent,    -1, -1, FORCE_PLAYER, condition_RestoreWeaponTalent)
+	
+	EventEntryBattleAfter(ReboundRoar, "PID_N004_幻影狼_GoldenWolf1", FORCE_ENEMY, "", FORCE_PLAYER, true, condition_ReboundRoar)
+	EventEntryBattleAfter(ReboundRoar, "PID_N004_幻影狼_GoldenWolf2", FORCE_ENEMY, "", FORCE_PLAYER, true, condition_ReboundRoar)
+	EventEntryBattleAfter(ReboundRoar, "PID_N004_幻影狼_GoldenWolf3", FORCE_ENEMY, "", FORCE_PLAYER, true, condition_ReboundRoar)
+	
+	EventEntryTurnAfter(RemoveSummoners,      -1, -1, FORCE_ENEMY, condition_RemoveSummoners)
+	
+	EventEntryTurn(WoodenWolfActive,           5,  8, FORCE_ENEMY )
+	EventEntryTurnAfter(RallyingHowl,         -1, -1, FORCE_ENEMY,  condition_RallyingHowl )
+	
+	EventEntryTurnAfter(BattleReinforcement1, -1, -1, FORCE_ENEMY,  condition_BattleReinforcement1)
+
+	EventEntryTurn(BattleReinforcement2,      10, 10, FORCE_PLAYER, condition_BattleReinforcement2)
+	EventEntryTurn(BattleReinforcement3,      -1, -1, FORCE_PLAYER, condition_BattleReinforcement3)
+	
+end
+
+-- -----------------------------------
+
+function Cleanup()
+	
+	Log("Cleanup")
+	
+end
+
+-- -----------------------------------
+
+function Opening()
+	
+	Log("Opening")
+
+end
+
+function MapOpening()
+	
+	Log("MapOpening")
+	EffectCreate("魔法陣_G001",1, 1)	
+	IntroMapSequence()
+		
+end
+
+-- ----------------------------------------------------------------------
+
+function IntroMapSequence()
+	
+	FadeOutAndWait(FADE_FAST)
+	
+	CursorSetPos(5, 3)
+	CursorSetDistanceMode(CURSOR_DISTANCE_NEAR)
+	MapCameraWait()
+	
+	-- ----------------------------------------------------------------------
+	
+	local ivyX = 0
+	local ivyZ = 0
+	local ivyExist = 0
+	
+	local hortensiaX = 0
+	local hortensiaZ = 0
+	local hortensiaExist = 0
+	
+	
+	if ( UnitExistOnMap( g_pid_ivy ) ) then
+		ivyX = UnitGetX( g_pid_ivy )
+		ivyZ = UnitGetZ( g_pid_ivy )
+		ivyExist = 1
+	else
+		Dispos( "IvyTemp", DISPOS_FLAG_NONE )
+	end
+	
+	if ( UnitExistOnMap( g_pid_hortensia ) ) then
+		hortensiaX = UnitGetX( g_pid_hortensia )
+		hortensiaZ = UnitGetZ( g_pid_hortensia )
+		hortensiaExist = 1
+	else
+		Dispos( "HortensiaTemp", DISPOS_FLAG_NONE )
+	end
+	
+	Dispos( "ReinforcementJingliu", DISPOS_FLAG_NONE )
+	
+	-- ----------------------------------------------------------------------
+	
+	if ( ivyExist == 1 ) then
+		UnitSetPos( g_pid_ivy, 6, 2 )
+	end
+	
+	if ( hortensiaExist == 1 ) then
+		UnitSetPos( g_pid_hortensia, 4, 2 )
+	end
+	
+	WaitTime(0.2)
+	FadeInAndWait(FADE_FAST)
+	SoundPostEvent("BGM_Evt_Amb_Ircion")
+	
+	Talk( "MID_N4EV1" )
+	
+	SoundPostEvent("Stop_BGM_Slow")
+	FadeOutAndWait(FADE_FAST)
+	
+	-- ----------------------------------------------------------------------
+	
+	CursorSetPos(5, 17)
+	CursorSetDistanceMode(CURSOR_DISTANCE_NEAR)
+	MapCameraWait()
+	
+	UnitRotation( g_pid_jingliu, ROTATE_UP )
+	
+	FadeInAndWait(FADE_FAST)
+	WaitTime(0.2)
+	SoundPostEvent("BGM_Evt_Amb_Xianzhou_01")
+	
+	Talk( "MID_N4EV2" )
+	UnitPlayAnim( g_pid_jingliu, UNIT_ANIM_ATTACK )
+	WaitTime(0.5)
+	
+	EffectPlay( "ブレイク", 5, 20 )
+	MapDamageBegin()
+	MapDamageAdd( "PID_异形兵_男", 70 )	
+	MapDamageEnd()
+	WaitTime(0.5)
+	
+	Talk( "MID_N4EV3" )
+	UnitDie( "PID_异形兵_男" )
+	
+	UnitMovePosFromPos( 5, 3,  5, 17 )
+	UnitMovePosFromPos( 4, 2,  4, 16 )
+	UnitMovePosFromPos( 6, 2,  6, 16 )
+	UnitMoveWait()
+	
+	UnitRotation( g_pid_jingliu, ROTATE_DOWN )
+	WaitTime(0.2)
+	
+	Talk( "MID_N4EV4" )
+	
+	SoundPostEvent("Stop_BGM_Slow")
+	FadeOutAndWait(FADE_FAST)
+
+	-- ----------------------------------------------------------------------
+
+	UnitMovePos( g_pid_lueur, 5 , 3, MOVE_FLAG_NONE)
+	UnitRotation( g_pid_lueur, ROTATE_UP )
+	
+	if ( ivyExist == 1 ) then
+		UnitSetPos( g_pid_ivy, ivyX, ivyZ )
+		UnitRotation( g_pid_ivy, ROTATE_UP )
+	else
+		if UnitExistOnMap( "PID_アイビー" ) then
+			UnitDelete( "PID_アイビー" )
+		end
+	end
+	
+	if ( hortensiaExist == 1 ) then
+		UnitSetPos( g_pid_hortensia, hortensiaX, hortensiaZ )
+		UnitRotation( g_pid_hortensia, ROTATE_UP )
+	else
+		if UnitExistOnMap( "PID_オルテンシア" ) then
+			UnitDelete( "PID_オルテンシア" )
+		end
+	end
+	
+	CursorSetPos_FromPid( g_pid_lueur )
+	
+	-- ----------------------------------------------------------------------
+	
+	local index_enemy = ForceUnitGetFirst(FORCE_ENEMY)
+	
+	if ( index_enemy != nil ) then
+		UnitDelete( index_enemy )
+	end
+	
+	local index_ally = ForceUnitGetFirst(FORCE_ALLY)
+	
+	if ( index_ally != nil ) then
+		UnitDelete( index_ally )
+	end
+	
+	Dispos( "EnemyMain", DISPOS_FLAG_NONE )
+	
+	-- ----------------------------------------------------------------------
+	
+	FadeInAndWait(FADE_FAST)
+	
+	SkipEscape()
+	
+end
+
+
+-- ---------------------------------------------------------
+function RemoveWeaponCheck()
+	UnitPutOffItem( g_pid_jingliu, "IID_Florephemeral_Dreamflux_S011" )
+end
+
+function condition_RemoveWeaponUltimate()
+
+	if ( AiGetActive( g_pid_jingliu ) == false ) then
+		return false
+	end
+	
+	VariableSet( g_key_use_ultimate, math.max( 0, VariableGet( g_key_use_ultimate ) - 1 ) )
+	
+	if ( VariableGet( g_key_use_ultimate ) == 0 ) then
+		return JingliuRangeDetection( 7 )
+	end
+	
+	return false
+	
+end
+
+function RemoveWeaponUltimate()
+
+	ItemGainSilent( g_pid_jingliu, "IID_Florephemeral_Dreamflux_S011" )
+
+	UnitPutOffItem( g_pid_jingliu, "IID_Lucent_Moonglow" )
+	UnitPutOffItem( g_pid_jingliu, "IID_Transcendent_Flash" )
+	UnitPutOffItem( g_pid_jingliu, "IID_Moon_On_Glacial_River" )
+	
+	UnitSetItemEquip( g_pid_jingliu, "IID_Florephemeral_Dreamflux_S011" )
+	
+	VariableSet( g_key_startup_ultimate, 1 )
+	
+	CursorSetPos_FromPid( g_pid_jingliu )
+	MapCameraWait()
+	Talk( "MID_N4EV6" )
+
+end
+
+function condition_RestoreWeaponUltimate()
+
+	if ( VariableGet( g_key_startup_ultimate ) == 1 ) then
+		return true
+	end
+	
+	return false
+	
+end
+
+function RestoreWeaponUltimate()
+	
+	UnitPutOffItem( g_pid_jingliu, "IID_Florephemeral_Dreamflux_S011" )
+	
+	ItemGainSilent( g_pid_jingliu, "IID_Lucent_Moonglow" )
+	ItemGainSilent( g_pid_jingliu, "IID_Transcendent_Flash" )
+	ItemGainSilent( g_pid_jingliu, "IID_Moon_On_Glacial_River" )
+	
+	UnitSetItemEquip( g_pid_jingliu, "IID_Moon_On_Glacial_River" )
+
+	VariableSet( g_key_startup_ultimate, 0 )
+	VariableSet( g_key_use_ultimate, 3 )
+	
+end
+
+-- ---------------------------------------------------------
+
+function condition_RemoveWeaponTalent()
+
+	if ( AiGetActive( g_pid_jingliu ) == false ) then
+		return false
+	end
+	
+	if ( VariableGet( g_key_use_ultimate ) == 0 ) then
+		return false
+	end
+	
+	VariableSet( g_key_use_talent, math.max( 0, VariableGet( g_key_use_talent ) - 1 ) )
+	
+	if ( VariableGet( g_key_use_talent ) > 0 ) then
+		return false
+	end
+
+	return JingliuRangeDetection( 6 )
+	
+end
+
+function RemoveWeaponTalent()
+
+	UnitSetItemEquip( g_pid_jingliu, "IID_Lucent_Moonglow" )
+	UnitPutOffItem( g_pid_jingliu, "IID_Transcendent_Flash" )
+	UnitPutOffItem( g_pid_jingliu, "IID_Moon_On_Glacial_River" )
+
+	VariableSet( g_key_startup_talent, 1 )
+
+end
+
+function condition_Talent()
+
+	if ( VariableGet( g_key_startup_talent ) == 1 ) then
+		return JingliuRangeDetection( 2 )
+	end
+
+	return false
+	
+end
+
+function Talent()
+	
+	local jingliuX = UnitGetX( g_pid_jingliu )
+	local jingliuZ = UnitGetZ( g_pid_jingliu )
+	
+	CursorSetPos_FromPid( g_pid_jingliu )
+	MapCameraWait()
+	
+	if VariableGet( g_key_talent_talk ) == 0 then
+		Talk( "MID_N4EV5" )
+		VariableSet( g_key_talent_talk, 1 )
+	end
+	
+	local index = ForceUnitGetFirst( FORCE_PLAYER )
+	while index != nil do
+		local x = UnitGetX( index )
+		local z = UnitGetZ( index )
+		
+		if ( ( 二点間距離( x, z, jingliuX, jingliuZ ) <= 2 ) ) then
+			EffectPlay( "フリーズ", x, z )
+			UnitSetPrivateSkill( index, "SID_移動不可" )
+		end
+		
+		index = ForceUnitGetNext(index)
+	end
+	
+	MapOverlapSetBegin()
+	MapOverlapSet( jingliuX, jingliuZ + 2, "TID_氷床" )
+	MapOverlapSet( jingliuX, jingliuZ - 2, "TID_氷床" )
+	MapOverlapSet( jingliuX + 2, jingliuZ, "TID_氷床" )
+	MapOverlapSet( jingliuX - 2, jingliuZ, "TID_氷床" )
+		
+	for z = jingliuZ -1, jingliuZ + 1 do
+		for x = jingliuX -1, jingliuX + 1 do
+			MapOverlapSet( x, z, "TID_氷床" )
+		end
+	end
+	MapOverlapSetEnd()
+	
+	VariableSet( g_key_use_talent, 3 )
+	
+	WaitTime( 1.0 )
+end
+
+function condition_RestoreWeaponTalent()
+
+	if ( VariableGet( g_key_startup_talent ) == 1 ) then
+		return true
+	end
+	
+	return false
+	
+end
+
+function RestoreWeaponTalent()
+
+	ItemGainSilent( g_pid_jingliu, "IID_Transcendent_Flash" )
+	ItemGainSilent( g_pid_jingliu, "IID_Moon_On_Glacial_River" )
+
+	VariableSet( g_key_startup_talent, 0 )
+	
+end
+
+function JingliuRangeDetection( spaces )
+
+	local jingliuX = UnitGetX( g_pid_jingliu )
+	local jingliuZ = UnitGetZ( g_pid_jingliu )
+
+	local index = ForceUnitGetFirst( FORCE_PLAYER )
+	while index != nil do
+		local x = UnitGetX( index )
+		local z = UnitGetZ( index )
+		
+		if ( ( 二点間距離( x, z, jingliuX, jingliuZ ) <= spaces ) ) then
+			return true
+		end
+		
+		index = ForceUnitGetNext(index)
+	end
+
+	return false
+
+end
+
+-- ---------------------------------------------------------
+
+function condition_ReboundRoar()
+
+	if UnitExistOnMap( "PID_N004_幻影狼_GoldenWolf1" ) then
+		if ( UnitGetHp( "PID_N004_幻影狼_GoldenWolf1" ) == 0 ) then
+			VariableSet( g_key_rebound_count, 1 )
+			return true
+		end
+	end
+	
+	if UnitExistOnMap( "PID_N004_幻影狼_GoldenWolf2" ) then
+		if ( UnitGetHp( "PID_N004_幻影狼_GoldenWolf2" ) == 0 ) then
+			VariableSet( g_key_rebound_count, 2 )
+			return true
+		end
+	end
+	
+	if UnitExistOnMap( "PID_N004_幻影狼_GoldenWolf3" ) then
+		if ( UnitGetHp( "PID_N004_幻影狼_GoldenWolf3" ) == 0 ) then
+			VariableSet( g_key_rebound_count, 3 )
+			return true
+		end
+	end
+	
+	return false
+
+end
+
+function ReboundRoar()
+	
+	local golden_wolf = ForceUnitGetFirst( FORCE_ENEMY )
+	
+	if ( VariableGet( g_key_rebound_count ) == 1 ) then
+		golden_wolf = UnitGetPID( "PID_N004_幻影狼_GoldenWolf1" )
+	
+	elseif ( VariableGet( g_key_rebound_count ) == 2 ) then
+		golden_wolf = UnitGetPID( "PID_N004_幻影狼_GoldenWolf2" )
+	
+	elseif ( VariableGet( g_key_rebound_count ) == 3 ) then
+		golden_wolf = UnitGetPID( "PID_N004_幻影狼_GoldenWolf3" )
+	end
+	
+	local golden_wolfX = UnitGetX( golden_wolf )
+	local golden_wolfZ = UnitGetZ( golden_wolf )
+	
+	CursorSetPos_FromPid( golden_wolf )
+	MapCameraWait()
+	
+	UnitPlayAnim( golden_wolf, UNIT_ANIM_ATTACK )
+	WaitTime( 0.4 )
+	
+	local index = ForceUnitGetFirst( FORCE_ENEMY )
+	while index != nil do
+		local x = UnitGetX( index )
+		local z = UnitGetZ( index )
+			
+		if ( ( 二点間距離( x, z, golden_wolfX, golden_wolfZ ) == 1 ) or ( 二点間距離( x, z, golden_wolfX, golden_wolfZ ) == 2 ) ) then
+			
+			EffectPlay( "ステータス上昇", x, z )
+			UnitSetPrivateSkill( index, "SID_Rallying_Howl_効果" )
+		end
+		
+		index = ForceUnitGetNext(index)
+	end
+	
+	WaitTime( 0.4 )
+	
+	UnitClearPrivateSkill( golden_wolf, "SID_不死身" )
+	UnitDie( golden_wolf )
+	WaitTime( 0.2 )
+	
+end
+
+-- ---------------------------------------------------------
+
+function WoodenWolfActive()
+	
+	local turn = MapGetTurn()
+	if ( turn == 5 ) then
+		if UnitExistOnMap( wolf_1 ) then
+			AiSetActive( wolf_1, true )
+		end
+		
+		if UnitExistOnMap( wolf_2 ) then
+			AiSetActive( wolf_2, true )
+		end
+		
+	elseif ( turn == 8 ) then
+		if UnitExistOnMap( wolf_3 ) then
+			AiSetActive( wolf_3, true )
+		end
+		
+		if UnitExistOnMap( wolf_4 ) then
+			AiSetActive( wolf_4, true )
+		end
+	end
+	
+end
+
+function condition_RallyingHowl()
+
+	if ( ( UnitExistOnMap( wolf_1 ) == false ) and ( UnitExistOnMap( wolf_2 ) == false ) and ( UnitExistOnMap( wolf_3 ) == false ) and ( UnitExistOnMap( wolf_4 ) == false ) ) then
+		return false
+	end
+	
+	local check = 0
+	
+	local index = ForceUnitGetFirst( FORCE_PLAYER )
+	while index != nil do
+		local x = UnitGetX( index )
+		local z = UnitGetZ( index )
+		
+		if UnitExistOnMap( wolf_1 ) then
+			if ( ( ( 二点間距離( x, z, UnitGetX( wolf_1 ), UnitGetZ( wolf_1 ) ) <= 7 ) or ( AiGetActive( wolf_1 ) == true ) ) and ( VariableGet( g_key_wolf_summon_1 ) == 0 ) ) then
+				AiSetActive( wolf_1, true )
+				check = 1
+			end
+		end
+		
+		if UnitExistOnMap( wolf_2 ) then
+			if ( ( ( 二点間距離( x, z, UnitGetX( wolf_2 ), UnitGetZ( wolf_2 ) ) <= 7 ) or ( AiGetActive( wolf_2 ) == true ) ) and ( VariableGet( g_key_wolf_summon_2 ) == 0 ) ) then
+				AiSetActive( wolf_2, true )
+				check = 1
+			end
+		end
+		
+		if UnitExistOnMap( wolf_3 ) then
+			if ( ( ( 二点間距離( x, z, UnitGetX( wolf_3 ), UnitGetZ( wolf_3 ) ) <= 7 ) or ( AiGetActive( wolf_3 ) == true ) ) and ( VariableGet( g_key_wolf_summon_3 ) == 0 ) ) then
+				AiSetActive( wolf_3, true )
+				check = 1
+			end
+		end
+		
+		if UnitExistOnMap( wolf_4 ) then
+			if ( ( ( 二点間距離( x, z, UnitGetX( wolf_4 ), UnitGetZ( wolf_4 ) ) <= 7 ) or ( AiGetActive( wolf_4 ) == true ) ) and ( VariableGet( g_key_wolf_summon_4 ) == 0 ) ) then
+				AiSetActive( wolf_4, true )
+				check = 1
+			end
+		end
+		
+		index = ForceUnitGetNext(index)
+	end
+	
+	return check
+
+end
+
+
+function RallyingHowl()
+
+	if ( ( VariableGet( g_key_wolf_summon_1 ) == 0 ) and ( AiGetActive( wolf_1 ) == true ) and ( UnitExistOnMap( wolf_1 ) ) ) then
+		
+		CursorSetPos_FromPid( wolf_1 )
+		MapCameraWait()
+		UnitPlayAnim( wolf_1, UNIT_ANIM_ATTACK )
+		WaitTime(0.3)
+		
+		Dispos( "Enemy_Reinforcement_Shadow1", DISPOS_FLAG_WARP )
+		Yield()
+		WaitTime(0.5)
+		
+		UnitSetStatus( wolf_1, UNIT_STATUS_FIXED )
+		
+		VariableSet( g_key_wolf_summon_1, 1 )
+	end
+
+	if ( ( VariableGet( g_key_wolf_summon_2 ) == 0 ) and ( AiGetActive( wolf_2 ) == true ) and ( UnitExistOnMap( wolf_2 ) ) ) then
+		
+		CursorSetPos_FromPid( wolf_2 )
+		MapCameraWait()
+		UnitPlayAnim( wolf_2, UNIT_ANIM_ATTACK )
+		WaitTime(0.3)
+		
+		Dispos( "Enemy_Reinforcement_Shadow2", DISPOS_FLAG_WARP )
+		Yield()
+		WaitTime(0.5)
+		
+		UnitSetStatus( wolf_2, UNIT_STATUS_FIXED )
+		
+		VariableSet( g_key_wolf_summon_2, 1 )
+	end
+	
+	if ( ( VariableGet( g_key_wolf_summon_3 ) == 0 ) and ( AiGetActive( wolf_3 ) == true ) and ( UnitExistOnMap( wolf_3 ) ) ) then
+		
+		CursorSetPos_FromPid( wolf_3 )
+		MapCameraWait()
+		UnitPlayAnim( wolf_3, UNIT_ANIM_ATTACK )
+		WaitTime(0.3)
+		
+		Dispos( "Enemy_Reinforcement_Shadow3", DISPOS_FLAG_WARP )
+		Yield()
+		WaitTime(0.5)
+		
+		UnitSetStatus( wolf_3, UNIT_STATUS_FIXED )
+		
+		VariableSet( g_key_wolf_summon_3, 1 )
+	end
+	
+	if ( ( VariableGet( g_key_wolf_summon_4 ) == 0 ) and ( AiGetActive( wolf_4 ) == true ) and ( UnitExistOnMap( wolf_4 ) ) ) then
+		
+		CursorSetPos_FromPid( wolf_4 )
+		MapCameraWait()
+		UnitPlayAnim( wolf_4, UNIT_ANIM_ATTACK )
+		WaitTime(0.3)
+		
+		Dispos( "Enemy_Reinforcement_Shadow4", DISPOS_FLAG_WARP )
+		Yield()
+		WaitTime(0.5)
+		
+		UnitSetStatus( wolf_4, UNIT_STATUS_FIXED )
+		
+		VariableSet( g_key_wolf_summon_4, 1 )
+	end
+
+end
+
+-- ----------------------------------------------------
+
+function condition_BattleReinforcement1()
+
+	if ( VariableGet( g_key_remove_support ) == 1 ) then
+		return false
+	end
+	
+	if ( ( UnitExistOnMap( "PID_N004_幻影兵_Summoner1" ) == false ) and ( UnitExistOnMap( "PID_N004_幻影兵_Summoner2" ) == false ) ) then
+		return false
+	end
+	
+	local turn = MapGetTurn()
+	if ( ( turn % 3 ) == 0 ) then
+		return true
+	end
+	
+	return false
+	
+end
+
+function BattleReinforcement1()
+
+	if ( UnitExistOnMap( "PID_N004_幻影兵_Summoner1" ) ) then
+		if ( UnitGetHp( "PID_N004_幻影兵_Summoner1" ) > 10 ) then
+		
+			CursorSetPos_FromPid( "PID_N004_幻影兵_Summoner1" )
+			MapCameraWait()
+			
+			UnitPlayAnim( "PID_N004_幻影兵_Summoner1", UNIT_ANIM_ROD )
+			WaitTime( 0.5 )
+			
+			MapDamageBegin()
+			MapDamageAdd( "PID_N004_幻影兵_Summoner1", 10 )	
+			MapDamageEnd()
+			
+			UnitSetStatus( "PID_N004_幻影兵_Summoner1", UNIT_STATUS_FIXED )
+
+			Dispos( "Enemy_Reinforcement1_Left", DISPOS_FLAG_FOCUS + DISPOS_FLAG_FORCED + DISPOS_FLAG_WARP )
+			Yield()
+			WaitTime( 0.5 )
+
+		end
+	end
+	
+	if ( UnitExistOnMap( "PID_N004_幻影兵_Summoner2" ) ) then
+		if ( UnitGetHp( "PID_N004_幻影兵_Summoner2" ) > 10 ) then
+		
+			CursorSetPos_FromPid( "PID_N004_幻影兵_Summoner2" )
+			MapCameraWait()
+			
+			UnitPlayAnim( "PID_N004_幻影兵_Summoner2", UNIT_ANIM_ROD )
+			WaitTime( 0.5 )
+			
+			MapDamageBegin()
+			MapDamageAdd( "PID_N004_幻影兵_Summoner2", 10 )	
+			MapDamageEnd()
+			
+			UnitSetStatus( "PID_N004_幻影兵_Summoner2", UNIT_STATUS_FIXED )
+
+			Dispos( "Enemy_Reinforcement1_Right", DISPOS_FLAG_FOCUS + DISPOS_FLAG_FORCED + DISPOS_FLAG_WARP )
+			Yield()
+			WaitTime( 0.5 )
+				
+		end
+	end
+	
+end
+
+-- ----------------------------------------------------
+
+function condition_RemoveSummoners()
+
+	if ( VariableGet( g_key_remove_support ) == 1 ) then
+		return false
+	end
+	
+	local count = 0
+	local index = ForceUnitGetFirst( FORCE_ENEMY )
+	while index != nil do
+		if ( ( UnitGetPID( index ) != "PID_N004_幻影兵_グリフォンナイト" ) or ( UnitGetPID( index ) != "PID_N004_幻影兵_ドラゴンナイト" ) ) then
+			count = count + 1
+		end
+		index = ForceUnitGetNext(index)
+	end
+	
+	if ( ( AiGetActive( g_pid_jingliu ) == true ) and ( count <= 20 ) ) then
+		return true
+	end
+	
+	return ( count <= 10 )
+
+end
+
+function RemoveSummoners()
+
+	local remove = 0
+
+	if ( UnitExistOnMap( "PID_N004_幻影兵_Summoner1" ) ) then
+		CursorSetPos_FromPid( "PID_N004_幻影兵_Summoner1" )
+		MapCameraWait()
+				
+		EffectPlay( "ワープアウト", UnitGetX( "PID_N004_幻影兵_Summoner1" ), UnitGetZ( "PID_N004_幻影兵_Summoner1" ) )
+		WaitTime( 0.3 )
+		
+		UnitDelete( "PID_N004_幻影兵_Summoner1" )
+		WaitTime( 0.5 )
+		
+		remove = remove + 1
+	end
+	
+	if ( UnitExistOnMap( "PID_N004_幻影兵_Summoner2" ) ) then
+		CursorSetPos_FromPid( "PID_N004_幻影兵_Summoner2" )
+		MapCameraWait()
+				
+		EffectPlay( "ワープアウト", UnitGetX( "PID_N004_幻影兵_Summoner2" ), UnitGetZ( "PID_N004_幻影兵_Summoner2" ) )
+		WaitTime( 0.3 )
+		
+		UnitDelete( "PID_N004_幻影兵_Summoner2" )
+		WaitTime( 0.5 )
+		
+		remove = remove + 1
+	end
+	
+	if ( remove == 1 ) then
+		Talk( "MID_N4EV7" )
+
+	elseif ( remove == 2 ) then
+		Talk( "MID_N4EV8" )
+
+	end
+	
+	VariableSet( g_key_remove_support, 1 )
+
+end
+
+-- ----------------------------------------------------
+
+function BattleReinforcement2()
+	Dispos( "Enemy_Reinforcement2", DISPOS_FLAG_FOCUS )
+	Yield()
+	WaitTime( 0.5 )
+end
+
+-- ----------------------------------------------------
+
+function condition_BattleReinforcement3()
+
+	if ( VariableGet( g_key_wolf_return ) == 1 ) then
+		return false
+	end
+
+	if ( ( UnitExistOnMap( "PID_N004_幻影狼_GoldenWolf3" ) == false ) and ( VariableGet( g_key_wolf_return ) == 0 ) ) then
+		return true
+	end
+	
+	return false
+	
+end
+
+function BattleReinforcement3()
+	
+	CursorSetPos(12, 22)
+	MapCameraWait()
+	
+	Dispos( "Enemy_Reinforcement3", DISPOS_FLAG_FOCUS )
+	Yield()
+	WaitTime( 0.5 )
+	
+	VariableSet( g_key_wolf_return, 1 )
+	
+	UnitSetItemEquip( g_pid_jingliu, "IID_Moon_On_Glacial_River" )
+
+end
+
+-- ----------------------------------------------------
+
+function JingliuEnd()
+	
+	VariableSet( g_key_jingliu_defeat, 1 )
+	
+end
+
+function condition_JingliuDefeat()
+	
+	if VariableGet( g_key_jingliu_defeat ) == 1 then
+		return true
+	end
+	
+	return false
+	
+end
+
+function JingliuDefeat()
+
+	VariableSet( g_key_jingliu_defeat, 0 )
+	VariableSet( "勝利", 1 )
+	
+end
+
+
+-- ---------------------------------------------------------
+
+function MapEnding()
+	
+	SoundPostEvent("Stop_BGM_Slow")
+	SoundPostEvent("BGM_Evt_Amb_Xianzhou_02")
+	
+	CursorSetPos_FromPid( g_pid_jingliu )
+	Talk( "MID_N4EV9" )
+	
+	SoundPostEvent("Stop_BGM_Slow")
+	
+	Log("MapEnding")
+	
+end
+
+function Ending()
+	
+	Log("Ending")
+	
+end
+
+function GameOver()
+	
+	Log("GameOver")
+	
+end

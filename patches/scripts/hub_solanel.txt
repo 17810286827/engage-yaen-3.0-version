@@ -1,0 +1,684 @@
+-- 参照ファイル
+Include("Common")
+Include("Hub_Common")
+
+Include("Hub_SolanelCommon_P0")
+Include("Hub_SolanelCommon_P1")
+Include("Hub_SolanelCommon_P2")
+Include("Hub_SolanelCommon_P3")
+
+-- -----------------------------------
+
+function Startup()
+	
+	Log("Startup")
+
+end
+
+function Cleanup()
+	
+	Log("Cleanup")
+	
+end
+
+-- -----------------------------------
+
+function Opening()
+	
+	Log("Solanel Opening")
+
+	HubSolanelEvilEnd()
+
+
+	if (TryVariable("G_邪龙角色加入") == false and VariableGet( "G_所持_IID_解锁邪龙之章角色") > 0) then
+	VariableEntry("G_邪龙角色加入", 1)
+		MessLoad("E006")
+		PuppetDemo("E006", "MID_ED2")
+		Movie("E07")
+		SkipEscape()
+	UnitJoin( "PID_セレスティア", "PID_グレゴリー", "PID_マデリーン" )
+		WaitTime(0.2)
+		PuppetDemo("E006", "MID_ED3")	
+		MessFree("E006")
+	UnitJoin( "PID_エル", "PID_ラファール" )
+	UnitLearnJobSkill("PID_セレスティア")
+	UnitLearnJobSkill("PID_グレゴリー")
+	UnitLearnJobSkill("PID_マデリーン")
+	UnitLearnJobSkill("PID_エル")
+	UnitLearnJobSkill("PID_ラファール")
+		WaitTime(0.2)
+	end
+
+end
+
+function MapOpening()
+
+	Log("MapOpening")
+
+
+	-- 道具入手大力出奇迹礼包
+	if  ( VariableGet( "G_所持_IID_大力出奇迹礼包") > 0 and TryVariable("G_大力出奇迹礼包") == false ) then
+	VariableEntry("G_大力出奇迹礼包", 1)
+	ItemGift("大力出奇迹礼包", "MID_Dalichuqiji")
+	end
+
+	-- 增幅模式礼包
+	if  ( HubIsCompleteChapter("S003") and TryVariable("G_S003礼包") == false ) then
+	VariableEntry("G_S003礼包", 1)
+	ItemGain(nil,"IID_技能书三类-增幅模式")
+	end
+	if  ( HubIsCompleteChapter("S004") and TryVariable("G_S004礼包") == false ) then
+	VariableEntry("G_S004礼包", 1)
+	ItemGain(nil,"IID_技能书三类-增幅模式")
+	end
+	if  ( HubIsCompleteChapter("S005") and TryVariable("G_S005礼包") == false ) then
+	VariableEntry("G_S005礼包", 1)
+	ItemGain(nil,"IID_技能书三类-增幅模式")
+	end
+	if  ( HubIsCompleteChapter("S006") and TryVariable("G_S006礼包") == false ) then
+	VariableEntry("G_S006礼包", 1)
+	ItemGain(nil,"IID_技能书三类-增幅模式")
+	end
+	if  ( HubIsCompleteChapter("S007") and TryVariable("G_S007礼包") == false ) then
+	VariableEntry("G_S007礼包", 1)
+	ItemGain(nil,"IID_技能书三类-增幅模式")
+	end
+	if  ( HubIsCompleteChapter("S008") and TryVariable("G_S008礼包") == false ) then
+	VariableEntry("G_S008礼包", 1)
+	ItemGain(nil,"IID_技能书三类-增幅模式")
+	end
+	if  ( HubIsCompleteChapter("S009") and TryVariable("G_S009礼包") == false ) then
+	VariableEntry("G_S009礼包", 1)
+	ItemGain(nil,"IID_技能书三类-增幅模式")
+	end
+	if  ( HubIsCompleteChapter("S010") and TryVariable("G_S010礼包") == false ) then
+	VariableEntry("G_S010礼包", 1)
+	ItemGain(nil,"IID_技能书三类-增幅模式")
+	end
+	if  ( HubIsCompleteChapter("S011") and TryVariable("G_S011礼包") == false ) then
+	VariableEntry("G_S011礼包", 1)
+	ItemGain(nil,"IID_技能书三类-增幅模式")
+	end
+	if  ( HubIsCompleteChapter("S012") and TryVariable("G_S012礼包") == false ) then
+	VariableEntry("G_S012礼包", 1)
+	ItemGain(nil,"IID_技能书三类-增幅模式")
+	end
+	if  ( HubIsCompleteChapter("S013") and TryVariable("G_S013礼包") == false ) then
+	VariableEntry("G_S013礼包", 1)
+	ItemGain(nil,"IID_技能书三类-增幅模式")
+	end
+	if  ( HubIsCompleteChapter("S014") and TryVariable("G_S014礼包") == false ) then
+	VariableEntry("G_S014礼包", 1)
+	ItemGain(nil,"IID_技能书三类-增幅模式")
+	end
+	if  ( HubIsCompleteChapter("E006") and TryVariable("G_E006礼包") == false ) then
+	VariableEntry("G_E006礼包", 1)
+	ItemGain(nil,"IID_技能书三类-增幅模式")
+	end
+	if  ( HubIsCompleteChapter("G001") and HubIsCompleteChapter("G002") and HubIsCompleteChapter("G003") and TryVariable("G_G001礼包") == false ) then
+	VariableEntry("G_G001礼包", 1)
+	ItemGain(nil,"IID_技能书三类-增幅模式")
+	end
+
+	if  ( HubIsCompleteChapter("G004") and HubIsCompleteChapter("G005") and HubIsCompleteChapter("G006") and TryVariable("G_G002礼包") == false ) then
+	VariableEntry("G_G002礼包", 1)
+	ItemGain(nil,"IID_技能书三类-增幅模式")
+	end
+
+	-- 战技礼包
+	if  ( HubIsCompleteChapter("S003") and TryVariable("G_S003战技礼包") == false ) then
+	VariableEntry("G_S003战技礼包", 1)
+	ItemGift("战技礼包S003", "MID_ZJLB")
+	end
+	if  ( HubIsCompleteChapter("S004") and TryVariable("G_S004战技礼包") == false ) then
+	VariableEntry("G_S004战技礼包", 1)
+	ItemGift("战技礼包S004", "MID_ZJLB")
+	end
+	if  ( HubIsCompleteChapter("S005") and TryVariable("G_S005战技礼包") == false ) then
+	VariableEntry("G_S005战技礼包", 1)
+	ItemGift("战技礼包S005", "MID_ZJLB")
+	end
+	if  ( HubIsCompleteChapter("S006") and TryVariable("G_S006战技礼包") == false ) then
+	VariableEntry("G_S006战技礼包", 1)
+	ItemGift("战技礼包S006", "MID_ZJLB")
+	end
+	if  ( HubIsCompleteChapter("S007") and TryVariable("G_S007战技礼包") == false ) then
+	VariableEntry("G_S007战技礼包", 1)
+	ItemGift("战技礼包S007", "MID_ZJLB")
+	end
+	if  ( HubIsCompleteChapter("S008") and TryVariable("G_S008战技礼包") == false ) then
+	VariableEntry("G_S008战技礼包", 1)
+	ItemGift("战技礼包S008", "MID_ZJLB")
+	end
+	if  ( HubIsCompleteChapter("S009") and TryVariable("G_S009战技礼包") == false ) then
+	VariableEntry("G_S009战技礼包", 1)
+	ItemGift("战技礼包S009", "MID_ZJLB")
+	end
+	if  ( HubIsCompleteChapter("S010") and TryVariable("G_S010战技礼包") == false ) then
+	VariableEntry("G_S010战技礼包", 1)
+	ItemGift("战技礼包S010", "MID_ZJLB")
+	end
+	if  ( HubIsCompleteChapter("S011") and TryVariable("G_S011战技礼包") == false ) then
+	VariableEntry("G_S011战技礼包", 1)
+	ItemGift("战技礼包S011", "MID_ZJLB")
+	end
+	if  ( HubIsCompleteChapter("S012") and TryVariable("G_S012战技礼包") == false ) then
+	VariableEntry("G_S012战技礼包", 1)
+	ItemGift("战技礼包S012", "MID_ZJLB")
+	end
+	if  ( HubIsCompleteChapter("S013") and TryVariable("G_S013战技礼包") == false ) then
+	VariableEntry("G_S013战技礼包", 1)
+	ItemGift("战技礼包S013", "MID_ZJLB")
+	end
+	if  ( HubIsCompleteChapter("S014") and TryVariable("G_S014战技礼包") == false ) then
+	VariableEntry("G_S014战技礼包", 1)
+	ItemGift("战技礼包S014", "MID_ZJLB")
+	end
+	if  ( HubIsCompleteChapter("S015") and TryVariable("G_S015战技礼包") == false ) then
+	VariableEntry("G_S015战技礼包", 1)
+	ItemGift("战技礼包S015", "MID_ZJLB")
+	end
+
+	-- 纹章士提前解锁
+	if ( VariableGet( "G_所持_IID_解锁结合+") > 0 ) and ( GodUnitExists("GID_亚恩幕影_秩序")==true )  then
+	GodUnitSetEscape("GID_亚恩幕影_秩序",			true)
+	end
+
+	if ( VariableGet( "G_所持_IID_解锁结合+") > 0 ) and ( GodUnitExists("GID_亚恩幕影秩序")==true )  then
+	GodUnitSetEscape("GID_亚恩幕影秩序",			true)
+	end
+
+	if ( VariableGet( "G_所持_IID_解锁结合+") > 0 ) and ( GodUnitExists("GID_亚恩幕影")==false )  then
+	GodUnitCreate("GID_亚恩幕影")
+	end
+
+	if ( VariableGet( "G_所持_IID_解锁结合+") > 0 ) and ( GodUnitExists("GID_リュール")==false )  then
+	GodUnitCreate("GID_リュール")
+	end
+
+	if ( VariableGet( "G_所持_IID_解锁戒指-米卡雅") > 0 and GodUnitExists("GID_ミカヤ")==false ) then
+		GodUnitCreate("GID_ミカヤ")
+	end
+	if ( VariableGet( "G_所持_IID_解锁戒指-罗伊") > 0 and GodUnitExists("GID_ロイ")==false ) then
+		GodUnitCreate("GID_ロイ")
+	end
+	if ( VariableGet( "G_所持_IID_解锁戒指-里弗") > 0 and GodUnitExists("GID_リーフ")==false ) then
+		GodUnitCreate("GID_リーフ")
+	end
+	if ( VariableGet( "G_所持_IID_解锁戒指-露琪娜") > 0 and GodUnitExists("GID_ルキナ")==false ) then
+		GodUnitCreate("GID_ルキナ")
+	end
+	if ( VariableGet( "G_所持_IID_解锁戒指-琳") > 0 and GodUnitExists("GID_リン")==false ) then
+		GodUnitCreate("GID_リン")
+	end
+	if ( VariableGet( "G_所持_IID_解锁戒指-艾克") > 0 and GodUnitExists("GID_アイク")==false ) then
+		GodUnitCreate("GID_アイク")
+	end
+	if ( VariableGet( "G_所持_IID_解锁戒指-贝雷特") > 0 and GodUnitExists("GID_ベレト")==false ) then
+		GodUnitCreate("GID_ベレト")
+	end
+	if ( VariableGet( "G_所持_IID_解锁戒指-神威") > 0 and GodUnitExists("GID_カムイ")==false ) then
+		GodUnitCreate("GID_カムイ")
+	end
+	if ( VariableGet( "G_所持_IID_解锁戒指-艾莉可") > 0 and GodUnitExists("GID_エイリーク")==false ) then
+		GodUnitCreate("GID_エイリーク")
+	end
+	if ( VariableGet( "G_所持_IID_解锁手镯-琪姬") > 0 ) then
+		if GodUnitExists("GID_チキ")==false then
+		GodUnitCreate("GID_チキ")
+		end
+	GodUnitSetEscape("GID_チキ",false)
+	end
+
+	if ( VariableGet( "G_所持_IID_解锁手镯-海克托尔") > 0 ) then
+		if GodUnitExists("GID_ヘクトル")==false then
+		GodUnitCreate("GID_ヘクトル")
+		end
+	GodUnitSetEscape("GID_ヘクトル",false)
+	end
+
+	if ( VariableGet( "G_所持_IID_解锁手镯-维罗妮卡") > 0 ) then
+		if GodUnitExists("GID_ヴェロニカ")==false then
+		GodUnitCreate("GID_ヴェロニカ")
+		end
+	GodUnitSetEscape("GID_ヴェロニカ",false)
+	end
+
+	if ( VariableGet( "G_所持_IID_解锁手镯-塞涅里欧") > 0 ) then
+		if GodUnitExists("GID_セネリオ")==false then
+		GodUnitCreate("GID_セネリオ")
+		end
+	GodUnitSetEscape("GID_セネリオ",false)
+	end
+
+	if ( VariableGet( "G_所持_IID_解锁手镯-卡美拉") > 0 ) then
+		if GodUnitExists("GID_カミラ")==false then
+		GodUnitCreate("GID_カミラ")
+		end
+	GodUnitSetEscape("GID_カミラ",false)
+	end
+
+	if ( VariableGet( "G_所持_IID_解锁手镯-库洛武") > 0 ) then
+		if GodUnitExists("GID_クロム")==false then
+		GodUnitCreate("GID_クロム")
+		end
+	GodUnitSetEscape("GID_クロム",false)
+	end
+		
+	if ( VariableGet( "G_所持_IID_解锁纹章士不离队") > 0)  and ( HubIsCompleteChapter("M011") ) then
+	GodUnitSetEscape("GID_マルス",			false)
+	GodUnitSetEscape("GID_シグルド",	                false)
+	GodUnitSetEscape("GID_セリカ",		false)
+	GodUnitSetEscape("GID_ミカヤ",		false)
+	GodUnitSetEscape("GID_ロイ",		false)
+	GodUnitSetEscape("GID_リーフ",		false)
+	GodUnitSetEscape("GID_ルキナ",			false)
+	GodUnitSetEscape("GID_リン",	                false)
+	GodUnitSetEscape("GID_アイク",		false)
+	GodUnitSetEscape("GID_ベレト",		false)
+	GodUnitSetEscape("GID_カムイ",		false)
+	GodUnitSetEscape("GID_エイリーク",		false)
+	end
+
+	-- 道具礼包
+	if  ( HubIsCompleteChapter("M005") and TryVariable("G_伊芙礼包") == false ) then
+	VariableEntry("G_伊芙礼包", 1)
+	ItemGift("伊芙礼包", "MID_FLNLB")
+	end
+
+	if  ( HubIsCompleteChapter("M003") and TryVariable("G_圣地里特司礼包") == false ) then
+	VariableEntry("G_圣地里特司礼包", 1)
+	ItemGift("圣地里特司礼包", "MID_SDLTSLB")
+	end
+
+	if  ( HubIsCompleteChapter("M003") and TryVariable("G_惊喜礼包") == false ) then
+	VariableEntry("G_惊喜礼包", 1)
+	ItemGift("惊喜礼包", "MID_JXLB")
+	end
+
+	if  ( HubIsCompleteChapter("M003") and TryVariable("G_惊喜礼包1") == false ) then
+	VariableEntry("G_惊喜礼包1", 1)
+	ItemGift("惊喜礼包1", "MID_JXLB")
+	end
+
+	if  ( HubIsCompleteChapter("M011") and TryVariable("G_惊喜礼包2") == false ) then
+	VariableEntry("G_惊喜礼包2", 1)
+	ItemGift("惊喜礼包2", "MID_JXLB")
+	end
+
+	if  ( HubIsCompleteChapter("M005") and TryVariable("G_费列聂礼包") == false ) then
+	VariableEntry("G_费列聂礼包", 1)
+	ItemGift("费列聂礼包", "MID_FLNLB")
+	end
+
+	if  ( HubIsCompleteChapter("M008") and TryVariable("G_布罗帝亚礼包") == false ) then
+	VariableEntry("G_布罗帝亚礼包", 1)
+	ItemGift("布罗帝亚礼包", "MID_BLDYLB")
+	end
+
+	if  ( HubIsCompleteChapter("M014") and TryVariable("G_索尔姆礼包") == false ) then
+	VariableEntry("G_索尔姆礼包", 1)
+	ItemGift("索尔姆礼包", "MID_SEMLB")
+	end
+
+	if  ( HubIsCompleteChapter("M017") and TryVariable("G_伊尔席翁礼包") == false ) then
+	VariableEntry("G_伊尔席翁礼包", 1)
+	ItemGift("伊尔席翁礼包", "MID_YEXWLB")
+	end
+
+	if  ( HubIsCompleteChapter("M022") and TryVariable("G_古拉铎隆礼包") == false ) then
+	VariableEntry("G_古拉铎隆礼包", 1)
+	ItemGift("古拉铎隆礼包", "MID_GDDLLB")
+	end
+
+	if  ( TryVariable("G_结合加礼包") == false and GodUnitExists("GID_リュール")==true ) then
+	VariableEntry("G_结合加礼包", 1)
+	ItemGain(nil,"IID_欧里格帝亚")
+	ItemGain(nil,"IID_莱拉西昂")
+	end
+
+	-- 附魔师、魔法加农炮兵开放转职
+	if (HubIsCompleteChapter("M003") and TryVariable("G_转职") == false) then
+	VariableEntry("G_转职", 1)
+	VariableSet("G_CC_マージカノン",1)
+	VariableSet("G_CC_エンチャント",1)
+	end
+
+	-- 索拉满支援奖励
+	if ( VariableGet(g_key_mascot_point) >= 20 ) and ( VariableGet( "G_所持_IID_シルバーカード") == 0 )then
+	ItemGift("索拉礼包1", "MID_SUOLA1")
+	end
+
+	if ( VariableGet(g_key_mascot_point) >= 40 ) and ( TryVariable("G_操杖") == false )then
+	VariableEntry("G_操杖", 1)
+	ItemGift("索拉礼包2", "MID_SUOLA2")
+	end
+
+	if ( VariableGet(g_key_mascot_point) >= 60 ) and ( TryVariable("G_炮弹掌握") == false )then
+	VariableEntry("G_炮弹掌握", 1)
+	ItemGift("索拉礼包3", "MID_SUOLA3")
+	end
+
+	if ( VariableGet(g_key_mascot_point) >= 80 ) and ( TryVariable("G_龙石掌握") == false )then
+	VariableEntry("G_龙石掌握", 1)
+	ItemGift("索拉礼包4", "MID_SUOLA4")
+	end
+
+	if ( VariableGet(g_key_mascot_point) == 100 ) and ( TryVariable("G_索拉宠物") == false )then
+	VariableEntry("G_索拉宠物", 1)
+	ItemGift("索拉礼包5", "MID_SUOLA5")
+	end
+
+	-- 人物加入
+	if (HubIsCompleteChapter("M003") and not UnitIsExist( "PID_Jingliu") ) then
+	UnitJoin("PID_Jingliu")
+	UnitLearnJobSkill("PID_Jingliu")
+	end	
+	if (HubIsCompleteChapter("M003") and not UnitIsExist( "PID_马尔斯") and not UnitIsExist( "PID_S马尔斯") ) then
+	UnitJoin("PID_马尔斯")
+	UnitLearnJobSkill("PID_马尔斯")
+	end
+	if (HubIsCompleteChapter("M003") and not UnitIsExist( "PID_西格尔特") and not UnitIsExist( "PID_S西格尔特") ) then
+	UnitJoin("PID_西格尔特")
+	UnitLearnJobSkill("PID_西格尔特")
+	end
+	if (HubIsCompleteChapter("M004") and not UnitIsExist( "PID_赛莉卡") and not UnitIsExist( "PID_S赛莉卡") ) then
+	UnitJoin("PID_赛莉卡")
+	UnitLearnJobSkill("PID_赛莉卡")
+	end
+	if (HubIsCompleteChapter("M004") and not UnitIsExist( "PID_ヴェイル") ) then
+	UnitJoin("PID_ヴェイル")
+	UnitLearnJobSkill("PID_ヴェイル")
+	end
+
+	if (HubIsCompleteChapter("M005") and not UnitIsExist( "PID_伊芙") and not UnitIsExist( "PID_S伊芙") ) then
+	UnitJoin("PID_伊芙")
+	UnitLearnJobSkill("PID_伊芙")
+	end
+	if (HubIsCompleteChapter("M006") and not UnitIsExist( "PID_米卡雅") and not UnitIsExist( "PID_S米卡雅") ) then
+	UnitJoin("PID_米卡雅")
+	UnitLearnJobSkill("PID_米卡雅")
+	end
+	if (HubIsCompleteChapter("M008") and not UnitIsExist( "PID_罗伊") and not UnitIsExist( "PID_S罗伊") ) then
+	UnitJoin("PID_罗伊")
+	UnitLearnJobSkill("PID_罗伊")
+	end
+	if (HubIsCompleteChapter("M008") and not UnitIsExist( "PID_里弗") and not UnitIsExist( "PID_S里弗") ) then
+	UnitJoin("PID_里弗")
+	UnitLearnJobSkill("PID_里弗")
+	end
+	if (HubIsCompleteChapter("M008") and not UnitIsExist( "PID_莱因哈特") and not UnitIsExist( "PID_S莱因哈特") ) then
+	UnitJoin("PID_莱因哈特")
+	UnitLearnJobSkill("PID_莱因哈特")
+	end
+	if (HubIsCompleteChapter("M011") and not UnitIsExist( "PID_露琪娜") and not UnitIsExist( "PID_S露琪娜") ) then
+	UnitJoin("PID_露琪娜")
+	UnitLearnJobSkill("PID_露琪娜")
+	end
+	if (HubIsCompleteChapter("M011") and not UnitIsExist( "PID_琳") and not UnitIsExist( "PID_S琳") ) then
+	UnitJoin("PID_琳")
+	UnitLearnJobSkill("PID_琳")
+	end
+	if (HubIsCompleteChapter("M013") and not UnitIsExist( "PID_艾克") and not UnitIsExist( "PID_S艾克") ) then
+	UnitJoin("PID_艾克")
+	UnitLearnJobSkill("PID_艾克")
+	end
+	if (HubIsCompleteChapter("M014") and not UnitIsExist( "PID_贝雷特") and not UnitIsExist( "PID_S贝雷特") ) then
+	UnitJoin("PID_贝雷特")
+	UnitLearnJobSkill("PID_贝雷特")
+	end
+	if (HubIsCompleteChapter("M014") and not UnitIsExist( "PID_丝弗丽雅") and not UnitIsExist( "PID_S丝弗丽雅") ) then
+	UnitJoin( "PID_丝弗丽雅" )
+	UnitLearnJobSkill("PID_丝弗丽雅")
+	end
+	if (HubIsCompleteChapter("M015") and not UnitIsExist( "PID_神威") and not UnitIsExist( "PID_S神威") ) then
+	UnitJoin("PID_神威")
+	UnitLearnJobSkill("PID_神威")
+	end
+	if (HubIsCompleteChapter("M016") and not UnitIsExist( "PID_艾莉可") and not UnitIsExist( "PID_S艾莉可") ) then
+	UnitJoin("PID_艾莉可")
+	UnitLearnJobSkill("PID_艾莉可")
+	end
+	if (HubIsCompleteChapter("M016") and not UnitIsExist( "PID_艾夫拉姆") and not UnitIsExist( "PID_S艾夫拉姆") ) then
+	UnitJoin("PID_艾夫拉姆")
+	UnitLearnJobSkill("PID_艾夫拉姆")
+	end
+	if (VariableGet( "G_所持_IID_召唤石-尚卜尔") > 0 and not UnitIsExist( "PID_尚卜尔") and not UnitIsExist( "PID_S尚卜尔") ) then
+	UnitJoin("PID_尚卜尔")
+	UnitLearnJobSkill("PID_尚卜尔")
+	end
+	if (GodUnitExists("GID_チキ")==true and not UnitIsExist( "PID_琪姬") and not UnitIsExist( "PID_S琪姬") ) then
+	UnitJoin("PID_琪姬")
+	UnitLearnJobSkill("PID_琪姬")
+	end
+	if (GodUnitExists("GID_ヘクトル")==true and not UnitIsExist( "PID_海克托尔") and not UnitIsExist( "PID_S海克托尔") ) then
+	UnitJoin("PID_海克托尔")
+	UnitLearnJobSkill("PID_海克托尔")
+	end
+	if (GodUnitExists("GID_ヴェロニカ")==true and not UnitIsExist( "PID_维罗妮卡") and not UnitIsExist( "PID_S维罗妮卡") ) then
+	UnitJoin("PID_维罗妮卡")
+	UnitLearnJobSkill("PID_维罗妮卡")
+	end
+	if (GodUnitExists("GID_セネリオ")==true and not UnitIsExist( "PID_塞涅里欧") and not UnitIsExist( "PID_S塞涅里欧") ) then
+	UnitJoin("PID_塞涅里欧")
+	UnitLearnJobSkill("PID_塞涅里欧")
+	end
+	if (GodUnitExists("GID_カミラ")==true and not UnitIsExist( "PID_卡美拉") and not UnitIsExist( "PID_S卡美拉") ) then
+	UnitJoin("PID_卡美拉")
+	UnitLearnJobSkill("PID_卡美拉")
+	end
+	if (GodUnitExists("GID_クロム")==true and not UnitIsExist( "PID_库洛武") and not UnitIsExist( "PID_S库洛武") ) then
+	UnitJoin("PID_库洛武")
+	UnitLearnJobSkill("PID_库洛武")
+	end
+	if (GodUnitExists("GID_クロム")==true and not UnitIsExist( "PID_鲁弗莱") and not UnitIsExist( "PID_S鲁弗莱") ) then
+	UnitJoin("PID_鲁弗莱")
+	UnitLearnJobSkill("PID_鲁弗莱")
+	end
+	if (VariableGet( "G_所持_IID_复活石-莫力翁") > 0 and not UnitIsExist( "PID_莫力翁") and not UnitIsExist( "PID_S莫力翁") ) then
+	UnitJoin("PID_莫力翁")
+	UnitLearnJobSkill("PID_莫力翁")
+	end
+	if (VariableGet( "G_所持_IID_复活石-海亚信斯") > 0 and not UnitIsExist( "PID_海亚信斯") and not UnitIsExist( "PID_S海亚信斯") ) then
+	UnitJoin("PID_海亚信斯")
+	UnitLearnJobSkill("PID_海亚信斯")
+	end
+	if (VariableGet( "G_所持_IID_复活石-琉弥艾尔") > 0 and not UnitIsExist( "PID_琉弥艾尔") and not UnitIsExist( "PID_S琉弥艾尔") ) then
+	UnitJoin("PID_琉弥艾尔")
+	UnitLearnJobSkill("PID_琉弥艾尔")
+	end
+
+	if (VariableGet( "G_所持_IID_人物卡主角") > 0 and not UnitIsExist( "PID_男琉尔") and not UnitIsExist( "PID_女琉尔") ) then
+		if UnitHasWholeSkill("PID_リュール","SID_主人公女性" ) then
+		UnitJoin("PID_男琉尔")
+		else
+		UnitJoin("PID_女琉尔")
+		end
+	end
+
+	if (HubIsCompleteChapter("M022") and HubIsCompleteChapter("S005") and not UnitIsExist( "PID_瓦尤") ) then
+	UnitJoin("PID_瓦尤")
+	end
+	if (HubIsCompleteChapter("M022") and not UnitIsExist( "PID_Yaoling") ) then
+	UnitJoin("PID_Yaoling")
+	end
+
+	-- 原版脚本
+	if (HubIsCompleteChapter("M004") == false) then
+		Tutorial("TUTID_拠点")
+	end
+
+	if (HubIsCompleteChapter("M004") and TryVariable("G_拠点_武器道具屋") == false) then
+		VariableEntry("G_拠点_武器道具屋", 1)
+		Notice("MID_TUT_HUB_WEAPONSHOP_OPEN")
+	end
+	
+	if (HubIsCompleteChapter("M004") and TryVariable("G_拠点_紋章士の間") == false) then
+		VariableEntry("G_拠点_紋章士の間", 1)
+		Notice("MID_TUT_HUB_HERALDICSPACE_OPEN")
+	end
+	
+	if (HubIsCompleteChapter("M004") and TryVariable("G_拠点_マスコット") == false) then
+		VariableEntry("G_拠点_マスコット", 1)
+		Notice("MID_TUT_HUB_MASCOT_OPEN")
+	end
+
+	if (HubIsCompleteChapter("M005") and TryVariable("G_拠点_錬成アクセサリ屋") == false) then
+		VariableEntry("G_拠点_錬成アクセサリ屋", 1)
+		Notice("MID_TUT_HUB_DRILLINGSHOP_OPEN")
+	end
+
+	if (HubIsCompleteChapter("M005") and TryVariable("G_拠点_闘技場") == false) then
+		VariableEntry("G_拠点_闘技場", 1)
+		Notice("MID_TUT_HUB_ARENA_OPEN")
+	end
+
+	if (HubIsCompleteChapter("M006") and TryVariable("G_拠点_エンゲージ武器強化") == false) then
+		VariableEntry("G_拠点_エンゲージ武器強化", 1)
+		Notice("MID_TUT_HUB_ENGWEAPON_REFINE_OPEN")
+	end
+
+	if (HubIsCompleteChapter("M026") and TryVariable("G_拠点_スタッフロール") == false) then
+		VariableEntry("G_拠点_スタッフロール", 1)
+		Notice("MID_Hub_MyRoom_Piano_Release")
+	end
+
+	-- 筋肉体操
+	if HubIsFacilityComplete("AID_筋肉体操") and TryVariable("G_拠点_筋肉体操通知") == false then
+		VariableEntry("G_拠点_筋肉体操通知", 1)
+		Notice("MID_TUT_HUB_MUSCLEEXERCISES_OPEN")
+	end
+	
+	-- 動物小屋
+	if HubIsFacilityComplete("AID_動物小屋") and TryVariable("G_拠点_動物小屋通知") == false then
+		VariableEntry("G_拠点_動物小屋通知", 1)
+		Notice("MID_TUT_HUB_ANIMAL_OPEN")
+	end
+
+	-- amiiboスポット
+	if HubIsFacilityComplete("AID_アミーボスポット") and TryVariable("G_拠点_アミーボスポット通知") == false then
+		VariableEntry("G_拠点_アミーボスポット通知", 1)
+		Notice("MID_TUT_HUB_AMIIBO_OPEN")
+	end
+
+	-- 料理
+	if HubIsFacilityComplete("AID_料理") and TryVariable("G_拠点_料理通知") == false then
+		VariableEntry("G_拠点_料理通知", 1)
+		Notice("MID_TUT_HUB_COOK_OPEN")
+	end
+
+	-- 釣り
+	if HubIsFacilityComplete("AID_釣り") and TryVariable("G_拠点_釣り通知") == false then
+		VariableEntry("G_拠点_釣り通知", 1)
+		Notice("MID_TUT_HUB_FISHING_OPEN")
+	end
+
+	-- ドラゴンライド
+	if CanDragonRideWithLocator() and TryVariable("G_拠点_ドラゴンライド通知") == false then
+		VariableEntry("G_拠点_ドラゴンライド通知", 1)
+		Notice("MID_TUT_HUB_DRAGONRIDE_OPEN")
+	end
+
+	-- 蚤の市
+	if HubIsFacilityComplete("AID_蚤の市") and TryVariable("G_拠点_蚤の市通知") == false then
+		VariableEntry("G_拠点_蚤の市通知", 1)
+		Notice("MID_TUT_HUB_FLEAMARKET_OPEN")
+	end
+
+	-- 占い小屋
+	if HubIsFacilityComplete("AID_占い小屋") and TryVariable("G_拠点_占い小屋通知") == false then
+		VariableEntry("G_拠点_占い小屋通知", 1)
+		Notice("MID_TUT_HUB_FORTUNE_OPEN")
+	end
+
+	-- 活動記録の館
+	if HubIsFacilityComplete("AID_活動記録の館") and TryVariable("G_拠点_活動記録の館通知") == false then
+		VariableEntry("G_拠点_活動記録の館通知", 1)
+		Notice("MID_TUT_HUB_PROFILE_OPEN")
+	end
+
+	HubSolanelNoticeP0()
+	HubSolanelNoticeP1()
+	HubSolanelNoticeP2()
+	HubSolanelNoticeP3()
+	
+end
+
+function MapEnding()
+	
+	Log("MapEnding")
+
+end
+
+function Ending()
+	
+	Log("Ending")
+
+end
+
+
+function Main()
+
+	Log("Main")
+
+end
+
+--デバッグスキップ(Mainと排他)
+function DebugSkip()
+
+	Log("拠点スキップ")
+
+end
+
+-- 最終章へ
+function ToLastChapter()
+
+    HubNextChapter("CID_M025");
+
+end
+
+-- マイルームへ移動
+function ToMyRoom()
+
+	HubNextMap("Hub_MyRoom", "From_Cafe")
+
+end
+
+-- 闘技場へ移動
+function ToArena()
+
+	if (HubIsCompleteChapter("M005")) then
+		HubNextMap("Hub_Arena", "From_Cafe")
+	else
+		Dialog("MID_Hub_Arena_Closed")
+	end
+
+end
+
+function ToArena2()
+
+	if (HubIsCompleteChapter("M005")) then
+		HubNextMap("Hub_Arena", "From_Corridor")
+	else
+		Dialog("MID_Hub_Arena_Closed")
+	end
+
+end
+
+-- 紋章士の間へ移動
+function ToGodRoom()
+
+	if (HubIsCompleteChapter("M004")) then
+		HubNextMap("Hub_GodRoom", "From_Solanel")
+	else
+		Dialog("MID_Hub_Arena_Closed")
+	end
+
+end
+
+-- 岬の塔へ移動
+function ToCapeHouse()
+
+	HubNextMap("Hub_CapeHouse", "From_Cape")
+
+end

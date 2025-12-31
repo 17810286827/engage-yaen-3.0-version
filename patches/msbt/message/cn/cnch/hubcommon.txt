@@ -1,0 +1,123 @@
+[MID_HUB_Jingliu_Cook]
+$Type(4)
+$Window(0, "Jingliu", "2")
+$Window(2, "Jingliu")
+$Anim(1, "Jingliu", "Normal")
+$Anim(0, "Jingliu", "EmoTalk")
+Strength fades without sustenance, so
+eat.$Wait(0)
+
+[MID_HUB_Jingliu_Gift_Bad]
+$Type(4)
+$Window(0, "Jingliu", "2")
+$Window(2, "Jingliu")
+$Anim(1, "Jingliu", "Angry")
+$Anim(0, "Jingliu", "EmoTalk")
+Mere worldly possessions.$Wait(0)
+
+[MID_HUB_Jingliu_Gift_Bad_2]
+$Type(4)
+$Window(0, "Jingliu", "2")
+$Window(2, "Jingliu")
+$Anim(1, "Jingliu", "Angry")
+$Anim(0, "Jingliu", "EmoTalk")
+This trifle is of no use to me.$Wait(0)
+
+[MID_HUB_Jingliu_Gift_Good]
+$Type(4)
+$Window(0, "Jingliu", "2")
+$Window(2, "Jingliu")
+$Anim(1, "Jingliu", "Smile")
+$Anim(0, "Jingliu", "EmoTalk")
+You are well versed in gift giving.
+I shall hold onto this item.$Wait(0)
+
+[MID_HUB_Jingliu_Gift_Normal]
+$Type(4)
+$Window(0, "Jingliu", "2")
+$Window(2, "Jingliu")
+$Anim(1, "Jingliu", "Smile")
+$Anim(0, "Jingliu", "EmoTalk")
+I won't be able to keep it forever,
+but I appreciate it none the less.$Wait(0)
+
+[MID_HUB_Jingliu_PT03]
+$Type(4)
+$Window(0, "Jingliu", "2")
+$Window(2, "Jingliu")
+$Anim(1, "Jingliu", "Angry")
+$Anim(0, "Jingliu", "EmoTalk")
+Discipline sharpens both mind and body...
+even in the smallest of movements!$Wait(0)
+
+[MID_HUB_Jingliu_PT08]
+$Type(4)
+$Window(0, "Jingliu", "2")
+$Window(2, "Jingliu")
+$Anim(1, "Jingliu", "Normal")
+$Anim(0, "Jingliu", "EmoTalk")
+I remember my former student once had
+a pet. I wonder where he adopted it from.$Wait(0)
+
+[MID_HUB_Jingliu_PT12]
+$Type(4)
+$Window(0, "Jingliu", "2")
+$Window(2, "Jingliu")
+$Anim(1, "Jingliu", "Normal")
+$Anim(0, "Jingliu", "EmoTalk")
+These fruits appear to be quite delectable.
+Make sure to utilize them effectively.$Wait(0)
+
+[MID_HUB_Jingliu_PT15]
+$Type(4)
+$Window(0, "Jingliu", "2")
+$Window(2, "Jingliu")
+$Anim(1, "Jingliu", "Sad")
+$Anim(0, "Jingliu", "EmoTalk")
+Would you happen to have any wine? No?
+I suppose it was worth asking.$Wait(0)
+
+[MID_HUB_Jingliu_PT16]
+$Type(4)
+$Window(0, "Jingliu", "2")
+$Window(2, "Jingliu")
+$Anim(1, "Jingliu", "Normal")
+$Anim(0, "Jingliu", "EmoTalk")
+Yingxing would've enjoyed forging weapons
+here once upon a time. A pity.$Wait(0)
+
+[MID_HUB_Jingliu_PT18]
+$Type(4)
+$Window(0, "Jingliu", "2")
+$Window(2, "Jingliu")
+$Anim(1, "Jingliu", "Smile")
+$Anim(0, "Jingliu", "EmoTalk")
+My memories are still a haze, but I
+feel as if I'm back at Starskiff Haven.$Wait(0)
+
+[MID_HUB_Jingliu_PT27]
+$Type(4)
+$Window(0, "Jingliu", "2")
+$Window(2, "Jingliu")
+$Anim(1, "Jingliu", "Smile")
+$Anim(0, "Jingliu", "EmoTalk")
+My Mara symptoms seem to alleiviate while
+I'm on the Somniel. I must thank you.$Wait(0)
+
+[MID_HUB_Jingliu_PT34]
+$Type(4)
+$Window(0, "Jingliu", "2")
+$Window(2, "Jingliu")
+$Anim(1, "Jingliu", "Status")
+$Anim(0, "Jingliu", "EmoTalk")
+You want to celebrate my birthday? It has
+been such a long time since, so thanks.$Wait(0)
+
+[MID_HUB_Jingliu_PT35]
+$Type(4)
+$Window(0, "Jingliu", "2")
+$Window(2, "Jingliu")
+$Anim(1, "Jingliu", "Smile")
+$Anim(0, "Jingliu", "EmoTalk")
+Celebrating birthdays is foreign to me,
+but allow me to honor yours.$Wait(0)

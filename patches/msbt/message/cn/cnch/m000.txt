@@ -1,0 +1,353 @@
+[MID_N4EV1_#001]
+$Type(1)
+$Window(0, "リュール", "b")
+$Anim(1, "リュール", "Normal")
+$Window(2, "リュール")
+雪地.......这里是哪里，艾比，你知道吗.$Wait(2)
+
+[MID_N4EV1_#002]
+$Window(0, "アイビー", "t")
+$Anim(1, "アイビー", "Sad")
+$Window(2, "アイビー")
+很抱歉我也不知道.$Wait(2)
+
+[MID_N4EV1_#003]
+$Anim(1, "アイビー", "Angry")
+但是这里应该是伊尔席翁境内吧，
+只是我从来没有来过.$Wait(2)
+
+[MID_N4EV1_#004]
+$Window(1, "アイビー")
+$Window(0, "オルテンシア", "t")
+$Anim(1, "オルテンシア", "Normal")
+$Window(2, "オルテンシア")
+嗯....?我对这个地方也没有印象$Wait(2)
+
+[MID_N4EV1_#005]
+我们好像迷路了.$Wait(2)
+
+[MID_N4EV2_#001]
+$Type(1)
+$Window(0, "Jingliu", "t")
+$Anim(1, "Jingliu", "Normal")
+$Window(2, "Jingliu")
+无罅飞光.$Wait(2)
+
+[MID_N4EV3_#001]
+$Type(1)
+$Window(0, "PID_异形兵_男", "b")
+$Window(2, "PID_异形兵_男")
+啊啊啊啊啊啊!$Wait(2)
+
+[MID_N4EV4_#001]
+$Type(1)
+$Window(0, "リュール", "b")
+$Anim(1, "リュール", "Surprise")
+$Window(2, "リュール")
+谁在那边?$Wait(2)
+
+[MID_N4EV4_#002]
+$Window(1, "リュール")
+$Window(0, "アイビー", "b")
+$Anim(1, "アイビー", "Angry")
+$Window(2, "アイビー")
+谁在那里，请报上名来!$Wait(2)
+
+[MID_N4EV4_#003]
+$Window(0, "Jingliu", "t")
+$Window(2, "Jingliu")
+我只是一个漂泊的剑客。如果你
+希望避免麻烦，就请假装我们从未见过面.$Wait(2)
+
+[MID_N4EV_#004]
+$Window(1, "アイビー")
+$Window(0, "オルテンシア", "b")
+$Anim(1, "オルテンシア", "Surprise")
+$Window(2, "オルテンシア")
+漂泊的剑客？.$Wait(2)
+
+[MID_N4EV4_#005]
+$Window(1, "オルテンシア")
+$Window(0, "リュール", "b")
+$Anim(1, "リュール", "Sad")
+$Window(2, "リュール")
+让我们从头开始。你能告诉我们你的名字吗?$Wait(2)
+
+[MID_N4EV4_#006]
+$Window(2, "Jingliu")
+我是镜流。如果没事的话，你们就可以离开了，
+云骑军要来了.$Wait(2)
+
+[MID_N4EV4_#007]
+$Window(1, "リュール")
+$Window(0, "アイビー", "b")
+$Anim(1, "アイビー", "Sad")
+$Window(2, "アイビー")
+云骑军? 我想你大概弄错了，我们这里没有这种势力.$Wait(2)
+
+[MID_N4EV4_#008]
+$Window(2, "Jingliu")
+是吗? 那么这里大概并非我所在的世界.$Wait(2)
+
+[MID_N4EV4_#009]
+也许是命运安排，但我不是来闲聊的.$Wait(2)
+
+[MID_N4EV4_#010]
+$Window(1, "アイビー")
+$Window(0, "オルテンシア", "b")
+$Anim(1, "オルテンシア", "Angry")
+$Window(2, "オルテンシア")
+等一下! 你来自另一个世界，
+那么你是纹章士吗?$Wait(2)
+
+[MID_N4EV4_#011]
+$Window(1, "オルテンシア")
+$Window(0, "リュール", "b")
+$Anim(1, "リュール", "Normal")
+$Window(2, "リュール")
+根据她的外表或姿态，大概不是.$Wait(2)
+
+[MID_N4EV4_#012]
+$Window(2, "Jingliu")
+我来自仙舟“苍城”，但那已经不重要了.$Wait(2)
+
+[MID_N4EV4_#013]
+至于你们，既然命运安排我们在此见面，
+为什么不来一场比试呢?$Wait(2)
+
+[MID_N4EV4_#014]
+感觉你们都是身经百战的战士.$Wait(2)
+
+[MID_N4EV4_#015]
+如果你们想了解我的能力或者我的意图，
+就拔剑吧.$Wait(2)
+
+[MID_N4EV4_#016]
+$Window(1, "リュール")
+$Window(0, "アイビー", "b")
+$Anim(1, "アイビー", "Serious")
+$Window(2, "アイビー")
+...$Wait(2)
+
+[MID_N4EV4_#017]
+$Anim(1, "アイビー", "Angry")
+好吧，让我们较量一番.$Wait(2)
+
+[MID_N4EV4_#018]
+$Window(1, "アイビー")
+$Window(0, "オルテンシア", "b")
+$Anim(1, "オルテンシア", "Surprise")
+$Window(2, "オルテンシア")
+艾比?$Wait(2)
+
+[MID_N4EV4_#019]
+$Window(1, "オルテンシア")
+$Window(0, "アイビー", "b")
+$Anim(1, "アイビー", "Angry")
+$Window(2, "アイビー")
+虽然让人措手不及，
+但也许这个人还有很多故事.$Wait(2)
+
+[MID_N4EV4_#020]
+如果她有任何恶意，
+那么很有可能在战斗中显露出来.$Wait(2)
+
+[MID_N4EV4_#021]
+$Anim(1, "Jingliu", "Smile")
+$Window(2, "Jingliu")
+让我们开始吧，试试看你们能否让我拿出全部的实力?$Wait(2)
+
+[MID_N4EV4_#022]
+$Window(1, "アイビー")
+$Window(0, "リュール", "b")
+$Anim(1, "リュール", "Angry")
+$Window(2, "リュール")
+让我们拭目以待，虽然我不太明白你的情况...$Wait(2)
+
+[MID_N4EV4_#023]
+但是我们不会退缩!$Wait(2)
+
+[MID_N4EV5_#001]
+$Type(1)
+$Window(0, "Jingliu", "t")
+$Anim(1, "Jingliu", "Normal")
+$Window(2, "Jingliu")
+古镜照神.$Wait(2)
+
+[MID_N4EV6_#001]
+$Type(1)
+$Window(0, "Jingliu", "t")
+$Anim(1, "Jingliu", "Normal")
+$Window(2, "Jingliu")
+昙华生灭，天河泻梦...$Wait(2)
+
+[MID_N4EV7_#001]
+$Type(1)
+$Window(0, "リュール", "b")
+$Anim(1, "リュール", "Surprise")
+$Window(2, "リュール")
+你确实是我遇见的十分罕见的高手$Wait(2)
+
+[MID_N4EV7_#002]
+$Window(0, "Jingliu", "t")
+$Anim(1, "Jingliu", "Normal")
+$Window(2, "Jingliu")
+现在，让我们尽情战斗吧.$Wait(2)
+
+[MID_N4EV8_#001]
+$Type(1)
+$Window(0, "リュール", "b")
+$Anim(1, "リュール", "Surprise")
+$Window(2, "リュール")
+你确实是我遇见的十分罕见的高手$Wait(2)
+
+[MID_N4EV8_#002]
+$Window(0, "Jingliu", "t")
+$Anim(1, "Jingliu", "Normal")
+$Window(2, "Jingliu")
+现在，让我们尽情战斗吧.$Wait(2)
+
+[MID_N4BT1_#001]
+$Type(1)
+$Window(0, "リュール", "b")
+$Anim(1, "リュール", "Angry")
+$Window(2, "リュール")
+看得出来，你经历过不少战斗.$Wait(2)
+
+[MID_N4BT1_#002]
+$Window(0, "Jingliu", "t")
+$Anim(1, "Jingliu", "Normal")
+$Window(2, "Jingliu")
+一旦你拔出剑，你必须一击打倒你的对手.$Wait(2)
+
+[MID_N4BT1_#003]
+$Anim(1, "Jingliu", "Smile")
+这就是我这么多年来的生存秘诀.$Wait(2)
+
+[MID_N4BT1_#004]
+$Anim(1, "リュール", "Sad")
+$Window(2, "リュール")
+听起来你一直在无止境地战斗着.$Wait(2)
+
+[MID_N4BT1_#005]
+你可曾停止过战斗并与伙伴们度过平静的时光?$Wait(2)
+
+[MID_N4BT1_#006]
+$Anim(1, "Jingliu", "Normal")
+$Window(2, "Jingliu")
+虽然有过，但那已经是很久远的事情了.$Wait(2)
+
+[MID_N4BT1_#007]
+至于你，如果这把刀要割断你的生命，
+你能阻止它吗?$Wait(2)
+
+[MID_N4BT1_#008]
+$Anim(1, "リュール", "Normal")
+几百年来，我一直都在抗争着.$Wait(2)
+
+[MID_N4BT2_#001]
+$Type(1)
+$Window(0, "オルテンシア", "b")
+$Anim(1, "オルテンシア", "Angry")
+$Window(2, "オルテンシア")
+你知道吗，镜流，你拿着那把剑很可怕，
+但我经历过更糟糕的事!$Wait(2)
+
+[MID_N4BT2_#002]
+$Window(0, "Jingliu", "t")
+$Anim(1, "Jingliu", "Normal")
+$Window(2, "Jingliu")
+既然这样，那你一定既聪明又机灵.$Wait(2)
+
+[MID_N4BT2_#003]
+$Window(2, "オルテンシア")
+$Anim(1, "オルテンシア", "Smile")
+嘿，为了生存而战对我来说已经是过去式了.$Wait(2)
+
+[MID_N4BT2_#004]
+$Window(2, "オルテンシア")
+那么，让我见识一下你的实力吧!$Wait(2)
+
+[MID_N4BT3_#001]
+$Type(1)
+$Window(0, "アイビー", "b")
+$Anim(1, "アイビー", "Angry")
+$Window(2, "アイビー")
+你是怎么来到这里的?$Wait(2)
+
+[MID_N4BT3_#002]
+$Window(0, "Jingliu", "t")
+$Anim(1, "Jingliu", "Normal")
+$Window(2, "Jingliu")
+我也不清楚，但我相信这里应该是次元的边界，
+既不属于你的世界，也不属于我的世界.$Wait(2)
+
+[MID_N4BT3#003]
+$Window(2, "アイビー")
+不明觉厉，但是应该有办法返回原有的世界吧.$Wait(2)
+
+[MID_N4BT3_#004]
+$Anim(1, "Jingliu", "Smile")
+$Window(2, "Jingliu")
+大概吧.$Wait(2)
+
+[MID_N4EV9_#001]
+$Type(1)
+$Window(0, "Jingliu", "t")
+$Anim(1, "Jingliu", "Smile")
+$Window(2, "Jingliu")
+干得漂亮，真是一场令人印象深刻的战斗.$Wait(2)
+
+[MID_N4EV9_#002]
+$Window(0, "リュール", "b")
+$Anim(1, "リュール", "Sad")
+$Window(2, "リュール")
+不得不承认，你很强大.$Wait(2)
+
+[MID_N4EV9_#003]
+$Window(2, "Jingliu")
+$Anim(1, "Jingliu", "Normal")
+这并不是我的全部力量，
+似乎在这里我的力量被限制了.$Wait(2)
+
+[MID_N4EV9_#004]
+正因如此，这对我来说是一次很好的挑战.$Wait(2)
+
+[MID_N4EV9_#005]
+看来你的世界也很有趣，怎么样，
+有兴趣让我来你的世界参观一下吗?$Wait(2)
+
+[MID_N4EV9_#006]
+$Window(2, "リュール")
+非常乐意.$Wait(2)
+
+[MID_N4EV9_#007]
+$Window(1, "リュール")
+$Window(0, "アイビー", "b")
+$Anim(1, "アイビー", "Serious")
+$Window(2, "アイビー")
+但是我们也需要找到返回原本世界的出口
+...$Wait(2)
+
+[MID_N4EV9_#008]
+$Anim(1, "アイビー", "Normal")
+刚刚的战斗似乎影响到了
+次元的边界的出入口，从开始的地方应该可以
+看到返回去的路了.$Wait(2)
+
+[MID_N4EV9_#009]
+$Window(2, "Jingliu")
+$Anim(1, "Jingliu", "Normal")
+那就让我见识一下那边的世界吧.$Wait(2)
+
+[MID_N4EV9_#010]
+$Window(1, "アイビー")
+$Window(0, "オルテンシア", "b")
+$Anim(1, "オルテンシア", "Smile")
+$Window(2, "オルテンシア")
+绝对不会让你失望的，欢迎来到艾雷欧斯大陆!$Wait(2)
+
+[MID_N4EV9_#011]
+$Window(2, "Jingliu")
+我很期待，对了，顺便说一句--
+我的剑，谁要学，我便教.$Wait(2)

@@ -1,0 +1,3491 @@
+[MID_LVUP_1_Lueur]
+$Type(1)
+$Window(0, "リュール", "t")
+$Anim(1, "リュール", "Sad")
+$Window(2, "リュール")
+好像没怎么变呢……$Wait(0)
+
+[MID_LVUP_2_Lueur]
+$Type(1)
+$Window(0, "リュール", "t")
+$Anim(1, "リュール", "Status")
+$Window(2, "リュール")
+我变得强一些了吗？$Wait(0)
+
+[MID_LVUP_3_Lueur]
+$Type(1)
+$Window(0, "リュール", "t")
+$Anim(1, "リュール", "Relax")
+$Window(2, "リュール")
+希望我的实力是真的有所成长。$Wait(0)
+
+[MID_LVUP_4_Lueur]
+$Type(1)
+$Window(0, "リュール", "t")
+$Anim(1, "リュール", "Smile")
+$Window(2, "リュール")
+我很高兴能有如此卓越的进步……！$Wait(0)
+
+[MID_LVUP_LIMIT_Lueur]
+$Type(1)
+$Window(0, "リュール", "t")
+$Anim(1, "リュール", "Smile")
+$Window(2, "リュール")
+看来我已经变得十分强大了。
+照这个步调继续加油吧。$Wait(0)
+
+[MID_LVUP_CC_Lueur]
+$Type(1)
+$Window(0, "リュール", "t")
+$Anim(1, "リュール", "Smile")
+$Window(2, "リュール")
+这一套新装束还适合我吗？
+我会好好运用这份力量继续努力的。$Wait(0)
+
+[MID_LVUP_CC2_Lueur]
+$Type(1)
+$Window(0, "リュール", "t")
+$Anim(1, "リュール", "Smile")
+$Window(2, "リュール")
+我感觉到了一股充满暖意的全新力量。
+今后我会以神龙的身分为大家而战……！$Wait(0)
+
+[MID_LVUP_1_Vandre]
+$Type(1)
+$Window(0, "ヴァンドレ", "t")
+$Anim(1, "ヴァンドレ", "Sad")
+$Window(2, "ヴァンドレ")
+……呃。十分抱歉，神龙大人。$Wait(0)
+
+[MID_LVUP_2_Vandre]
+$Type(1)
+$Window(0, "ヴァンドレ", "t")
+$Anim(1, "ヴァンドレ", "Relax")
+$Window(2, "ヴァンドレ")
+嗯。
+这也算小有收获了吧。$Wait(0)
+
+[MID_LVUP_3_Vandre]
+$Type(1)
+$Window(0, "ヴァンドレ", "t")
+$Anim(1, "ヴァンドレ", "Surprise")
+$Window(2, "ヴァンドレ")
+真是意想不到啊！
+活到这把年纪居然还能继续成长。$Wait(0)
+
+[MID_LVUP_4_Vandre]
+$Type(1)
+$Window(0, "ヴァンドレ", "t")
+$Anim(1, "ヴァンドレ", "Smile")
+$Window(2, "ヴァンドレ")
+没想到我还能获得如此卓越的成长啊。$Wait(0)
+
+[MID_LVUP_LIMIT_Vandre]
+$Type(1)
+$Window(0, "ヴァンドレ", "t")
+$Anim(1, "ヴァンドレ", "Relax")
+$Window(2, "ヴァンドレ")
+这具身体已成长到极致了。$Wait(0)
+
+[MID_LVUP_CC_Vandre]
+$Type(1)
+$Window(0, "ヴァンドレ", "t")
+$Anim(1, "ヴァンドレ", "Smile")
+$Window(2, "ヴァンドレ")
+只要是适合穿来侍奉您的服装就好了。$Wait(0)
+
+[MID_LVUP_1_Clan]
+$Type(1)
+$Window(0, "クラン", "t")
+$Anim(1, "クラン", "Sad")
+$Window(2, "クラン")
+是不是我还不够努力呢……
+回头要好好检讨才行。$Wait(0)
+
+[MID_LVUP_2_Clan]
+$Type(1)
+$Window(0, "クラン", "t")
+$Anim(1, "クラン", "Smile")
+$Window(2, "クラン")
+跟我想的一样。
+我变得更强了，神龙大人。$Wait(0)
+
+[MID_LVUP_3_Clan]
+$Type(1)
+$Window(0, "クラン", "t")
+$Anim(1, "クラン", "Smile")
+$Window(2, "クラン")
+结果比预期的还要好。
+照这个样子继续加油吧。$Wait(0)
+
+[MID_LVUP_4_Clan]
+$Type(1)
+$Window(0, "クラン", "t")
+$Anim(1, "クラン", "Smile")
+$Window(2, "クラン")
+真是令我自豪的成果。
+神龙大人，我变强了……！$Wait(0)
+
+[MID_LVUP_LIMIT_Clan]
+$Type(1)
+$Window(0, "クラン", "t")
+$Anim(1, "クラン", "Relax")
+$Window(2, "クラン")
+往后若想继续精进，
+或许得另寻方向才行了。$Wait(0)
+
+[MID_LVUP_CC_Clan]
+$Type(1)
+$Window(0, "クラン", "t")
+$Anim(1, "クラン", "Shy")
+$Window(2, "クラン")
+如何？只希望站在神龙大人身旁
+也不要逊色太多就好了。$Wait(0)
+
+[MID_LVUP_1_Fram]
+$Type(1)
+$Window(0, "フラン", "t")
+$Anim(1, "フラン", "Surprise")
+$Window(2, "フラン")
+为、为什么？
+我明明很努力了……$Wait(0)
+
+[MID_LVUP_2_Fram]
+$Type(1)
+$Window(0, "フラン", "t")
+$Anim(1, "フラン", "Relax")
+$Window(2, "フラン")
+这么一来，
+或许就能稍微得到神龙大人的关注了！$Wait(0)
+
+[MID_LVUP_3_Fram]
+$Type(1)
+$Window(0, "フラン", "t")
+$Anim(1, "フラン", "Smile")
+$Window(2, "フラン")
+成功了！
+芙岚正值发育期哦！$Wait(0)
+
+[MID_LVUP_4_Fram]
+$Type(1)
+$Window(0, "フラン", "t")
+$Anim(1, "フラン", "Relax")
+$Window(2, "フラン")
+神龙大人……
+为了您，我已经变得这么强了！$Wait(0)
+
+[MID_LVUP_LIMIT_Fram]
+$Type(1)
+$Window(0, "フラン", "t")
+$Anim(1, "フラン", "Status")
+$Window(2, "フラン")
+真是的，
+看来我的成长已经到达极限了！$Wait(0)
+
+[MID_LVUP_CC_Fram]
+$Type(1)
+$Window(0, "フラン", "t")
+$Anim(1, "フラン", "Smile")
+$Window(2, "フラン")
+换上这套衣服之后，
+我是否能更吸引神龙大人的目光呢……！$Wait(0)
+
+[MID_LVUP_1_Alfred]
+$Type(1)
+$Window(0, "アルフレッド", "t")
+$Anim(1, "アルフレッド", "Surprise")
+$Window(2, "アルフレッド")
+哎呀，没办法。
+偶尔也是会有这种情况的。$Wait(0)
+
+[MID_LVUP_2_Alfred]
+$Type(1)
+$Window(0, "アルフレッド", "t")
+$Anim(1, "アルフレッド", "Shy")
+$Window(2, "アルフレッド")
+若是成长太过迅速，
+身体也会不堪负荷的。$Wait(0)
+
+[MID_LVUP_3_Alfred]
+$Type(1)
+$Window(0, "アルフレッド", "t")
+$Anim(1, "アルフレッド", "Smile")
+$Window(2, "アルフレッド")
+成果相当不错。
+连肌肉也在开心地欢呼着呢。$Wait(0)
+
+[MID_LVUP_4_Alfred]
+$Type(1)
+$Window(0, "アルフレッド", "t")
+$Anim(1, "アルフレッド", "Smile")
+$Window(2, "アルフレッド")
+成果非常出色。
+不错吧？看我这身结实的肌肉！$Wait(0)
+
+[MID_LVUP_LIMIT_Alfred]
+$Type(1)
+$Window(0, "アルフレッド", "t")
+$Anim(1, "アルフレッド", "Relax")
+$Window(2, "アルフレッド")
+我的成长似乎已到达了极限。
+往后就看我如何以这副身躯来辅助你吧。$Wait(0)
+
+[MID_LVUP_CC_Alfred]
+$Type(1)
+$Window(0, "アルフレッド", "t")
+$Anim(1, "アルフレッド", "Smile")
+$Window(2, "アルフレッド")
+不论什么衣服都很适合我吧？
+没错，因为我正在锻炼身体呀！$Wait(0)
+
+[MID_LVUP_CC2_Alfred]
+$Type(1)
+$Window(0, "アルフレッド", "t")
+$Anim(1, "アルフレッド", "Smile")
+$Window(2, "アルフレッド")
+感觉力量在不停地涌现……！
+真想马上就试试全新的战法和锻炼方式啊。$Wait(0)
+
+[MID_LVUP_1_Boucheron]
+$Type(1)
+$Window(0, "ブシュロン", "t")
+$Anim(1, "ブシュロン", "Sad")
+$Window(2, "ブシュロン")
+呜……
+没出息到我都哭了……$Wait(0)
+
+[MID_LVUP_2_Boucheron]
+$Type(1)
+$Window(0, "ブシュロン", "t")
+$Anim(1, "ブシュロン", "Status")
+$Window(2, "ブシュロン")
+好像变强一点了……
+真叫人自豪。$Wait(0)
+
+[MID_LVUP_3_Boucheron]
+$Type(1)
+$Window(0, "ブシュロン", "t")
+$Anim(1, "ブシュロン", "Pain")
+$Window(2, "ブシュロン")
+我又长肌肉了。
+十分抱歉，阿尔弗雷德殿下。$Wait(0)
+
+[MID_LVUP_4_Boucheron]
+$Type(1)
+$Window(0, "ブシュロン", "t")
+$Anim(1, "ブシュロン", "Shy")
+$Window(2, "ブシュロン")
+没想到能获得如此成长……
+我感动到热泪盈眶了。$Wait(0)
+
+[MID_LVUP_LIMIT_Boucheron]
+$Type(1)
+$Window(0, "ブシュロン", "t")
+$Anim(1, "ブシュロン", "Relax")
+$Window(2, "ブシュロン")
+都练成这样了，以后不会再长肌肉了吧？
+就让我用这份力量守护大家吧。$Wait(0)
+
+[MID_LVUP_CC_Boucheron]
+$Type(1)
+$Window(0, "ブシュロン", "t")
+$Anim(1, "ブシュロン", "Smile")
+$Window(2, "ブシュロン")
+幸好穿起来还算合身……
+我偶尔会因为衣服太小而崩开纽扣呢。$Wait(0)
+
+[MID_LVUP_1_Etie]
+$Type(1)
+$Window(0, "エーティエ", "t")
+$Anim(1, "エーティエ", "Surprise")
+$Window(2, "エーティエ")
+哎呀。
+看来我锻炼得还不够呢。$Wait(0)
+
+[MID_LVUP_2_Etie]
+$Type(1)
+$Window(0, "エーティエ", "t")
+$Anim(1, "エーティエ", "Relax")
+$Window(2, "エーティエ")
+终于看见成果了。
+继续保持下去吧。$Wait(0)
+
+[MID_LVUP_3_Etie]
+$Type(1)
+$Window(0, "エーティエ", "t")
+$Anim(1, "エーティエ", "Relax")
+$Window(2, "エーティエ")
+这是理所当然的。
+为了练就强健体格，我会继续努力的。$Wait(0)
+
+[MID_LVUP_4_Etie]
+$Type(1)
+$Window(0, "エーティエ", "t")
+$Anim(1, "エーティエ", "Smile")
+$Window(2, "エーティエ")
+感觉身体充满了力量。
+赶快让我试试这身肌肉吧。$Wait(0)
+
+[MID_LVUP_LIMIT_Etie]
+$Type(1)
+$Window(0, "エーティエ", "t")
+$Anim(1, "エーティエ", "Smile")
+$Window(2, "エーティエ")
+十分抱歉。
+我的肌肉已练到极致了。$Wait(0)
+
+[MID_LVUP_CC_Etie]
+$Type(1)
+$Window(0, "エーティエ", "t")
+$Anim(1, "エーティエ", "Smile")
+$Window(2, "エーティエ")
+穿起来感觉还不坏。
+我能试着跑动看看吗？$Wait(0)
+
+[MID_LVUP_1_Celine]
+$Type(1)
+$Window(0, "セリーヌ", "t")
+$Anim(1, "セリーヌ", "Sad")
+$Window(2, "セリーヌ")
+下次一定要……
+练就可以捍卫和平的力量……$Wait(0)
+
+[MID_LVUP_2_Celine]
+$Type(1)
+$Window(0, "セリーヌ", "t")
+$Anim(1, "セリーヌ", "Relax")
+$Window(2, "セリーヌ")
+真令人高兴。
+今后我也会虚心受教、继续精进的。$Wait(0)
+
+[MID_LVUP_3_Celine]
+$Type(1)
+$Window(0, "セリーヌ", "t")
+$Anim(1, "セリーヌ", "Smile")
+$Window(2, "セリーヌ")
+我非常满意。
+这是我身为公主渴求力量的回报。$Wait(0)
+
+[MID_LVUP_4_Celine]
+$Type(1)
+$Window(0, "セリーヌ", "t")
+$Anim(1, "セリーヌ", "Relax")
+$Window(2, "セリーヌ")
+过度幸福会令人心生畏惧，
+但请容我在此由衷地表达喜悦之情。$Wait(0)
+
+[MID_LVUP_LIMIT_Celine]
+$Type(1)
+$Window(0, "セリーヌ", "t")
+$Anim(1, "セリーヌ", "Smile")
+$Window(2, "セリーヌ")
+能成长到如此境界，
+全都仰仗神龙大人。$Wait(0)
+
+[MID_LVUP_CC_Celine]
+$Type(1)
+$Window(0, "セリーヌ", "t")
+$Anim(1, "セリーヌ", "Status")
+$Window(2, "セリーヌ")
+谢谢您赐予我如此宝贵的机会，
+我会以此姿态继续精进，定不辜负您的期待。$Wait(0)
+
+[MID_LVUP_CC2_Celine]
+$Type(1)
+$Window(0, "セリーヌ", "t")
+$Anim(1, "セリーヌ", "Smile")
+$Window(2, "セリーヌ")
+感觉到新的力量正在萌芽……
+我会努力让它成长并绽放出美丽花朵的。$Wait(0)
+
+[MID_LVUP_1_Louis]
+$Type(1)
+$Window(0, "ルイ", "t")
+$Anim(1, "ルイ", "Surprise")
+$Window(2, "ルイ")
+哎呀哎呀。这是……
+真是抱歉啊。$Wait(0)
+
+[MID_LVUP_2_Louis]
+$Type(1)
+$Window(0, "ルイ", "t")
+$Anim(1, "ルイ", "Relax")
+$Window(2, "ルイ")
+若能凭借这份力量守护大家，
+我会非常开心的。$Wait(0)
+
+[MID_LVUP_3_Louis]
+$Type(1)
+$Window(0, "ルイ", "t")
+$Anim(1, "ルイ", "Relax")
+$Window(2, "ルイ")
+哦？那边有百合蔷薇之园……
+嗯，请别在意我。$Wait(0)
+
+[MID_LVUP_4_Louis]
+$Type(1)
+$Window(0, "ルイ", "t")
+$Anim(1, "ルイ", "Smile")
+$Window(2, "ルイ")
+景色真美啊。
+现在的我绝不会错过任何画面。$Wait(0)
+
+[MID_LVUP_LIMIT_Louis]
+$Type(1)
+$Window(0, "ルイ", "t")
+$Anim(1, "ルイ", "Status")
+$Window(2, "ルイ")
+请不要为我担心。
+我已经获得足够的力量了。$Wait(0)
+
+[MID_LVUP_CC_Louis]
+$Type(1)
+$Window(0, "ルイ", "t")
+$Anim(1, "ルイ", "Smile")
+$Window(2, "ルイ")
+穿起来还不坏。
+我会将旧衣服整理过后交还。$Wait(0)
+
+[MID_LVUP_1_Chloe]
+$Type(1)
+$Window(0, "クロエ", "t")
+$Anim(1, "クロエ", "Sad")
+$Window(2, "クロエ")
+对不起。
+可能是我的肚子有点饿……$Wait(0)
+
+[MID_LVUP_2_Chloe]
+$Type(1)
+$Window(0, "クロエ", "t")
+$Anim(1, "クロエ", "Relax")
+$Window(2, "クロエ")
+希望我能够脚踏实地慢慢成长。$Wait(0)
+
+[MID_LVUP_3_Chloe]
+$Type(1)
+$Window(0, "クロエ", "t")
+$Anim(1, "クロエ", "Smile")
+$Window(2, "クロエ")
+呵呵。是不是该去逛逛摊贩
+来犒赏一下自己呢。$Wait(0)
+
+[MID_LVUP_4_Chloe]
+$Type(1)
+$Window(0, "クロエ", "t")
+$Anim(1, "クロエ", "Smile")
+$Window(2, "クロエ")
+我现在的心情就像
+读完童话故事一样兴奋呢！$Wait(0)
+
+[MID_LVUP_LIMIT_Chloe]
+$Type(1)
+$Window(0, "クロエ", "t")
+$Anim(1, "クロエ", "Status")
+$Window(2, "クロエ")
+现在不管对上任何敌人，
+我应该都能获胜吧。$Wait(0)
+
+[MID_LVUP_CC_Chloe]
+$Type(1)
+$Window(0, "クロエ", "t")
+$Anim(1, "クロエ", "Shy")
+$Window(2, "クロエ")
+你看我这身造型还行吗？
+总觉得……有点不好意思呢。$Wait(0)
+
+[MID_LVUP_1_Diamand]
+$Type(1)
+$Window(0, "ディアマンド", "t")
+$Anim(1, "ディアマンド", "Status")
+$Window(2, "ディアマンド")
+现在可没有时间后悔。
+只能靠现有的力量战斗了。$Wait(0)
+
+[MID_LVUP_2_Diamand]
+$Type(1)
+$Window(0, "ディアマンド", "t")
+$Anim(1, "ディアマンド", "Serious")
+$Window(2, "ディアマンド")
+我不奢求太多。
+只要能变强就好。$Wait(0)
+
+[MID_LVUP_3_Diamand]
+$Type(1)
+$Window(0, "ディアマンド", "t")
+$Anim(1, "ディアマンド", "Smile")
+$Window(2, "ディアマンド")
+看来我已获得
+不负布罗帝亚皇子之名的力量了。$Wait(0)
+
+[MID_LVUP_4_Diamand]
+$Type(1)
+$Window(0, "ディアマンド", "t")
+$Anim(1, "ディアマンド", "Die")
+$Window(2, "ディアマンド")
+父王，您看到了吗……$Wait(0)
+
+[MID_LVUP_LIMIT_Diamand]
+$Type(1)
+$Window(0, "ディアマンド", "t")
+$Anim(1, "ディアマンド", "Smile")
+$Window(2, "ディアマンド")
+我已经成长到极致了。
+请善加运用我的力量吧。$Wait(0)
+
+[MID_LVUP_CC_Diamand]
+$Type(1)
+$Window(0, "ディアマンド", "t")
+$Anim(1, "ディアマンド", "Normal")
+$Window(2, "ディアマンド")
+我还不太习惯，但很快就能适应的。
+先来尝试一下新的战斗技巧吧。$Wait(0)
+
+[MID_LVUP_CC2_Diamand]
+$Type(1)
+$Window(0, "ディアマンド", "t")
+$Anim(1, "ディアマンド", "Status")
+$Window(2, "ディアマンド")
+全身充满力量，感觉还不赖。
+看我拿出不会愧对布罗帝亚王族的表现吧。$Wait(0)
+
+[MID_LVUP_1_Umber]
+$Type(1)
+$Window(0, "アンバー", "t")
+$Anim(1, "アンバー", "Pain")
+$Window(2, "アンバー")
+好啊！这么一来就能变得更强……
+……没变强！？$Wait(0)
+
+[MID_LVUP_2_Umber]
+$Type(1)
+$Window(0, "アンバー", "t")
+$Anim(1, "アンバー", "Smile")
+$Window(2, "アンバー")
+只要能稍微变强一些
+我就很开心了！$Wait(0)
+
+[MID_LVUP_3_Umber]
+$Type(1)
+$Window(0, "アンバー", "t")
+$Anim(1, "アンバー", "Relax")
+$Window(2, "アンバー")
+故乡的羊驼们
+一定也会为我高兴的！$Wait(0)
+
+[MID_LVUP_4_Umber]
+$Type(1)
+$Window(0, "アンバー", "t")
+$Anim(1, "アンバー", "Smile")
+$Window(2, "アンバー")
+没想到我变得这么厉害了！
+我就是这片大地的传奇英雄啊！$Wait(0)
+
+[MID_LVUP_LIMIT_Umber]
+$Type(1)
+$Window(0, "アンバー", "t")
+$Anim(1, "アンバー", "Serious")
+$Window(2, "アンバー")
+嗯……原来如此！
+我已经到达极限了吗！$Wait(0)
+
+[MID_LVUP_CC_Umber]
+$Type(1)
+$Window(0, "アンバー", "t")
+$Anim(1, "アンバー", "Smile")
+$Window(2, "アンバー")
+如何？帅气吗？
+请期待我未来的表现吧！$Wait(0)
+
+[MID_LVUP_1_Jade]
+$Type(1)
+$Window(0, "ジェーデ", "t")
+$Anim(1, "ジェーデ", "Sad")
+$Window(2, "ジェーデ")
+“骑士并未获得太多成长……”$Wait(0)
+
+[MID_LVUP_2_Jade]
+$Type(1)
+$Window(0, "ジェーデ", "t")
+$Anim(1, "ジェーデ", "Serious")
+$Window(2, "ジェーデ")
+“骑士的成长恰如其分……”$Wait(0)
+
+[MID_LVUP_3_Jade]
+$Type(1)
+$Window(0, "ジェーデ", "t")
+$Anim(1, "ジェーデ", "Die")
+$Window(2, "ジェーデ")
+“骑士获得了长足的进步……”$Wait(0)
+
+[MID_LVUP_4_Jade]
+$Type(1)
+$Window(0, "ジェーデ", "t")
+$Anim(1, "ジェーデ", "Relax")
+$Window(2, "ジェーデ")
+“骑士的成长已无法言喻……”$Wait(0)
+
+[MID_LVUP_LIMIT_Jade]
+$Type(1)
+$Window(0, "ジェーデ", "t")
+$Anim(1, "ジェーデ", "Smile")
+$Window(2, "ジェーデ")
+“骑士的实力已经登峰造极……”
+请您随意使唤吧。$Wait(0)
+
+[MID_LVUP_CC_Jade]
+$Type(1)
+$Window(0, "ジェーデ", "t")
+$Anim(1, "ジェーデ", "Shy")
+$Window(2, "ジェーデ")
+“骑士换上了新衣裳……”
+那个……看起来不会很奇怪吧？$Wait(0)
+
+[MID_LVUP_1_Staluke]
+$Type(1)
+$Window(0, "スタルーク", "t")
+$Anim(1, "スタルーク", "Sad")
+$Window(2, "スタルーク")
+反正我也不过如此了……$Wait(0)
+
+[MID_LVUP_2_Staluke]
+$Type(1)
+$Window(0, "スタルーク", "t")
+$Anim(1, "スタルーク", "Sad")
+$Window(2, "スタルーク")
+竟然为了我这种人花费时间……
+实在是抱歉……$Wait(0)
+
+[MID_LVUP_3_Staluke]
+$Type(1)
+$Window(0, "スタルーク", "t")
+$Anim(1, "スタルーク", "Relax")
+$Window(2, "スタルーク")
+能够变强真是开心……
+啊……请别在意我……$Wait(0)
+
+[MID_LVUP_4_Staluke]
+$Type(1)
+$Window(0, "スタルーク", "t")
+$Anim(1, "スタルーク", "Surprise")
+$Window(2, "スタルーク")
+究竟发生什么事了……？
+像我这种人竟然能……？$Wait(0)
+
+[MID_LVUP_LIMIT_Staluke]
+$Type(1)
+$Window(0, "スタルーク", "t")
+$Anim(1, "スタルーク", "Pain")
+$Window(2, "スタルーク")
+竟然无法再变强了……
+我这么没用真是抱歉……$Wait(0)
+
+[MID_LVUP_CC_Staluke]
+$Type(1)
+$Window(0, "スタルーク", "t")
+$Anim(1, "スタルーク", "Sad")
+$Window(2, "スタルーク")
+抱歉……穿起来一点也不搭……
+我对不起这套被我糟蹋了的服装……$Wait(0)
+
+[MID_LVUP_CC2_Staluke]
+$Type(1)
+$Window(0, "スタルーク", "t")
+$Anim(1, "スタルーク", "Pain")
+$Window(2, "スタルーク")
+非、非常抱歉。竟然赐予我这么贵重的道具……！
+我会拿出实绩来报答这份恩情的……！$Wait(0)
+
+[MID_LVUP_1_Citrinica]
+$Type(1)
+$Window(0, "シトリニカ", "t")
+$Anim(1, "シトリニカ", "Sad")
+$Window(2, "シトリニカ")
+哎呀……
+只好等下一个机会了。$Wait(0)
+
+[MID_LVUP_2_Citrinica]
+$Type(1)
+$Window(0, "シトリニカ", "t")
+$Anim(1, "シトリニカ", "Status")
+$Window(2, "シトリニカ")
+就照这个步调，
+慢慢补足王城士兵应有的实力吧……$Wait(0)
+
+[MID_LVUP_3_Citrinica]
+$Type(1)
+$Window(0, "シトリニカ", "t")
+$Anim(1, "シトリニカ", "Shy")
+$Window(2, "シトリニカ")
+真是倍感光荣。
+这就好比受邀参加晚宴一样荣幸哦。$Wait(0)
+
+[MID_LVUP_4_Citrinica]
+$Type(1)
+$Window(0, "シトリニカ", "t")
+$Anim(1, "シトリニカ", "Smile")
+$Window(2, "シトリニカ")
+获得宝贵的经验了。
+这次就让我破例高兴一下吧！$Wait(0)
+
+[MID_LVUP_LIMIT_Citrinica]
+$Type(1)
+$Window(0, "シトリニカ", "t")
+$Anim(1, "シトリニカ", "Relax")
+$Window(2, "シトリニカ")
+虽然已经无法再成长了，
+但往后我会继续替军团奉献的。$Wait(0)
+
+[MID_LVUP_CC_Citrinica]
+$Type(1)
+$Window(0, "シトリニカ", "t")
+$Anim(1, "シトリニカ", "Shy")
+$Window(2, "シトリニカ")
+谢谢你送给我这么棒的衣服。
+我得回赠些什么……不对，我会用战果来报答你的。$Wait(0)
+
+[MID_LVUP_1_Lapis]
+$Type(1)
+$Window(0, "ラピス", "t")
+$Anim(1, "ラピス", "Sad")
+$Window(2, "ラピス")
+不知道为什么，
+这让我联想到庄稼歉收的农田。$Wait(0)
+
+[MID_LVUP_2_Lapis]
+$Type(1)
+$Window(0, "ラピス", "t")
+$Anim(1, "ラピス", "Normal")
+$Window(2, "ラピス")
+略有小成亦是极大恩惠，
+要懂得感恩才行。$Wait(0)
+
+[MID_LVUP_3_Lapis]
+$Type(1)
+$Window(0, "ラピス", "t")
+$Anim(1, "ラピス", "Smile")
+$Window(2, "ラピス")
+太好了！
+这场战斗真是硕果累累啊。$Wait(0)
+
+[MID_LVUP_4_Lapis]
+$Type(1)
+$Window(0, "ラピス", "t")
+$Anim(1, "ラピス", "Smile")
+$Window(2, "ラピス")
+太好了！凭这等实力，
+任何猎物皆能手到擒来！$Wait(0)
+
+[MID_LVUP_LIMIT_Lapis]
+$Type(1)
+$Window(0, "ラピス", "t")
+$Anim(1, "ラピス", "Shy")
+$Window(2, "ラピス")
+我已经心满意足了。
+接下来换我为大家尽一份心力了。$Wait(0)
+
+[MID_LVUP_CC_Lapis]
+$Type(1)
+$Window(0, "ラピス", "t")
+$Anim(1, "ラピス", "Surprise")
+$Window(2, "ラピス")
+这、这是全新的衣服吗？
+给我实在是太浪费了……！$Wait(0)
+
+[MID_LVUP_1_Ivy]
+$Type(1)
+$Window(0, "アイビー", "t")
+$Anim(1, "アイビー", "Sad")
+$Window(2, "アイビー")
+我辜负了神龙大人的期待……$Wait(0)
+
+[MID_LVUP_2_Ivy]
+$Type(1)
+$Window(0, "アイビー", "t")
+$Anim(1, "アイビー", "Normal")
+$Window(2, "アイビー")
+身为公主，
+这只是最基本的义务。$Wait(0)
+
+[MID_LVUP_3_Ivy]
+$Type(1)
+$Window(0, "アイビー", "t")
+$Anim(1, "アイビー", "Die")
+$Window(2, "アイビー")
+既获得此般成果，
+我已无怨言。$Wait(0)
+
+[MID_LVUP_4_Ivy]
+$Type(1)
+$Window(0, "アイビー", "t")
+$Anim(1, "アイビー", "Smile")
+$Window(2, "アイビー")
+令人满意的结果。
+这都是因为有神龙大人在呢。$Wait(0)
+
+[MID_LVUP_LIMIT_Ivy]
+$Type(1)
+$Window(0, "アイビー", "t")
+$Anim(1, "アイビー", "Status")
+$Window(2, "アイビー")
+无法拥有更多力量了。
+现在这样已经不差了哦。$Wait(0)
+
+[MID_LVUP_CC_Ivy]
+$Type(1)
+$Window(0, "アイビー", "t")
+$Anim(1, "アイビー", "Smile")
+$Window(2, "アイビー")
+我会在重整心情后……
+以你期待的样貌、力量再次征战沙场。$Wait(0)
+
+[MID_LVUP_CC2_Ivy]
+$Type(1)
+$Window(0, "アイビー", "t")
+$Anim(1, "アイビー", "Die")
+$Window(2, "アイビー")
+好温暖……若这股力量是你的指引，
+我便能毫无迷惘地战斗了。$Wait(0)
+
+[MID_LVUP_1_Zelkova]
+$Type(1)
+$Window(0, "ゼルコバ", "t")
+$Anim(1, "ゼルコバ", "Die")
+$Window(2, "ゼルコバ")
+有时“没有变化”也很“重要”……$Wait(0)
+
+[MID_LVUP_2_Zelkova]
+$Type(1)
+$Window(0, "ゼルコバ", "t")
+$Anim(1, "ゼルコバ", "Normal")
+$Window(2, "ゼルコバ")
+算是个“还过得去”的“成果”吧……$Wait(0)
+
+[MID_LVUP_3_Zelkova]
+$Type(1)
+$Window(0, "ゼルコバ", "t")
+$Anim(1, "ゼルコバ", "Die")
+$Window(2, "ゼルコバ")
+不论“实力”多么强大，
+都要懂得“深藏不露”……$Wait(0)
+
+[MID_LVUP_4_Zelkova]
+$Type(1)
+$Window(0, "ゼルコバ", "t")
+$Anim(1, "ゼルコバ", "Smile")
+$Window(2, "ゼルコバ")
+能得到这种“奖励”，
+把“战斗”当成“兴趣”也不坏……$Wait(0)
+
+[MID_LVUP_LIMIT_Zelkova]
+$Type(1)
+$Window(0, "ゼルコバ", "t")
+$Anim(1, "ゼルコバ", "Normal")
+$Window(2, "ゼルコバ")
+该说是到达“极限”还是成就“极致”呢……
+对我来说不管是哪一个都“无所谓”就是了。$Wait(0)
+
+[MID_LVUP_CC_Zelkova]
+$Type(1)
+$Window(0, "ゼルコバ", "t")
+$Anim(1, "ゼルコバ", "Normal")
+$Window(2, "ゼルコバ")
+换上这身服装是想交付我什么“工作”呢？
+“无论什么”任务，我都不会“违抗”你的。$Wait(0)
+
+[MID_LVUP_1_Kagetsu]
+$Type(1)
+$Window(0, "カゲツ", "t")
+$Anim(1, "カゲツ", "Surprise")
+$Window(2, "カゲツ")
+咦～！
+实在无法理解，真是稀奇古怪！$Wait(0)
+
+[MID_LVUP_2_Kagetsu]
+$Type(1)
+$Window(0, "カゲツ", "t")
+$Anim(1, "カゲツ", "Smile")
+$Window(2, "カゲツ")
+余又变强了。
+真想找人比试比试！$Wait(0)
+
+[MID_LVUP_3_Kagetsu]
+$Type(1)
+$Window(0, "カゲツ", "t")
+$Anim(1, "カゲツ", "Status")
+$Window(2, "カゲツ")
+余既然到达这个境界，
+看来已是无人可挡咯！？$Wait(0)
+
+[MID_LVUP_4_Kagetsu]
+$Type(1)
+$Window(0, "カゲツ", "t")
+$Anim(1, "カゲツ", "Smile")
+$Window(2, "カゲツ")
+太好啦！余早就有
+今天会发生什么好事的预感了！$Wait(0)
+
+[MID_LVUP_LIMIT_Kagetsu]
+$Type(1)
+$Window(0, "カゲツ", "t")
+$Anim(1, "カゲツ", "Smile")
+$Window(2, "カゲツ")
+余已经是万夫莫敌。
+尽管派余和强者战斗吧！$Wait(0)
+
+[MID_LVUP_CC_Kagetsu]
+$Type(1)
+$Window(0, "カゲツ", "t")
+$Anim(1, "カゲツ", "Smile")
+$Window(2, "カゲツ")
+新服装、新战法！
+余现在很兴奋呢，神龙大人！$Wait(0)
+
+[MID_LVUP_1_Hortensia]
+$Type(1)
+$Window(0, "オルテンシア", "t")
+$Anim(1, "オルテンシア", "StandBy")
+$Window(2, "オルテンシア")
+是要人家更努力的意思对吧？
+人家接受挑战！$Wait(0)
+
+[MID_LVUP_2_Hortensia]
+$Type(1)
+$Window(0, "オルテンシア", "t")
+$Anim(1, "オルテンシア", "Relax")
+$Window(2, "オルテンシア")
+无论是实力还是外貌，
+都是这样一步步慢慢积累的。$Wait(0)
+
+[MID_LVUP_3_Hortensia]
+$Type(1)
+$Window(0, "オルテンシア", "t")
+$Anim(1, "オルテンシア", "Status")
+$Window(2, "オルテンシア")
+太好了。
+人家又变得更可爱了。$Wait(0)
+
+[MID_LVUP_4_Hortensia]
+$Type(1)
+$Window(0, "オルテンシア", "t")
+$Anim(1, "オルテンシア", "Shy")
+$Window(2, "オルテンシア")
+变、变得这么厉害……
+人家是有点高兴啦。$Wait(0)
+
+[MID_LVUP_LIMIT_Hortensia]
+$Type(1)
+$Window(0, "オルテンシア", "t")
+$Anim(1, "オルテンシア", "Smile")
+$Window(2, "オルテンシア")
+人家自认自己的实力
+已配得上公主之名。$Wait(0)
+
+[MID_LVUP_CC_Hortensia]
+$Type(1)
+$Window(0, "オルテンシア", "t")
+$Anim(1, "オルテンシア", "Shy")
+$Window(2, "オルテンシア")
+怎、怎么样？合适吗？很可爱对吧？
+人家可以稍微照一下镜子吗？$Wait(0)
+
+[MID_LVUP_CC2_Hortensia]
+$Type(1)
+$Window(0, "オルテンシア", "t")
+$Anim(1, "オルテンシア", "StandBy")
+$Window(2, "オルテンシア")
+改变的可不只是外表哦。
+准备被人家全新的力量魅惑吧！$Wait(0)
+
+[MID_LVUP_1_Rosado]
+$Type(1)
+$Window(0, "ロサード", "t")
+$Anim(1, "ロサード", "Shy")
+$Window(2, "ロサード")
+嗯，这也算是一种可爱吧～$Wait(0)
+
+[MID_LVUP_2_Rosado]
+$Type(1)
+$Window(0, "ロサード", "t")
+$Anim(1, "ロサード", "Relax")
+$Window(2, "ロサード")
+或许这点程度的成长
+才是最可爱的呢～$Wait(0)
+
+[MID_LVUP_3_Rosado]
+$Type(1)
+$Window(0, "ロサード", "t")
+$Anim(1, "ロサード", "Smile")
+$Window(2, "ロサード")
+对投身战场的我来说，
+这当然是值得高兴的事情呢。$Wait(0)
+
+[MID_LVUP_4_Rosado]
+$Type(1)
+$Window(0, "ロサード", "t")
+$Anim(1, "ロサード", "Status")
+$Window(2, "ロサード")
+没想到会变成这样。
+你会讨厌我变得太强吗？$Wait(0)
+
+[MID_LVUP_LIMIT_Rosado]
+$Type(1)
+$Window(0, "ロサード", "t")
+$Anim(1, "ロサード", "Smile")
+$Window(2, "ロサード")
+我非常喜欢现在这个
+又强又可爱的自己哦～$Wait(0)
+
+[MID_LVUP_CC_Rosado]
+$Type(1)
+$Window(0, "ロサード", "t")
+$Anim(1, "ロサード", "Smile")
+$Window(2, "ロサード")
+我非常喜欢新衣服。
+真想赶快给所有伙伴看看呢！$Wait(0)
+
+[MID_LVUP_1_Goldmary]
+$Type(1)
+$Window(0, "ゴルドマリー", "t")
+$Anim(1, "ゴルドマリー", "Surprise")
+$Window(2, "ゴルドマリー")
+咦？
+应该是我看错了吧？$Wait(0)
+
+[MID_LVUP_2_Goldmary]
+$Type(1)
+$Window(0, "ゴルドマリー", "t")
+$Anim(1, "ゴルドマリー", "Sad")
+$Window(2, "ゴルドマリー")
+非常抱歉……
+我又变强了……真的很抱歉……$Wait(0)
+
+[MID_LVUP_3_Goldmary]
+$Type(1)
+$Window(0, "ゴルドマリー", "t")
+$Anim(1, "ゴルドマリー", "Shy")
+$Window(2, "ゴルドマリー")
+啊……这么一来……
+又要变得更受欢迎了……$Wait(0)
+
+[MID_LVUP_4_Goldmary]
+$Type(1)
+$Window(0, "ゴルドマリー", "t")
+$Anim(1, "ゴルドマリー", "Status")
+$Window(2, "ゴルドマリー")
+我不仅可爱，还能有这种成就……
+居然能这么完美，我得向全世界道歉才行……$Wait(0)
+
+[MID_LVUP_LIMIT_Goldmary]
+$Type(1)
+$Window(0, "ゴルドマリー", "t")
+$Anim(1, "ゴルドマリー", "Smile")
+$Window(2, "ゴルドマリー")
+实在不好意思，我已经完美无瑕了……
+拥有极致的实力真是抱歉……$Wait(0)
+
+[MID_LVUP_CC_Goldmary]
+$Type(1)
+$Window(0, "ゴルドマリー", "t")
+$Anim(1, "ゴルドマリー", "Shy")
+$Window(2, "ゴルドマリー")
+真是抱歉，连新衣服都这么适合我……
+我好害怕怎么穿都好看的自己……$Wait(0)
+
+[MID_LVUP_1_Misutira]
+$Type(1)
+$Window(0, "ミスティラ", "t")
+$Anim(1, "ミスティラ", "Shy")
+$Window(2, "ミスティラ")
+没办法。
+总会有状况不好的时候呢！$Wait(0)
+
+[MID_LVUP_2_Misutira]
+$Type(1)
+$Window(0, "ミスティラ", "t")
+$Anim(1, "ミスティラ", "Status")
+$Window(2, "ミスティラ")
+我又变强了。
+照这个步调继续奋战吧！$Wait(0)
+
+[MID_LVUP_3_Misutira]
+$Type(1)
+$Window(0, "ミスティラ", "t")
+$Anim(1, "ミスティラ", "Smile")
+$Window(2, "ミスティラ")
+身为索尔姆的公主，这是理所当然的。
+我说笑而已啦。$Wait(0)
+
+[MID_LVUP_4_Misutira]
+$Type(1)
+$Window(0, "ミスティラ", "t")
+$Anim(1, "ミスティラ", "Relax")
+$Window(2, "ミスティラ")
+真是令人振奋的成绩。
+我们一定要凯旋归国！$Wait(0)
+
+[MID_LVUP_LIMIT_Misutira]
+$Type(1)
+$Window(0, "ミスティラ", "t")
+$Anim(1, "ミスティラ", "Status")
+$Window(2, "ミスティラ")
+自己说出口有点难为情，
+但我的实力似乎已臻于完美了。$Wait(0)
+
+[MID_LVUP_CC_Misutira]
+$Type(1)
+$Window(0, "ミスティラ", "t")
+$Anim(1, "ミスティラ", "Smile")
+$Window(2, "ミスティラ")
+感谢神龙大人！我非常喜欢这件衣服哦！
+时尚又可爱～♪应该很适合战斗时穿～♪$Wait(0)
+
+[MID_LVUP_CC2_Misutira]
+$Type(1)
+$Window(0, "ミスティラ", "t")
+$Anim(1, "ミスティラ", "Status")
+$Window(2, "ミスティラ")
+我感觉变得更强……而且更自由了！
+可别被脱胎换骨后热力四射的我给烫伤了哦！$Wait(0)
+
+[MID_LVUP_1_Merin]
+$Type(1)
+$Window(0, "メリン", "t")
+$Anim(1, "メリン", "Shy")
+$Window(2, "メリン")
+这还真是……
+让你看见我的丑态了啊。$Wait(0)
+
+[MID_LVUP_2_Merin]
+$Type(1)
+$Window(0, "メリン", "t")
+$Anim(1, "メリン", "Smile")
+$Window(2, "メリン")
+若已帅气地获得了成长，
+我便心满意足了。$Wait(0)
+
+[MID_LVUP_3_Merin]
+$Type(1)
+$Window(0, "メリン", "t")
+$Anim(1, "メリン", "Smile")
+$Window(2, "メリン")
+好像又变强了，
+但这点成绩都是应当的。$Wait(0)
+
+[MID_LVUP_4_Merin]
+$Type(1)
+$Window(0, "メリン", "t")
+$Anim(1, "メリン", "Smile")
+$Window(2, "メリン")
+喜悦就容我放在心中，
+靠这份力量击溃敌人才是我的作风。$Wait(0)
+
+[MID_LVUP_LIMIT_Merin]
+$Type(1)
+$Window(0, "メリン", "t")
+$Anim(1, "メリン", "Relax")
+$Window(2, "メリン")
+依据强大的定义来看，我已到达极致了吧。
+看来得着重于锻炼其他地方了。$Wait(0)
+
+[MID_LVUP_CC_Merin]
+$Type(1)
+$Window(0, "メリン", "t")
+$Anim(1, "メリン", "Status")
+$Window(2, "メリン")
+哇，这套服装真帅！神龙大人你说是不是？
+真想让珍禽异兽们也看看我的英姿啊。$Wait(0)
+
+[MID_LVUP_1_Panetone]
+$Type(1)
+$Window(0, "パネトネ", "t")
+$Anim(1, "パネトネ", "Pain")
+$Window(2, "パネトネ")
+真没用啊……$Wait(0)
+
+[MID_LVUP_2_Panetone]
+$Type(1)
+$Window(0, "パネトネ", "t")
+$Anim(1, "パネトネ", "Smile")
+$Window(2, "パネトネ")
+哎呀，那个，
+我稍微变强一点了呢。$Wait(0)
+
+[MID_LVUP_3_Panetone]
+$Type(1)
+$Window(0, "パネトネ", "t")
+$Anim(1, "パネトネ", "Smile")
+$Window(2, "パネトネ")
+太好了。
+我的攻击威力增强了。没错！$Wait(0)
+
+[MID_LVUP_4_Panetone]
+$Type(1)
+$Window(0, "パネトネ", "t")
+$Anim(1, "パネトネ", "StandBy")
+$Window(2, "パネトネ")
+挡在老娘面前的家伙别想活着回去啊！
+……哎呀，我失态了。$Wait(0)
+
+[MID_LVUP_LIMIT_Panetone]
+$Type(1)
+$Window(0, "パネトネ", "t")
+$Anim(1, "パネトネ", "Smile")
+$Window(2, "パネトネ")
+是的。现在要是有谁想来找茬，
+可是会被我打到满地找牙哦。$Wait(0)
+
+[MID_LVUP_CC_Panetone]
+$Type(1)
+$Window(0, "パネトネ", "t")
+$Anim(1, "パネトネ", "Shy")
+$Window(2, "パネトネ")
+虽然我喜欢更狂野一点的服装，
+……但这也不坏。没错。$Wait(0)
+
+[MID_LVUP_1_Fogato]
+$Type(1)
+$Window(0, "フォガート", "t")
+$Anim(1, "フォガート", "Shy")
+$Window(2, "フォガート")
+啊哈哈……抱歉。
+完全没有变化啊。$Wait(0)
+
+[MID_LVUP_2_Fogato]
+$Type(1)
+$Window(0, "フォガート", "t")
+$Anim(1, "フォガート", "Relax")
+$Window(2, "フォガート")
+各位敌人，感谢啦！
+多亏你们让我变得更强了！$Wait(0)
+
+[MID_LVUP_3_Fogato]
+$Type(1)
+$Window(0, "フォガート", "t")
+$Anim(1, "フォガート", "Status")
+$Window(2, "フォガート")
+要和大家并肩作战的话，
+至少也得拿出这点成果才行。$Wait(0)
+
+[MID_LVUP_4_Fogato]
+$Type(1)
+$Window(0, "フォガート", "t")
+$Anim(1, "フォガート", "Smile")
+$Window(2, "フォガート")
+我现在变得这么强，
+和我对战的敌人还真可怜呢。$Wait(0)
+
+[MID_LVUP_LIMIT_Fogato]
+$Type(1)
+$Window(0, "フォガート", "t")
+$Anim(1, "フォガート", "Relax")
+$Window(2, "フォガート")
+别看我这样，我可是非常强的。
+要试试看吗？$Wait(0)
+
+[MID_LVUP_CC_Fogato]
+$Type(1)
+$Window(0, "フォガート", "t")
+$Anim(1, "フォガート", "Smile")
+$Window(2, "フォガート")
+我是挺喜欢这身打扮啦……
+但是我更喜欢替我决定兵种的神龙大人哦！$Wait(0)
+
+[MID_LVUP_CC2_Fogato]
+$Type(1)
+$Window(0, "フォガート", "t")
+$Anim(1, "フォガート", "Smile")
+$Window(2, "フォガート")
+做人当然需要内外兼修。
+为了心爱的伙伴们，我会妥善运用这份力量向前迈进的！$Wait(0)
+
+[MID_LVUP_1_Pandoro]
+$Type(1)
+$Window(0, "パンドロ", "t")
+$Anim(1, "パンドロ", "Pain")
+$Window(2, "パンドロ")
+神龙大人，
+请您原谅我这头迷途的羔羊……$Wait(0)
+
+[MID_LVUP_2_Pandoro]
+$Type(1)
+$Window(0, "パンドロ", "t")
+$Anim(1, "パンドロ", "Relax")
+$Window(2, "パンドロ")
+啊，我变强了。
+神龙大人，非常感谢您。$Wait(0)
+
+[MID_LVUP_3_Pandoro]
+$Type(1)
+$Window(0, "パンドロ", "t")
+$Anim(1, "パンドロ", "Status")
+$Window(2, "パンドロ")
+为了神龙大人，
+要我化身恶魔也在所不辞。$Wait(0)
+
+[MID_LVUP_4_Pandoro]
+$Type(1)
+$Window(0, "パンドロ", "t")
+$Anim(1, "パンドロ", "Serious")
+$Window(2, "パンドロ")
+我明白您赋予我如此强大力量
+其背后的意义……神龙大人。$Wait(0)
+
+[MID_LVUP_LIMIT_Pandoro]
+$Type(1)
+$Window(0, "パンドロ", "t")
+$Anim(1, "パンドロ", "Shy")
+$Window(2, "パンドロ")
+虽然我还想变得更强……
+但现在这样就是极限了吧。$Wait(0)
+
+[MID_LVUP_CC_Pandoro]
+$Type(1)
+$Window(0, "パンドロ", "t")
+$Anim(1, "パンドロ", "Smile")
+$Window(2, "パンドロ")
+嘿咿！神明亲自赐予我新衣服耶！
+……我是说，能变成神龙大人所期望的样貌实属荣幸。$Wait(0)
+
+[MID_LVUP_1_Bonet]
+$Type(1)
+$Window(0, "ボネ", "t")
+$Anim(1, "ボネ", "Surprise")
+$Window(2, "ボネ")
+和想象中的味道不一样呢……$Wait(0)
+
+[MID_LVUP_2_Bonet]
+$Type(1)
+$Window(0, "ボネ", "t")
+$Anim(1, "ボネ", "Status")
+$Window(2, "ボネ")
+夺取性命将其化为食粮……
+看来战斗和烹饪是一样的。$Wait(0)
+
+[MID_LVUP_3_Bonet]
+$Type(1)
+$Window(0, "ボネ", "t")
+$Anim(1, "ボネ", "Smile")
+$Window(2, "ボネ")
+似乎是变强了……
+就让我料理点敌人来确认成效吧。$Wait(0)
+
+[MID_LVUP_4_Bonet]
+$Type(1)
+$Window(0, "ボネ", "t")
+$Anim(1, "ボネ", "Status")
+$Window(2, "ボネ")
+现在就让我细细品尝欢愉的滋味吧……
+毕竟下次不知何时才能再尝到了。$Wait(0)
+
+[MID_LVUP_LIMIT_Bonet]
+$Type(1)
+$Window(0, "ボネ", "t")
+$Anim(1, "ボネ", "Status")
+$Window(2, "ボネ")
+现在正是最佳状态。
+无论力量或调味，不见得越强就一定越好……$Wait(0)
+
+[MID_LVUP_CC_Bonet]
+$Type(1)
+$Window(0, "ボネ", "t")
+$Anim(1, "ボネ", "Die")
+$Window(2, "ボネ")
+崭新的我已经和以前完全不同了……
+我会督促自己在今后活用这个味道的。$Wait(0)
+
+[MID_LVUP_1_Anna]
+$Type(1)
+$Window(0, "アンナ", "t")
+$Anim(1, "アンナ", "Pain")
+$Window(2, "アンナ")
+这、这是为了下一次在蓄积力量！
+肯定是这样！$Wait(0)
+
+[MID_LVUP_2_Anna]
+$Type(1)
+$Window(0, "アンナ", "t")
+$Anim(1, "アンナ", "Relax")
+$Window(2, "アンナ")
+今天的业绩还行啦。
+下次也要加油。$Wait(0)
+
+[MID_LVUP_3_Anna]
+$Type(1)
+$Window(0, "アンナ", "t")
+$Anim(1, "アンナ", "Status")
+$Window(2, "アンナ")
+谢谢惠顾！
+就凭这股气势，一鼓作气赚大钱吧！$Wait(0)
+
+[MID_LVUP_4_Anna]
+$Type(1)
+$Window(0, "アンナ", "t")
+$Anim(1, "アンナ", "Status")
+$Window(2, "アンナ")
+太棒了！要是生意也能
+这么顺利就好了！$Wait(0)
+
+[MID_LVUP_LIMIT_Anna]
+$Type(1)
+$Window(0, "アンナ", "t")
+$Anim(1, "アンナ", "Smile")
+$Window(2, "アンナ")
+别看本小姐这样，
+我可是已经十分厉害了哦。$Wait(0)
+
+[MID_LVUP_CC_Anna]
+$Type(1)
+$Window(0, "アンナ", "t")
+$Anim(1, "アンナ", "Relax")
+$Window(2, "アンナ")
+我换下来的那一套衣服，
+可以拿到店里当二手衣卖吗？$Wait(0)
+
+[MID_LVUP_1_Jean]
+$Type(1)
+$Window(0, "ジャン", "t")
+$Anim(1, "ジャン", "Sad")
+$Window(2, "ジャン")
+糟糕……一定是我不够努力。
+我得勤加练习才行。$Wait(0)
+
+[MID_LVUP_2_Jean]
+$Type(1)
+$Window(0, "ジャン", "t")
+$Anim(1, "ジャン", "Shy")
+$Window(2, "ジャン")
+太好了。
+即使只是略有成长亦是万幸呀。$Wait(0)
+
+[MID_LVUP_3_Jean]
+$Type(1)
+$Window(0, "ジャン", "t")
+$Anim(1, "ジャン", "Smile")
+$Window(2, "ジャン")
+多谢啦！多亏有这些敌人，
+我才能变这么强。$Wait(0)
+
+[MID_LVUP_4_Jean]
+$Type(1)
+$Window(0, "ジャン", "t")
+$Anim(1, "ジャン", "Strike")
+$Window(2, "ジャン")
+我会在战场中努力学习
+如何成为一名救人性命的医生的……！$Wait(0)
+
+[MID_LVUP_LIMIT_Jean]
+$Type(1)
+$Window(0, "ジャン", "t")
+$Anim(1, "ジャン", "Relax")
+$Window(2, "ジャン")
+现在这强度已经到极限了。
+真希望可以快点长大呀。$Wait(0)
+
+[MID_LVUP_CC_Jean]
+$Type(1)
+$Window(0, "ジャン", "t")
+$Anim(1, "ジャン", "Angry")
+$Window(2, "ジャン")
+用这身姿态战斗感觉又能学到不少。
+神龙大人，今后也请您多指教了呀。$Wait(0)
+
+[MID_LVUP_1_Yunaka]
+$Type(1)
+$Window(0, "ユナカ", "t")
+$Anim(1, "ユナカ", "Shy")
+$Window(2, "ユナカ")
+啊哈哈……
+希望你笑过就算了！$Wait(0)
+
+[MID_LVUP_2_Yunaka]
+$Type(1)
+$Window(0, "ユナカ", "t")
+$Anim(1, "ユナカ", "Status")
+$Window(2, "ユナカ")
+感觉人家对于武器的掌握更加熟练了！$Wait(0)
+
+[MID_LVUP_3_Yunaka]
+$Type(1)
+$Window(0, "ユナカ", "t")
+$Anim(1, "ユナカ", "Smile")
+$Window(2, "ユナカ")
+真是个好消息啊。
+不过这也等同于宣告敌人的死期已至呢！$Wait(0)
+
+[MID_LVUP_4_Yunaka]
+$Type(1)
+$Window(0, "ユナカ", "t")
+$Anim(1, "ユナカ", "Status")
+$Window(2, "ユナカ")
+呀比！不才尤娜卡，
+居然变得这么厉害了呀！$Wait(0)
+
+[MID_LVUP_LIMIT_Yunaka]
+$Type(1)
+$Window(0, "ユナカ", "t")
+$Anim(1, "ユナカ", "Relax")
+$Window(2, "ユナカ")
+不知不觉人家变得这么强了……
+啊哈哈，好害羞哦。$Wait(0)
+
+[MID_LVUP_CC_Yunaka]
+$Type(1)
+$Window(0, "ユナカ", "t")
+$Anim(1, "ユナカ", "Status")
+$Window(2, "ユナカ")
+好像又变成全新的自己了……
+人家非常满意现在的样子哦，呀比！$Wait(0)
+
+[MID_LVUP_1_Seadas]
+$Type(1)
+$Window(0, "セアダス", "t")
+$Anim(1, "セアダス", "Normal")
+$Window(2, "セアダス")
+努力不见得一定会有回报。$Wait(0)
+
+[MID_LVUP_2_Seadas]
+$Type(1)
+$Window(0, "セアダス", "t")
+$Anim(1, "セアダス", "Relax")
+$Window(2, "セアダス")
+很高兴能获得成长。
+继续往下个阶段迈进吧。$Wait(0)
+
+[MID_LVUP_3_Seadas]
+$Type(1)
+$Window(0, "セアダス", "t")
+$Anim(1, "セアダス", "Smile")
+$Window(2, "セアダス")
+今天的星象很好，
+会有这种结果也是理所当然的。$Wait(0)
+
+[MID_LVUP_4_Seadas]
+$Type(1)
+$Window(0, "セアダス", "t")
+$Anim(1, "セアダス", "Die")
+$Window(2, "セアダス")
+抽到了“命运”卡。
+看来会有这种结果是早已注定的呢。$Wait(0)
+
+[MID_LVUP_LIMIT_Seadas]
+$Type(1)
+$Window(0, "セアダス", "t")
+$Anim(1, "セアダス", "Die")
+$Window(2, "セアダス")
+我想我已经十分强大了，
+不知道是否有其他能力可以继续精进吗？$Wait(0)
+
+[MID_LVUP_CC_Seadas]
+$Type(1)
+$Window(0, "セアダス", "t")
+$Anim(1, "セアダス", "Relax")
+$Window(2, "セアダス")
+我会好好管理身材，好让自己能穿上任何服装。
+要不要从今天就开始节食呢……$Wait(0)
+
+[MID_LVUP_1_Linden]
+$Type(1)
+$Window(0, "リンデン", "t")
+$Anim(1, "リンデン", "Serious")
+$Window(2, "リンデン")
+老夫的发育期已经结束很久了呐。$Wait(0)
+
+[MID_LVUP_2_Linden]
+$Type(1)
+$Window(0, "リンデン", "t")
+$Anim(1, "リンデン", "Smile")
+$Window(2, "リンデン")
+这把年纪还能有所成长，
+真是可喜可贺呐。$Wait(0)
+
+[MID_LVUP_3_Linden]
+$Type(1)
+$Window(0, "リンデン", "t")
+$Anim(1, "リンデン", "Smile")
+$Window(2, "リンデン")
+不错的结果呐。
+下次要尝试什么呢。$Wait(0)
+
+[MID_LVUP_4_Linden]
+$Type(1)
+$Window(0, "リンデン", "t")
+$Anim(1, "リンデン", "Surprise")
+$Window(2, "リンデン")
+什、什么……！
+真是难以置信的成就……！$Wait(0)
+
+[MID_LVUP_LIMIT_Linden]
+$Type(1)
+$Window(0, "リンデン", "t")
+$Anim(1, "リンデン", "Shy")
+$Window(2, "リンデン")
+老夫已经不会再成长了呐。
+现在该钻研自己的专攻领域了。$Wait(0)
+
+[MID_LVUP_CC_Linden]
+$Type(1)
+$Window(0, "リンデン", "t")
+$Anim(1, "リンデン", "Smile")
+$Window(2, "リンデン")
+非常感谢您愿意赐给老兵全新的力量。
+先来找个实验牛刀小试一下吧。$Wait(0)
+
+[MID_LVUP_1_Saphir]
+$Type(1)
+$Window(0, "ザフィーア", "t")
+$Anim(1, "ザフィーア", "StandBy")
+$Window(2, "ザフィーア")
+这也是常有的事呢。
+期待下次吧！$Wait(0)
+
+[MID_LVUP_2_Saphir]
+$Type(1)
+$Window(0, "ザフィーア", "t")
+$Anim(1, "ザフィーア", "Relax")
+$Window(2, "ザフィーア")
+所谓战斗至少也该有这点成绩才行。
+好了，去找人小试身手吧。$Wait(0)
+
+[MID_LVUP_3_Saphir]
+$Type(1)
+$Window(0, "ザフィーア", "t")
+$Anim(1, "ザフィーア", "StandBy")
+$Window(2, "ザフィーア")
+身为布罗帝亚王城士兵，
+我以这成绩为荣！$Wait(0)
+
+[MID_LVUP_4_Saphir]
+$Type(1)
+$Window(0, "ザフィーア", "t")
+$Anim(1, "ザフィーア", "Smile")
+$Window(2, "ザフィーア")
+真不错，无可挑剔。
+还有哪个家伙想被我剁成生鱼片啊？$Wait(0)
+
+[MID_LVUP_LIMIT_Saphir]
+$Type(1)
+$Window(0, "ザフィーア", "t")
+$Anim(1, "ザフィーア", "Serious")
+$Window(2, "ザフィーア")
+虽然我还想更上一层楼，
+但人类果然还是有极限的啊。$Wait(0)
+
+[MID_LVUP_CC_Saphir]
+$Type(1)
+$Window(0, "ザフィーア", "t")
+$Anim(1, "ザフィーア", "Relax")
+$Window(2, "ザフィーア")
+难得您如此看重我。
+我只好以实绩来报答您了。$Wait(0)
+
+[MID_LVUP_1_Veyre]
+$Type(1)
+$Window(0, "ヴェイル", "t")
+$Anim(1, "ヴェイル", "Sad")
+$Window(2, "ヴェイル")
+对、对不起。
+想必让你失望了吧。$Wait(0)
+
+[MID_LVUP_2_Veyre]
+$Type(1)
+$Window(0, "ヴェイル", "t")
+$Anim(1, "ヴェイル", "Smile")
+$Window(2, "ヴェイル")
+能变强真是太好了，
+都是托大家的福。$Wait(0)
+
+[MID_LVUP_3_Veyre]
+$Type(1)
+$Window(0, "ヴェイル", "t")
+$Anim(1, "ヴェイル", "Relax")
+$Window(2, "ヴェイル")
+这份力量不是用来伤害他人，
+而是为了守护大家的。$Wait(0)
+
+[MID_LVUP_4_Veyre]
+$Type(1)
+$Window(0, "ヴェイル", "t")
+$Anim(1, "ヴェイル", "Serious")
+$Window(2, "ヴェイル")
+我有想要实现的梦想……
+所以才能变强。$Wait(0)
+
+[MID_LVUP_LIMIT_Veyre]
+$Type(1)
+$Window(0, "ヴェイル", "t")
+$Anim(1, "ヴェイル", "Status")
+$Window(2, "ヴェイル")
+我已经变得十分厉害了，
+让我助你一臂之力吧。$Wait(0)
+
+[MID_LVUP_CC_Veyre]
+$Type(1)
+$Window(0, "ヴェイル", "t")
+$Anim(1, "ヴェイル", "Normal")
+$Window(2, "ヴェイル")
+谢谢你赋予我全新的力量。
+看好吧，我一定会善用这份力量的。$Wait(0)
+
+[MID_LVUP_1_Mauve]
+$Type(1)
+$Window(0, "モーヴ", "t")
+$Anim(1, "モーヴ", "Serious")
+$Window(2, "モーヴ")
+必须更加精进才行呢。$Wait(0)
+
+[MID_LVUP_2_Mauve]
+$Type(1)
+$Window(0, "モーヴ", "t")
+$Anim(1, "モーヴ", "StandBy")
+$Window(2, "モーヴ")
+实力提升了啊。
+那得立下更多功勋才行了。$Wait(0)
+
+[MID_LVUP_3_Mauve]
+$Type(1)
+$Window(0, "モーヴ", "t")
+$Anim(1, "モーヴ", "Smile")
+$Window(2, "モーヴ")
+值得高兴的成果。
+但现在可没有闲工夫休息了。$Wait(0)
+
+[MID_LVUP_4_Mauve]
+$Type(1)
+$Window(0, "モーヴ", "t")
+$Anim(1, "モーヴ", "Serious")
+$Window(2, "モーヴ")
+这次一定要将力量用在正道上……$Wait(0)
+
+[MID_LVUP_LIMIT_Mauve]
+$Type(1)
+$Window(0, "モーヴ", "t")
+$Anim(1, "モーヴ", "Strike")
+$Window(2, "モーヴ")
+身体能力已提升到极限。
+我不会再用来使坏了。$Wait(0)
+
+[MID_LVUP_CC_Mauve]
+$Type(1)
+$Window(0, "モーヴ", "t")
+$Anim(1, "モーヴ", "Status")
+$Window(2, "モーヴ")
+虽然犯下的罪孽无法消除，
+不才莫布……誓言定会立下更多战功。$Wait(0)
+
+[MID_LVUP_1_Lumiere]
+$Type(1)
+$Window(0, "琉弥艾尔", "t")
+$Anim(1, "琉弥艾尔", "Sad")
+$Window(2, "琉弥艾尔")
+……呃。十分抱歉。$Wait(0)
+
+[MID_LVUP_2_Lumiere]
+$Type(1)
+$Window(0, "琉弥艾尔", "t")
+$Anim(1, "琉弥艾尔", "Relax")
+$Window(2, "琉弥艾尔")
+嗯。
+这也算小有收获了吧。$Wait(0)
+
+[MID_LVUP_3_Lumiere]
+$Type(1)
+$Window(0, "琉弥艾尔", "t")
+$Anim(1, "琉弥艾尔", "Surprise")
+$Window(2, "琉弥艾尔")
+真是意想不到啊！
+居然还能继续成长。$Wait(0)
+
+[MID_LVUP_4_Lumiere]
+$Type(1)
+$Window(0, "琉弥艾尔", "t")
+$Anim(1, "琉弥艾尔", "Smile")
+$Window(2, "琉弥艾尔")
+没想到我还能获得如此卓越的成长啊。$Wait(0)
+
+[MID_LVUP_LIMIT_Lumiere]
+$Type(1)
+$Window(0, "琉弥艾尔", "t")
+$Anim(1, "琉弥艾尔", "Relax")
+$Window(2, "琉弥艾尔")
+已成长到极致了。$Wait(0)
+
+[MID_LVUP_CC_Lumiere]
+$Type(1)
+$Window(0, "琉弥艾尔", "t")
+$Anim(1, "琉弥艾尔", "Smile")
+$Window(2, "琉弥艾尔")
+我感觉到了一股充满暖意的全新力量。
+今后我会用这个新的力量为大家而战……！$Wait(0)
+
+[MID_LVUP_1_Marth]
+$Type(1)
+$Window(0, "马尔斯", "t")
+$Anim(1, "马尔斯", "Sad")
+$Window(2, "马尔斯")
+……呃。十分抱歉。$Wait(0)
+
+[MID_LVUP_2_Marth]
+$Type(1)
+$Window(0, "马尔斯", "t")
+$Anim(1, "马尔斯", "Relax")
+$Window(2, "马尔斯")
+嗯。
+这也算小有收获了吧。$Wait(0)
+
+[MID_LVUP_3_Marth]
+$Type(1)
+$Window(0, "马尔斯", "t")
+$Anim(1, "马尔斯", "Surprise")
+$Window(2, "马尔斯")
+真是意想不到啊！
+居然还能继续成长。$Wait(0)
+
+[MID_LVUP_4_Marth]
+$Type(1)
+$Window(0, "马尔斯", "t")
+$Anim(1, "马尔斯", "Smile")
+$Window(2, "马尔斯")
+没想到我还能获得如此卓越的成长啊。$Wait(0)
+
+[MID_LVUP_LIMIT_Marth]
+$Type(1)
+$Window(0, "马尔斯", "t")
+$Anim(1, "马尔斯", "Relax")
+$Window(2, "马尔斯")
+已成长到极致了。$Wait(0)
+
+[MID_LVUP_CC_Marth]
+$Type(1)
+$Window(0, "马尔斯", "t")
+$Anim(1, "马尔斯", "Smile")
+$Window(2, "马尔斯")
+我感觉到了一股充满暖意的全新力量。
+今后我会用这个新的力量为大家而战……！$Wait(0)
+
+[MID_LVUP_1_Siglud]
+$Type(1)
+$Window(0, "西格尔特", "t")
+$Anim(1, "西格尔特", "Sad")
+$Window(2, "西格尔特")
+……呃。十分抱歉。$Wait(0)
+
+[MID_LVUP_2_Siglud]
+$Type(1)
+$Window(0, "西格尔特", "t")
+$Anim(1, "西格尔特", "Relax")
+$Window(2, "西格尔特")
+嗯。
+这也算小有收获了吧。$Wait(0)
+
+[MID_LVUP_3_Siglud]
+$Type(1)
+$Window(0, "西格尔特", "t")
+$Anim(1, "西格尔特", "Surprise")
+$Window(2, "西格尔特")
+真是意想不到啊！
+居然还能继续成长。$Wait(0)
+
+[MID_LVUP_4_Siglud]
+$Type(1)
+$Window(0, "西格尔特", "t")
+$Anim(1, "西格尔特", "Smile")
+$Window(2, "西格尔特")
+没想到我还能获得如此卓越的成长啊。$Wait(0)
+
+[MID_LVUP_LIMIT_Siglud]
+$Type(1)
+$Window(0, "西格尔特", "t")
+$Anim(1, "西格尔特", "Relax")
+$Window(2, "西格尔特")
+已成长到极致了。$Wait(0)
+
+[MID_LVUP_CC_Siglud]
+$Type(1)
+$Window(0, "西格尔特", "t")
+$Anim(1, "西格尔特", "Smile")
+$Window(2, "西格尔特")
+我感觉到了一股充满暖意的全新力量。
+今后我会用这个新的力量为大家而战……！$Wait(0)
+
+[MID_LVUP_1_Celica]
+$Type(1)
+$Window(0, "赛莉卡", "t")
+$Anim(1, "赛莉卡", "Sad")
+$Window(2, "赛莉卡")
+……呃。十分抱歉。$Wait(0)
+
+[MID_LVUP_2_Celica]
+$Type(1)
+$Window(0, "赛莉卡", "t")
+$Anim(1, "赛莉卡", "Relax")
+$Window(2, "赛莉卡")
+嗯。
+这也算小有收获了吧。$Wait(0)
+
+[MID_LVUP_3_Celica]
+$Type(1)
+$Window(0, "赛莉卡", "t")
+$Anim(1, "赛莉卡", "Surprise")
+$Window(2, "赛莉卡")
+真是意想不到啊！
+居然还能继续成长。$Wait(0)
+
+[MID_LVUP_4_Celica]
+$Type(1)
+$Window(0, "赛莉卡", "t")
+$Anim(1, "赛莉卡", "Smile")
+$Window(2, "赛莉卡")
+没想到我还能获得如此卓越的成长啊。$Wait(0)
+
+[MID_LVUP_LIMIT_Celica]
+$Type(1)
+$Window(0, "赛莉卡", "t")
+$Anim(1, "赛莉卡", "Relax")
+$Window(2, "赛莉卡")
+已成长到极致了。$Wait(0)
+
+[MID_LVUP_CC_Celica]
+$Type(1)
+$Window(0, "赛莉卡", "t")
+$Anim(1, "赛莉卡", "Smile")
+$Window(2, "赛莉卡")
+我感觉到了一股充满暖意的全新力量。
+今后我会用这个新的力量为大家而战……！$Wait(0)
+
+[MID_LVUP_1_Micaiah]
+$Type(1)
+$Window(0, "米卡雅", "t")
+$Anim(1, "米卡雅", "Sad")
+$Window(2, "米卡雅")
+……呃。十分抱歉。$Wait(0)
+
+[MID_LVUP_2_Micaiah]
+$Type(1)
+$Window(0, "米卡雅", "t")
+$Anim(1, "米卡雅", "Relax")
+$Window(2, "米卡雅")
+嗯。
+这也算小有收获了吧。$Wait(0)
+
+[MID_LVUP_3_Micaiah]
+$Type(1)
+$Window(0, "米卡雅", "t")
+$Anim(1, "米卡雅", "Surprise")
+$Window(2, "米卡雅")
+真是意想不到啊！
+居然还能继续成长。$Wait(0)
+
+[MID_LVUP_4_Micaiah]
+$Type(1)
+$Window(0, "米卡雅", "t")
+$Anim(1, "米卡雅", "Smile")
+$Window(2, "米卡雅")
+没想到我还能获得如此卓越的成长啊。$Wait(0)
+
+[MID_LVUP_LIMIT_Micaiah]
+$Type(1)
+$Window(0, "米卡雅", "t")
+$Anim(1, "米卡雅", "Relax")
+$Window(2, "米卡雅")
+已成长到极致了。$Wait(0)
+
+[MID_LVUP_CC_Micaiah]
+$Type(1)
+$Window(0, "米卡雅", "t")
+$Anim(1, "米卡雅", "Smile")
+$Window(2, "米卡雅")
+我感觉到了一股充满暖意的全新力量。
+今后我会用这个新的力量为大家而战……！$Wait(0)
+
+[MID_LVUP_1_Roy]
+$Type(1)
+$Window(0, "罗伊", "t")
+$Anim(1, "罗伊", "Sad")
+$Window(2, "罗伊")
+……呃。十分抱歉。$Wait(0)
+
+[MID_LVUP_2_Roy]
+$Type(1)
+$Window(0, "罗伊", "t")
+$Anim(1, "罗伊", "Relax")
+$Window(2, "罗伊")
+嗯。
+这也算小有收获了吧。$Wait(0)
+
+[MID_LVUP_3_Roy]
+$Type(1)
+$Window(0, "罗伊", "t")
+$Anim(1, "罗伊", "Surprise")
+$Window(2, "罗伊")
+真是意想不到啊！
+居然还能继续成长。$Wait(0)
+
+[MID_LVUP_4_Roy]
+$Type(1)
+$Window(0, "罗伊", "t")
+$Anim(1, "罗伊", "Smile")
+$Window(2, "罗伊")
+没想到我还能获得如此卓越的成长啊。$Wait(0)
+
+[MID_LVUP_LIMIT_Roy]
+$Type(1)
+$Window(0, "罗伊", "t")
+$Anim(1, "罗伊", "Relax")
+$Window(2, "罗伊")
+已成长到极致了。$Wait(0)
+
+[MID_LVUP_CC_Roy]
+$Type(1)
+$Window(0, "罗伊", "t")
+$Anim(1, "罗伊", "Smile")
+$Window(2, "罗伊")
+我感觉到了一股充满暖意的全新力量。
+今后我会用这个新的力量为大家而战……！$Wait(0)
+
+[MID_LVUP_1_Leaf]
+$Type(1)
+$Window(0, "里弗", "t")
+$Anim(1, "里弗", "Sad")
+$Window(2, "里弗")
+……呃。十分抱歉。$Wait(0)
+
+[MID_LVUP_2_Leaf]
+$Type(1)
+$Window(0, "里弗", "t")
+$Anim(1, "里弗", "Relax")
+$Window(2, "里弗")
+嗯。
+这也算小有收获了吧。$Wait(0)
+
+[MID_LVUP_3_Leaf]
+$Type(1)
+$Window(0, "里弗", "t")
+$Anim(1, "里弗", "Surprise")
+$Window(2, "里弗")
+真是意想不到啊！
+居然还能继续成长。$Wait(0)
+
+[MID_LVUP_4_Leaf]
+$Type(1)
+$Window(0, "里弗", "t")
+$Anim(1, "里弗", "Smile")
+$Window(2, "里弗")
+没想到我还能获得如此卓越的成长啊。$Wait(0)
+
+[MID_LVUP_LIMIT_Leaf]
+$Type(1)
+$Window(0, "里弗", "t")
+$Anim(1, "里弗", "Relax")
+$Window(2, "里弗")
+已成长到极致了。$Wait(0)
+
+[MID_LVUP_CC_Leaf]
+$Type(1)
+$Window(0, "里弗", "t")
+$Anim(1, "里弗", "Smile")
+$Window(2, "里弗")
+我感觉到了一股充满暖意的全新力量。
+今后我会用这个新的力量为大家而战……！$Wait(0)
+
+[MID_LVUP_1_Lucina]
+$Type(1)
+$Window(0, "露琪娜", "t")
+$Anim(1, "露琪娜", "Sad")
+$Window(2, "露琪娜")
+……呃。十分抱歉。$Wait(0)
+
+[MID_LVUP_2_Lucina]
+$Type(1)
+$Window(0, "露琪娜", "t")
+$Anim(1, "露琪娜", "Relax")
+$Window(2, "露琪娜")
+嗯。
+这也算小有收获了吧。$Wait(0)
+
+[MID_LVUP_3_Lucina]
+$Type(1)
+$Window(0, "露琪娜", "t")
+$Anim(1, "露琪娜", "Surprise")
+$Window(2, "露琪娜")
+真是意想不到啊！
+居然还能继续成长。$Wait(0)
+
+[MID_LVUP_4_Lucina]
+$Type(1)
+$Window(0, "露琪娜", "t")
+$Anim(1, "露琪娜", "Smile")
+$Window(2, "露琪娜")
+没想到我还能获得如此卓越的成长啊。$Wait(0)
+
+[MID_LVUP_LIMIT_Lucina]
+$Type(1)
+$Window(0, "露琪娜", "t")
+$Anim(1, "露琪娜", "Relax")
+$Window(2, "露琪娜")
+已成长到极致了。$Wait(0)
+
+[MID_LVUP_CC_Lucina]
+$Type(1)
+$Window(0, "露琪娜", "t")
+$Anim(1, "露琪娜", "Smile")
+$Window(2, "露琪娜")
+我感觉到了一股充满暖意的全新力量。
+今后我会用这个新的力量为大家而战……！$Wait(0)
+
+[MID_LVUP_1_Lin]
+$Type(1)
+$Window(0, "琳", "t")
+$Anim(1, "琳", "Sad")
+$Window(2, "琳")
+……呃。十分抱歉。$Wait(0)
+
+[MID_LVUP_2_Lin]
+$Type(1)
+$Window(0, "琳", "t")
+$Anim(1, "琳", "Relax")
+$Window(2, "琳")
+嗯。
+这也算小有收获了吧。$Wait(0)
+
+[MID_LVUP_3_Lin]
+$Type(1)
+$Window(0, "琳", "t")
+$Anim(1, "琳", "Surprise")
+$Window(2, "琳")
+真是意想不到啊！
+居然还能继续成长。$Wait(0)
+
+[MID_LVUP_4_Lin]
+$Type(1)
+$Window(0, "琳", "t")
+$Anim(1, "琳", "Smile")
+$Window(2, "琳")
+没想到我还能获得如此卓越的成长啊。$Wait(0)
+
+[MID_LVUP_LIMIT_Lin]
+$Type(1)
+$Window(0, "琳", "t")
+$Anim(1, "琳", "Relax")
+$Window(2, "琳")
+已成长到极致了。$Wait(0)
+
+[MID_LVUP_CC_Lin]
+$Type(1)
+$Window(0, "琳", "t")
+$Anim(1, "琳", "Smile")
+$Window(2, "琳")
+我感觉到了一股充满暖意的全新力量。
+今后我会用这个新的力量为大家而战……！$Wait(0)
+
+[MID_LVUP_1_Ike]
+$Type(1)
+$Window(0, "艾克", "t")
+$Anim(1, "艾克", "Sad")
+$Window(2, "艾克")
+……呃。十分抱歉。$Wait(0)
+
+[MID_LVUP_2_Ike]
+$Type(1)
+$Window(0, "艾克", "t")
+$Anim(1, "艾克", "Relax")
+$Window(2, "艾克")
+嗯。
+这也算小有收获了吧。$Wait(0)
+
+[MID_LVUP_3_Ike]
+$Type(1)
+$Window(0, "艾克", "t")
+$Anim(1, "艾克", "Surprise")
+$Window(2, "艾克")
+真是意想不到啊！
+居然还能继续成长。$Wait(0)
+
+[MID_LVUP_4_Ike]
+$Type(1)
+$Window(0, "艾克", "t")
+$Anim(1, "艾克", "Smile")
+$Window(2, "艾克")
+没想到我还能获得如此卓越的成长啊。$Wait(0)
+
+[MID_LVUP_LIMIT_Ike]
+$Type(1)
+$Window(0, "艾克", "t")
+$Anim(1, "艾克", "Relax")
+$Window(2, "艾克")
+已成长到极致了。$Wait(0)
+
+[MID_LVUP_CC_Ike]
+$Type(1)
+$Window(0, "艾克", "t")
+$Anim(1, "艾克", "Smile")
+$Window(2, "艾克")
+我感觉到了一股充满暖意的全新力量。
+今后我会用这个新的力量为大家而战……！$Wait(0)
+
+[MID_LVUP_1_Byleth]
+$Type(1)
+$Window(0, "贝雷特", "t")
+$Anim(1, "贝雷特", "Sad")
+$Window(2, "贝雷特")
+……呃。十分抱歉。$Wait(0)
+
+[MID_LVUP_2_Byleth]
+$Type(1)
+$Window(0, "贝雷特", "t")
+$Anim(1, "贝雷特", "Relax")
+$Window(2, "贝雷特")
+嗯。
+这也算小有收获了吧。$Wait(0)
+
+[MID_LVUP_3_Byleth]
+$Type(1)
+$Window(0, "贝雷特", "t")
+$Anim(1, "贝雷特", "Surprise")
+$Window(2, "贝雷特")
+真是意想不到啊！
+居然还能继续成长。$Wait(0)
+
+[MID_LVUP_4_Byleth]
+$Type(1)
+$Window(0, "贝雷特", "t")
+$Anim(1, "贝雷特", "Smile")
+$Window(2, "贝雷特")
+没想到我还能获得如此卓越的成长啊。$Wait(0)
+
+[MID_LVUP_LIMIT_Byleth]
+$Type(1)
+$Window(0, "贝雷特", "t")
+$Anim(1, "贝雷特", "Relax")
+$Window(2, "贝雷特")
+已成长到极致了。$Wait(0)
+
+[MID_LVUP_CC_Byleth]
+$Type(1)
+$Window(0, "贝雷特", "t")
+$Anim(1, "贝雷特", "Smile")
+$Window(2, "贝雷特")
+我感觉到了一股充满暖意的全新力量。
+今后我会用这个新的力量为大家而战……！$Wait(0)
+
+[MID_LVUP_1_Kamui]
+$Type(1)
+$Window(0, "神威", "t")
+$Anim(1, "神威", "Sad")
+$Window(2, "神威")
+……呃。十分抱歉。$Wait(0)
+
+[MID_LVUP_2_Kamui]
+$Type(1)
+$Window(0, "神威", "t")
+$Anim(1, "神威", "Relax")
+$Window(2, "神威")
+嗯。
+这也算小有收获了吧。$Wait(0)
+
+[MID_LVUP_3_Kamui]
+$Type(1)
+$Window(0, "神威", "t")
+$Anim(1, "神威", "Surprise")
+$Window(2, "神威")
+真是意想不到啊！
+居然还能继续成长。$Wait(0)
+
+[MID_LVUP_4_Kamui]
+$Type(1)
+$Window(0, "神威", "t")
+$Anim(1, "神威", "Smile")
+$Window(2, "神威")
+没想到我还能获得如此卓越的成长啊。$Wait(0)
+
+[MID_LVUP_LIMIT_Kamui]
+$Type(1)
+$Window(0, "神威", "t")
+$Anim(1, "神威", "Relax")
+$Window(2, "神威")
+已成长到极致了。$Wait(0)
+
+[MID_LVUP_CC_Kamui]
+$Type(1)
+$Window(0, "神威", "t")
+$Anim(1, "神威", "Smile")
+$Window(2, "神威")
+我感觉到了一股充满暖意的全新力量。
+今后我会用这个新的力量为大家而战……！$Wait(0)
+
+[MID_LVUP_1_Eirik]
+$Type(1)
+$Window(0, "艾莉可", "t")
+$Anim(1, "艾莉可", "Sad")
+$Window(2, "艾莉可")
+……呃。十分抱歉。$Wait(0)
+
+[MID_LVUP_2_Eirik]
+$Type(1)
+$Window(0, "艾莉可", "t")
+$Anim(1, "艾莉可", "Relax")
+$Window(2, "艾莉可")
+嗯。
+这也算小有收获了吧。$Wait(0)
+
+[MID_LVUP_3_Eirik]
+$Type(1)
+$Window(0, "艾莉可", "t")
+$Anim(1, "艾莉可", "Surprise")
+$Window(2, "艾莉可")
+真是意想不到啊！
+居然还能继续成长。$Wait(0)
+
+[MID_LVUP_4_Eirik]
+$Type(1)
+$Window(0, "艾莉可", "t")
+$Anim(1, "艾莉可", "Smile")
+$Window(2, "艾莉可")
+没想到我还能获得如此卓越的成长啊。$Wait(0)
+
+[MID_LVUP_LIMIT_Eirik]
+$Type(1)
+$Window(0, "艾莉可", "t")
+$Anim(1, "艾莉可", "Relax")
+$Window(2, "艾莉可")
+已成长到极致了。$Wait(0)
+
+[MID_LVUP_CC_Eirik]
+$Type(1)
+$Window(0, "艾莉可", "t")
+$Anim(1, "艾莉可", "Smile")
+$Window(2, "艾莉可")
+我感觉到了一股充满暖意的全新力量。
+今后我会用这个新的力量为大家而战……！$Wait(0)
+
+[MID_LVUP_1_Edelgard]
+$Type(1)
+$Window(0, "艾黛尔贾特", "t")
+$Anim(1, "艾黛尔贾特", "Sad")
+$Window(2, "艾黛尔贾特")
+……呃。十分抱歉。$Wait(0)
+
+[MID_LVUP_2_Edelgard]
+$Type(1)
+$Window(0, "艾黛尔贾特", "t")
+$Anim(1, "艾黛尔贾特", "Relax")
+$Window(2, "艾黛尔贾特")
+嗯。
+这也算小有收获了吧。$Wait(0)
+
+[MID_LVUP_3_Edelgard]
+$Type(1)
+$Window(0, "艾黛尔贾特", "t")
+$Anim(1, "艾黛尔贾特", "Surprise")
+$Window(2, "艾黛尔贾特")
+真是意想不到啊！
+居然还能继续成长。$Wait(0)
+
+[MID_LVUP_4_Edelgard]
+$Type(1)
+$Window(0, "艾黛尔贾特", "t")
+$Anim(1, "艾黛尔贾特", "Smile")
+$Window(2, "艾黛尔贾特")
+没想到我还能获得如此卓越的成长啊。$Wait(0)
+
+[MID_LVUP_LIMIT_Edelgard]
+$Type(1)
+$Window(0, "艾黛尔贾特", "t")
+$Anim(1, "艾黛尔贾特", "Relax")
+$Window(2, "艾黛尔贾特")
+已成长到极致了。$Wait(0)
+
+[MID_LVUP_CC_Edelgard]
+$Type(1)
+$Window(0, "艾黛尔贾特", "t")
+$Anim(1, "艾黛尔贾特", "Smile")
+$Window(2, "艾黛尔贾特")
+我感觉到了一股充满暖意的全新力量。
+今后我会用这个新的力量为大家而战……！$Wait(0)
+
+[MID_LVUP_1_Dimitri]
+$Type(1)
+$Window(0, "帝弥托利", "t")
+$Anim(1, "帝弥托利", "Sad")
+$Window(2, "帝弥托利")
+……呃。十分抱歉。$Wait(0)
+
+[MID_LVUP_2_Dimitri]
+$Type(1)
+$Window(0, "帝弥托利", "t")
+$Anim(1, "帝弥托利", "Relax")
+$Window(2, "帝弥托利")
+嗯。
+这也算小有收获了吧。$Wait(0)
+
+[MID_LVUP_3_Dimitri]
+$Type(1)
+$Window(0, "帝弥托利", "t")
+$Anim(1, "帝弥托利", "Surprise")
+$Window(2, "帝弥托利")
+真是意想不到啊！
+居然还能继续成长。$Wait(0)
+
+[MID_LVUP_4_Dimitri]
+$Type(1)
+$Window(0, "帝弥托利", "t")
+$Anim(1, "帝弥托利", "Smile")
+$Window(2, "帝弥托利")
+没想到我还能获得如此卓越的成长啊。$Wait(0)
+
+[MID_LVUP_LIMIT_Dimitri]
+$Type(1)
+$Window(0, "帝弥托利", "t")
+$Anim(1, "帝弥托利", "Relax")
+$Window(2, "帝弥托利")
+已成长到极致了。$Wait(0)
+
+[MID_LVUP_CC_Dimitri]
+$Type(1)
+$Window(0, "帝弥托利", "t")
+$Anim(1, "帝弥托利", "Smile")
+$Window(2, "帝弥托利")
+我感觉到了一股充满暖意的全新力量。
+今后我会用这个新的力量为大家而战……！$Wait(0)
+
+[MID_LVUP_1_Claude]
+$Type(1)
+$Window(0, "库罗德", "t")
+$Anim(1, "库罗德", "Sad")
+$Window(2, "库罗德")
+……呃。十分抱歉。$Wait(0)
+
+[MID_LVUP_2_Claude]
+$Type(1)
+$Window(0, "库罗德", "t")
+$Anim(1, "库罗德", "Relax")
+$Window(2, "库罗德")
+嗯。
+这也算小有收获了吧。$Wait(0)
+
+[MID_LVUP_3_Claude]
+$Type(1)
+$Window(0, "库罗德", "t")
+$Anim(1, "库罗德", "Surprise")
+$Window(2, "库罗德")
+真是意想不到啊！
+居然还能继续成长。$Wait(0)
+
+[MID_LVUP_4_Claude]
+$Type(1)
+$Window(0, "库罗德", "t")
+$Anim(1, "库罗德", "Smile")
+$Window(2, "库罗德")
+没想到我还能获得如此卓越的成长啊。$Wait(0)
+
+[MID_LVUP_LIMIT_Claude]
+$Type(1)
+$Window(0, "库罗德", "t")
+$Anim(1, "库罗德", "Relax")
+$Window(2, "库罗德")
+已成长到极致了。$Wait(0)
+
+[MID_LVUP_CC_Claude]
+$Type(1)
+$Window(0, "库罗德", "t")
+$Anim(1, "库罗德", "Smile")
+$Window(2, "库罗德")
+我感觉到了一股充满暖意的全新力量。
+今后我会用这个新的力量为大家而战……！$Wait(0)
+
+[MID_LVUP_1_Hector]
+$Type(1)
+$Window(0, "海克托尔", "t")
+$Anim(1, "海克托尔", "Sad")
+$Window(2, "海克托尔")
+……呃。十分抱歉。$Wait(0)
+
+[MID_LVUP_2_Hector]
+$Type(1)
+$Window(0, "海克托尔", "t")
+$Anim(1, "海克托尔", "Relax")
+$Window(2, "海克托尔")
+嗯。
+这也算小有收获了吧。$Wait(0)
+
+[MID_LVUP_3_Hector]
+$Type(1)
+$Window(0, "海克托尔", "t")
+$Anim(1, "海克托尔", "Surprise")
+$Window(2, "海克托尔")
+真是意想不到啊！
+居然还能继续成长。$Wait(0)
+
+[MID_LVUP_4_Hector]
+$Type(1)
+$Window(0, "海克托尔", "t")
+$Anim(1, "海克托尔", "Smile")
+$Window(2, "海克托尔")
+没想到我还能获得如此卓越的成长啊。$Wait(0)
+
+[MID_LVUP_LIMIT_Hector]
+$Type(1)
+$Window(0, "海克托尔", "t")
+$Anim(1, "海克托尔", "Relax")
+$Window(2, "海克托尔")
+已成长到极致了。$Wait(0)
+
+[MID_LVUP_CC_Hector]
+$Type(1)
+$Window(0, "海克托尔", "t")
+$Anim(1, "海克托尔", "Smile")
+$Window(2, "海克托尔")
+我感觉到了一股充满暖意的全新力量。
+今后我会用这个新的力量为大家而战……！$Wait(0)
+
+[MID_LVUP_1_Veronica]
+$Type(1)
+$Window(0, "维罗妮卡", "t")
+$Anim(1, "维罗妮卡", "Sad")
+$Window(2, "维罗妮卡")
+……呃。十分抱歉。$Wait(0)
+
+[MID_LVUP_2_Veronica]
+$Type(1)
+$Window(0, "维罗妮卡", "t")
+$Anim(1, "维罗妮卡", "Relax")
+$Window(2, "维罗妮卡")
+嗯。
+这也算小有收获了吧。$Wait(0)
+
+[MID_LVUP_3_Veronica]
+$Type(1)
+$Window(0, "维罗妮卡", "t")
+$Anim(1, "维罗妮卡", "Surprise")
+$Window(2, "维罗妮卡")
+真是意想不到啊！
+居然还能继续成长。$Wait(0)
+
+[MID_LVUP_4_Veronica]
+$Type(1)
+$Window(0, "维罗妮卡", "t")
+$Anim(1, "维罗妮卡", "Smile")
+$Window(2, "维罗妮卡")
+没想到我还能获得如此卓越的成长啊。$Wait(0)
+
+[MID_LVUP_LIMIT_Veronica]
+$Type(1)
+$Window(0, "维罗妮卡", "t")
+$Anim(1, "维罗妮卡", "Relax")
+$Window(2, "维罗妮卡")
+已成长到极致了。$Wait(0)
+
+[MID_LVUP_CC_Veronica]
+$Type(1)
+$Window(0, "维罗妮卡", "t")
+$Anim(1, "维罗妮卡", "Smile")
+$Window(2, "维罗妮卡")
+我感觉到了一股充满暖意的全新力量。
+今后我会用这个新的力量为大家而战……！$Wait(0)
+
+[MID_LVUP_1_Senerio]
+$Type(1)
+$Window(0, "塞涅里欧", "t")
+$Anim(1, "塞涅里欧", "Sad")
+$Window(2, "塞涅里欧")
+……呃。十分抱歉。$Wait(0)
+
+[MID_LVUP_2_Senerio]
+$Type(1)
+$Window(0, "塞涅里欧", "t")
+$Anim(1, "塞涅里欧", "Relax")
+$Window(2, "塞涅里欧")
+嗯。
+这也算小有收获了吧。$Wait(0)
+
+[MID_LVUP_3_Senerio]
+$Type(1)
+$Window(0, "塞涅里欧", "t")
+$Anim(1, "塞涅里欧", "Surprise")
+$Window(2, "塞涅里欧")
+真是意想不到啊！
+居然还能继续成长。$Wait(0)
+
+[MID_LVUP_4_Senerio]
+$Type(1)
+$Window(0, "塞涅里欧", "t")
+$Anim(1, "塞涅里欧", "Smile")
+$Window(2, "塞涅里欧")
+没想到我还能获得如此卓越的成长啊。$Wait(0)
+
+[MID_LVUP_LIMIT_Senerio]
+$Type(1)
+$Window(0, "塞涅里欧", "t")
+$Anim(1, "塞涅里欧", "Relax")
+$Window(2, "塞涅里欧")
+已成长到极致了。$Wait(0)
+
+[MID_LVUP_CC_Senerio]
+$Type(1)
+$Window(0, "塞涅里欧", "t")
+$Anim(1, "塞涅里欧", "Smile")
+$Window(2, "塞涅里欧")
+我感觉到了一股充满暖意的全新力量。
+今后我会用这个新的力量为大家而战……！$Wait(0)
+
+[MID_LVUP_1_Camilla]
+$Type(1)
+$Window(0, "卡美拉", "t")
+$Anim(1, "卡美拉", "Sad")
+$Window(2, "卡美拉")
+……呃。十分抱歉。$Wait(0)
+
+[MID_LVUP_2_Camilla]
+$Type(1)
+$Window(0, "卡美拉", "t")
+$Anim(1, "卡美拉", "Relax")
+$Window(2, "卡美拉")
+嗯。
+这也算小有收获了吧。$Wait(0)
+
+[MID_LVUP_3_Camilla]
+$Type(1)
+$Window(0, "卡美拉", "t")
+$Anim(1, "卡美拉", "Surprise")
+$Window(2, "卡美拉")
+真是意想不到啊！
+居然还能继续成长。$Wait(0)
+
+[MID_LVUP_4_Camilla]
+$Type(1)
+$Window(0, "卡美拉", "t")
+$Anim(1, "卡美拉", "Smile")
+$Window(2, "卡美拉")
+没想到我还能获得如此卓越的成长啊。$Wait(0)
+
+[MID_LVUP_LIMIT_Camilla]
+$Type(1)
+$Window(0, "卡美拉", "t")
+$Anim(1, "卡美拉", "Relax")
+$Window(2, "卡美拉")
+已成长到极致了。$Wait(0)
+
+[MID_LVUP_CC_Camilla]
+$Type(1)
+$Window(0, "卡美拉", "t")
+$Anim(1, "卡美拉", "Smile")
+$Window(2, "卡美拉")
+我感觉到了一股充满暖意的全新力量。
+今后我会用这个新的力量为大家而战……！$Wait(0)
+
+[MID_LVUP_1_Chrom]
+$Type(1)
+$Window(0, "库洛武", "t")
+$Anim(1, "库洛武", "Sad")
+$Window(2, "库洛武")
+……呃。十分抱歉。$Wait(0)
+
+[MID_LVUP_2_Chrom]
+$Type(1)
+$Window(0, "库洛武", "t")
+$Anim(1, "库洛武", "Relax")
+$Window(2, "库洛武")
+嗯。
+这也算小有收获了吧。$Wait(0)
+
+[MID_LVUP_3_Chrom]
+$Type(1)
+$Window(0, "库洛武", "t")
+$Anim(1, "库洛武", "Surprise")
+$Window(2, "库洛武")
+真是意想不到啊！
+居然还能继续成长。$Wait(0)
+
+[MID_LVUP_4_Chrom]
+$Type(1)
+$Window(0, "库洛武", "t")
+$Anim(1, "库洛武", "Smile")
+$Window(2, "库洛武")
+没想到我还能获得如此卓越的成长啊。$Wait(0)
+
+[MID_LVUP_LIMIT_Chrom]
+$Type(1)
+$Window(0, "库洛武", "t")
+$Anim(1, "库洛武", "Relax")
+$Window(2, "库洛武")
+已成长到极致了。$Wait(0)
+
+[MID_LVUP_CC_Chrom]
+$Type(1)
+$Window(0, "库洛武", "t")
+$Anim(1, "库洛武", "Smile")
+$Window(2, "库洛武")
+我感觉到了一股充满暖意的全新力量。
+今后我会用这个新的力量为大家而战……！$Wait(0)
+
+[MID_LVUP_1_Reflet]
+$Type(1)
+$Window(0, "鲁弗莱", "t")
+$Anim(1, "鲁弗莱", "Sad")
+$Window(2, "鲁弗莱")
+……呃。十分抱歉。$Wait(0)
+
+[MID_LVUP_2_Reflet]
+$Type(1)
+$Window(0, "鲁弗莱", "t")
+$Anim(1, "鲁弗莱", "Relax")
+$Window(2, "鲁弗莱")
+嗯。
+这也算小有收获了吧。$Wait(0)
+
+[MID_LVUP_3_Reflet]
+$Type(1)
+$Window(0, "鲁弗莱", "t")
+$Anim(1, "鲁弗莱", "Surprise")
+$Window(2, "鲁弗莱")
+真是意想不到啊！
+居然还能继续成长。$Wait(0)
+
+[MID_LVUP_4_Reflet]
+$Type(1)
+$Window(0, "鲁弗莱", "t")
+$Anim(1, "鲁弗莱", "Smile")
+$Window(2, "鲁弗莱")
+没想到我还能获得如此卓越的成长啊。$Wait(0)
+
+[MID_LVUP_LIMIT_Reflet]
+$Type(1)
+$Window(0, "鲁弗莱", "t")
+$Anim(1, "鲁弗莱", "Relax")
+$Window(2, "鲁弗莱")
+已成长到极致了。$Wait(0)
+
+[MID_LVUP_CC_Reflet]
+$Type(1)
+$Window(0, "鲁弗莱", "t")
+$Anim(1, "鲁弗莱", "Smile")
+$Window(2, "鲁弗莱")
+我感觉到了一股充满暖意的全新力量。
+今后我会用这个新的力量为大家而战……！$Wait(0)
+
+[MID_LVUP_1_Ephraim]
+$Type(1)
+$Window(0, "艾夫拉姆", "t")
+$Anim(1, "艾夫拉姆", "Sad")
+$Window(2, "艾夫拉姆")
+……呃。十分抱歉。$Wait(0)
+
+[MID_LVUP_2_Ephraim]
+$Type(1)
+$Window(0, "艾夫拉姆", "t")
+$Anim(1, "艾夫拉姆", "Relax")
+$Window(2, "艾夫拉姆")
+嗯。
+这也算小有收获了吧。$Wait(0)
+
+[MID_LVUP_3_Ephraim]
+$Type(1)
+$Window(0, "艾夫拉姆", "t")
+$Anim(1, "艾夫拉姆", "Surprise")
+$Window(2, "艾夫拉姆")
+真是意想不到啊！
+居然还能继续成长。$Wait(0)
+
+[MID_LVUP_4_Ephraim]
+$Type(1)
+$Window(0, "艾夫拉姆", "t")
+$Anim(1, "艾夫拉姆", "Smile")
+$Window(2, "艾夫拉姆")
+没想到我还能获得如此卓越的成长啊。$Wait(0)
+
+[MID_LVUP_LIMIT_Ephraim]
+$Type(1)
+$Window(0, "艾夫拉姆", "t")
+$Anim(1, "艾夫拉姆", "Relax")
+$Window(2, "艾夫拉姆")
+已成长到极致了。$Wait(0)
+
+[MID_LVUP_CC_Ephraim]
+$Type(1)
+$Window(0, "艾夫拉姆", "t")
+$Anim(1, "艾夫拉姆", "Smile")
+$Window(2, "艾夫拉姆")
+我感觉到了一股充满暖意的全新力量。
+今后我会用这个新的力量为大家而战……！$Wait(0)
+
+[MID_LVUP_1_Tiki]
+$Type(1)
+$Window(0, "琪姬", "t")
+$Anim(1, "琪姬", "Sad")
+$Window(2, "琪姬")
+……呃。十分抱歉。$Wait(0)
+
+[MID_LVUP_2_Tiki]
+$Type(1)
+$Window(0, "琪姬", "t")
+$Anim(1, "琪姬", "Relax")
+$Window(2, "琪姬")
+嗯。
+这也算小有收获了吧。$Wait(0)
+
+[MID_LVUP_3_Tiki]
+$Type(1)
+$Window(0, "琪姬", "t")
+$Anim(1, "琪姬", "Surprise")
+$Window(2, "琪姬")
+真是意想不到啊！
+居然还能继续成长。$Wait(0)
+
+[MID_LVUP_4_Tiki]
+$Type(1)
+$Window(0, "琪姬", "t")
+$Anim(1, "琪姬", "Smile")
+$Window(2, "琪姬")
+没想到我还能获得如此卓越的成长啊。$Wait(0)
+
+[MID_LVUP_LIMIT_Tiki]
+$Type(1)
+$Window(0, "琪姬", "t")
+$Anim(1, "琪姬", "Relax")
+$Window(2, "琪姬")
+已成长到极致了。$Wait(0)
+
+[MID_LVUP_CC_Tiki]
+$Type(1)
+$Window(0, "琪姬", "t")
+$Anim(1, "琪姬", "Smile")
+$Window(2, "琪姬")
+我感觉到了一股充满暖意的全新力量。
+今后我会用这个新的力量为大家而战……！$Wait(0)
+
+[MID_LVUP_1_Eve]
+$Type(1)
+$Window(0, "伊芙", "t")
+$Anim(1, "伊芙", "Sad")
+$Window(2, "伊芙")
+……呃。十分抱歉。$Wait(0)
+
+[MID_LVUP_2_Eve]
+$Type(1)
+$Window(0, "伊芙", "t")
+$Anim(1, "伊芙", "Relax")
+$Window(2, "伊芙")
+嗯。
+这也算小有收获了吧。$Wait(0)
+
+[MID_LVUP_3_Eve]
+$Type(1)
+$Window(0, "伊芙", "t")
+$Anim(1, "伊芙", "Surprise")
+$Window(2, "伊芙")
+真是意想不到啊！
+居然还能继续成长。$Wait(0)
+
+[MID_LVUP_4_Eve]
+$Type(1)
+$Window(0, "伊芙", "t")
+$Anim(1, "伊芙", "Smile")
+$Window(2, "伊芙")
+没想到我还能获得如此卓越的成长啊。$Wait(0)
+
+[MID_LVUP_LIMIT_Eve]
+$Type(1)
+$Window(0, "伊芙", "t")
+$Anim(1, "伊芙", "Relax")
+$Window(2, "伊芙")
+已成长到极致了。$Wait(0)
+
+[MID_LVUP_CC_Eve]
+$Type(1)
+$Window(0, "伊芙", "t")
+$Anim(1, "伊芙", "Smile")
+$Window(2, "伊芙")
+我感觉到了一股充满暖意的全新力量。
+今后我会用这个新的力量为大家而战……！$Wait(0)
+
+[MID_LVUP_1_Sfoglia]
+$Type(1)
+$Window(0, "丝弗丽雅", "t")
+$Anim(1, "丝弗丽雅", "Sad")
+$Window(2, "丝弗丽雅")
+……呃。十分抱歉。$Wait(0)
+
+[MID_LVUP_2_Sfoglia]
+$Type(1)
+$Window(0, "丝弗丽雅", "t")
+$Anim(1, "丝弗丽雅", "Relax")
+$Window(2, "丝弗丽雅")
+嗯。
+这也算小有收获了吧。$Wait(0)
+
+[MID_LVUP_3_Sfoglia]
+$Type(1)
+$Window(0, "丝弗丽雅", "t")
+$Anim(1, "丝弗丽雅", "Surprise")
+$Window(2, "丝弗丽雅")
+真是意想不到啊！
+居然还能继续成长。$Wait(0)
+
+[MID_LVUP_4_Sfoglia]
+$Type(1)
+$Window(0, "丝弗丽雅", "t")
+$Anim(1, "丝弗丽雅", "Smile")
+$Window(2, "丝弗丽雅")
+没想到我还能获得如此卓越的成长啊。$Wait(0)
+
+[MID_LVUP_LIMIT_Sfoglia]
+$Type(1)
+$Window(0, "丝弗丽雅", "t")
+$Anim(1, "丝弗丽雅", "Relax")
+$Window(2, "丝弗丽雅")
+已成长到极致了。$Wait(0)
+
+[MID_LVUP_CC_Sfoglia]
+$Type(1)
+$Window(0, "丝弗丽雅", "t")
+$Anim(1, "丝弗丽雅", "Smile")
+$Window(2, "丝弗丽雅")
+我感觉到了一股充满暖意的全新力量。
+今后我会用这个新的力量为大家而战……！$Wait(0)
+
+[MID_LVUP_1_Morion]
+$Type(1)
+$Window(0, "莫力翁", "t")
+$Anim(1, "莫力翁", "Sad")
+$Window(2, "莫力翁")
+……呃。十分抱歉。$Wait(0)
+
+[MID_LVUP_2_Morion]
+$Type(1)
+$Window(0, "莫力翁", "t")
+$Anim(1, "莫力翁", "Relax")
+$Window(2, "莫力翁")
+嗯。
+这也算小有收获了吧。$Wait(0)
+
+[MID_LVUP_3_Morion]
+$Type(1)
+$Window(0, "莫力翁", "t")
+$Anim(1, "莫力翁", "Surprise")
+$Window(2, "莫力翁")
+真是意想不到啊！
+居然还能继续成长。$Wait(0)
+
+[MID_LVUP_4_Morion]
+$Type(1)
+$Window(0, "莫力翁", "t")
+$Anim(1, "莫力翁", "Smile")
+$Window(2, "莫力翁")
+没想到我还能获得如此卓越的成长啊。$Wait(0)
+
+[MID_LVUP_LIMIT_Morion]
+$Type(1)
+$Window(0, "莫力翁", "t")
+$Anim(1, "莫力翁", "Relax")
+$Window(2, "莫力翁")
+已成长到极致了。$Wait(0)
+
+[MID_LVUP_CC_Morion]
+$Type(1)
+$Window(0, "莫力翁", "t")
+$Anim(1, "莫力翁", "Smile")
+$Window(2, "莫力翁")
+我感觉到了一股充满暖意的全新力量。
+今后我会用这个新的力量为大家而战……！$Wait(0)
+
+[MID_LVUP_1_Hyacinth]
+$Type(1)
+$Window(0, "海亚信斯", "t")
+$Anim(1, "海亚信斯", "Sad")
+$Window(2, "海亚信斯")
+……呃。十分抱歉。$Wait(0)
+
+[MID_LVUP_2_Hyacinth]
+$Type(1)
+$Window(0, "海亚信斯", "t")
+$Anim(1, "海亚信斯", "Relax")
+$Window(2, "海亚信斯")
+嗯。
+这也算小有收获了吧。$Wait(0)
+
+[MID_LVUP_3_Hyacinth]
+$Type(1)
+$Window(0, "海亚信斯", "t")
+$Anim(1, "海亚信斯", "Surprise")
+$Window(2, "海亚信斯")
+真是意想不到啊！
+居然还能继续成长。$Wait(0)
+
+[MID_LVUP_4_Hyacinth]
+$Type(1)
+$Window(0, "海亚信斯", "t")
+$Anim(1, "海亚信斯", "Smile")
+$Window(2, "海亚信斯")
+没想到我还能获得如此卓越的成长啊。$Wait(0)
+
+[MID_LVUP_LIMIT_Hyacinth]
+$Type(1)
+$Window(0, "海亚信斯", "t")
+$Anim(1, "海亚信斯", "Relax")
+$Window(2, "海亚信斯")
+已成长到极致了。$Wait(0)
+
+[MID_LVUP_CC_Hyacinth]
+$Type(1)
+$Window(0, "海亚信斯", "t")
+$Anim(1, "海亚信斯", "Smile")
+$Window(2, "海亚信斯")
+我感觉到了一股充满暖意的全新力量。
+今后我会用这个新的力量为大家而战……！$Wait(0)
+
+[MID_LVUP_1_Sombre]
+$Type(1)
+$Window(0, "尚卜尔", "t")
+$Anim(1, "尚卜尔", "Sad")
+$Window(2, "尚卜尔")
+……哼。$Wait(0)
+
+[MID_LVUP_2_Sombre]
+$Type(1)
+$Window(0, "尚卜尔", "t")
+$Anim(1, "尚卜尔", "Relax")
+$Window(2, "尚卜尔")
+哼。
+还差得远呢。$Wait(0)
+
+[MID_LVUP_3_Sombre]
+$Type(1)
+$Window(0, "尚卜尔", "t")
+$Anim(1, "尚卜尔", "Surprise")
+$Window(2, "尚卜尔")
+哼！
+见识到孤的厉害了吧。$Wait(0)
+
+[MID_LVUP_4_Sombre]
+$Type(1)
+$Window(0, "尚卜尔", "t")
+$Anim(1, "尚卜尔", "Smile")
+$Window(2, "尚卜尔")
+哼，这才是孤的全部实力。$Wait(0)
+
+[MID_LVUP_LIMIT_Sombre]
+$Type(1)
+$Window(0, "尚卜尔", "t")
+$Anim(1, "尚卜尔", "Relax")
+$Window(2, "尚卜尔")
+原来这就是孤的极限。$Wait(0)
+
+[MID_LVUP_CC_Sombre]
+$Type(1)
+$Window(0, "尚卜尔", "t")
+$Anim(1, "尚卜尔", "Smile")
+$Window(2, "尚卜尔")
+哼。
+让孤也体验一下另一种力量吧！$Wait(0)
+
+[MID_LVUP_1_Nanzhu]
+$Type(1)
+$Window(0, "男琉尔", "t")
+$Anim(1, "男琉尔", "Sad")
+$Window(2, "男琉尔")
+好像没怎么变呢……$Wait(0)
+
+[MID_LVUP_2_Nanzhu]
+$Type(1)
+$Window(0, "男琉尔", "t")
+$Anim(1, "男琉尔", "Status")
+$Window(2, "男琉尔")
+我变得强一些了吗？$Wait(0)
+
+[MID_LVUP_3_Nanzhu]
+$Type(1)
+$Window(0, "男琉尔", "t")
+$Anim(1, "男琉尔", "Relax")
+$Window(2, "男琉尔")
+希望我的实力是真的有所成长。$Wait(0)
+
+[MID_LVUP_4_Nanzhu]
+$Type(1)
+$Window(0, "男琉尔", "t")
+$Anim(1, "男琉尔", "Smile")
+$Window(2, "男琉尔")
+我很高兴能有如此卓越的进步……！$Wait(0)
+
+[MID_LVUP_LIMIT_Nanzhu]
+$Type(1)
+$Window(0, "男琉尔", "t")
+$Anim(1, "男琉尔", "Smile")
+$Window(2, "男琉尔")
+看来我已经变得十分强大了。
+照这个步调继续加油吧。$Wait(0)
+
+[MID_LVUP_CC_Nanzhu]
+$Type(1)
+$Window(0, "男琉尔", "t")
+$Anim(1, "男琉尔", "Smile")
+$Window(2, "男琉尔")
+这一套新装束还适合我吗？
+我会好好运用这份力量继续努力的。$Wait(0)
+
+[MID_LVUP_CC2_Nanzhu]
+$Type(1)
+$Window(0, "男琉尔", "t")
+$Anim(1, "男琉尔", "Smile")
+$Window(2, "男琉尔")
+我感觉到了一股充满暖意的全新力量。
+今后我会以神龙的身分为大家而战……！$Wait(0)
+
+[MID_LVUP_1_Nvzhu]
+$Type(1)
+$Window(0, "女琉尔", "t")
+$Anim(1, "女琉尔", "Sad")
+$Window(2, "女琉尔")
+好像没怎么变呢……$Wait(0)
+
+[MID_LVUP_2_Nvzhu]
+$Type(1)
+$Window(0, "女琉尔", "t")
+$Anim(1, "女琉尔", "Status")
+$Window(2, "女琉尔")
+我变得强一些了吗？$Wait(0)
+
+[MID_LVUP_3_Nvzhu]
+$Type(1)
+$Window(0, "女琉尔", "t")
+$Anim(1, "女琉尔", "Relax")
+$Window(2, "女琉尔")
+希望我的实力是真的有所成长。$Wait(0)
+
+[MID_LVUP_4_Nvzhu]
+$Type(1)
+$Window(0, "女琉尔", "t")
+$Anim(1, "女琉尔", "Smile")
+$Window(2, "女琉尔")
+我很高兴能有如此卓越的进步……！$Wait(0)
+
+[MID_LVUP_LIMIT_Nvzhu]
+$Type(1)
+$Window(0, "女琉尔", "t")
+$Anim(1, "女琉尔", "Smile")
+$Window(2, "女琉尔")
+看来我已经变得十分强大了。
+照这个步调继续加油吧。$Wait(0)
+
+[MID_LVUP_CC_Nvzhu]
+$Type(1)
+$Window(0, "女琉尔", "t")
+$Anim(1, "女琉尔", "Smile")
+$Window(2, "女琉尔")
+这一套新装束还适合我吗？
+我会好好运用这份力量继续努力的。$Wait(0)
+
+[MID_LVUP_CC2_Nvzhu]
+$Type(1)
+$Window(0, "女琉尔", "t")
+$Anim(1, "女琉尔", "Smile")
+$Window(2, "女琉尔")
+我感觉到了一股充满暖意的全新力量。
+今后我会以神龙的身分为大家而战……！$Wait(0)
+
+[MID_LVUP_1_Aqua]
+$Type(1)
+$Window(0, "阿库娅", "t")
+$Anim(1, "阿库娅", "Sad")
+$Window(2, "阿库娅")
+好像没怎么变呢……$Wait(0)
+
+[MID_LVUP_2_Aqua]
+$Type(1)
+$Window(0, "阿库娅", "t")
+$Anim(1, "阿库娅", "Status")
+$Window(2, "阿库娅")
+我变得强一些了吗？$Wait(0)
+
+[MID_LVUP_3_Aqua]
+$Type(1)
+$Window(0, "阿库娅", "t")
+$Anim(1, "阿库娅", "Relax")
+$Window(2, "阿库娅")
+希望我的实力是真的有所成长。$Wait(0)
+
+[MID_LVUP_4_Aqua]
+$Type(1)
+$Window(0, "阿库娅", "t")
+$Anim(1, "阿库娅", "Smile")
+$Window(2, "阿库娅")
+我很高兴能有如此卓越的进步……！$Wait(0)
+
+[MID_LVUP_LIMIT_Aqua]
+$Type(1)
+$Window(0, "阿库娅", "t")
+$Anim(1, "阿库娅", "Smile")
+$Window(2, "阿库娅")
+看来我已经变得十分强大了。
+照这个步调继续加油吧。$Wait(0)
+
+[MID_LVUP_CC_Aqua]
+$Type(1)
+$Window(0, "阿库娅", "t")
+$Anim(1, "阿库娅", "Smile")
+$Window(2, "阿库娅")
+这一套新装束还适合我吗？
+我会好好运用这份力量继续努力的。$Wait(0)
+
+[MID_LVUP_CC2_Aqua]
+$Type(1)
+$Window(0, "阿库娅", "t")
+$Anim(1, "阿库娅", "Smile")
+$Window(2, "阿库娅")
+我感觉到了一股充满暖意的全新力量。
+今后我会用这个新的力量为大家而战……！$Wait(0)
+
+[MID_LVUP_1_Reinhardt]
+$Type(1)
+$Window(0, "莱因哈特", "t")
+$Anim(1, "莱因哈特", "Sad")
+$Window(2, "莱因哈特")
+好像没怎么变呢……$Wait(0)
+
+[MID_LVUP_2_Reinhardt]
+$Type(1)
+$Window(0, "莱因哈特", "t")
+$Anim(1, "莱因哈特", "Status")
+$Window(2, "莱因哈特")
+我变得强一些了吗？$Wait(0)
+
+[MID_LVUP_3_Reinhardt]
+$Type(1)
+$Window(0, "莱因哈特", "t")
+$Anim(1, "莱因哈特", "Relax")
+$Window(2, "莱因哈特")
+希望我的实力是真的有所成长。$Wait(0)
+
+[MID_LVUP_4_Reinhardt]
+$Type(1)
+$Window(0, "莱因哈特", "t")
+$Anim(1, "莱因哈特", "Smile")
+$Window(2, "莱因哈特")
+我很高兴能有如此卓越的进步……！$Wait(0)
+
+[MID_LVUP_LIMIT_Reinhardt]
+$Type(1)
+$Window(0, "莱因哈特", "t")
+$Anim(1, "莱因哈特", "Smile")
+$Window(2, "莱因哈特")
+看来我已经变得十分强大了。
+照这个步调继续加油吧。$Wait(0)
+
+[MID_LVUP_CC_Reinhardt]
+$Type(1)
+$Window(0, "莱因哈特", "t")
+$Anim(1, "莱因哈特", "Smile")
+$Window(2, "莱因哈特")
+这一套新装束还适合我吗？
+我会好好运用这份力量继续努力的。$Wait(0)
+
+[MID_LVUP_CC2_Reinhardt]
+$Type(1)
+$Window(0, "莱因哈特", "t")
+$Anim(1, "莱因哈特", "Smile")
+$Window(2, "莱因哈特")
+我感觉到了一股充满暖意的全新力量。
+今后我会用这个新的力量为大家而战……！$Wait(0)
+
+[MID_LVUP_1_Shez]
+$Type(1)
+$Window(0, "谢兹", "t")
+$Anim(1, "谢兹", "Sad")
+$Window(2, "谢兹")
+好像没怎么变呢……$Wait(0)
+
+[MID_LVUP_2_Shez]
+$Type(1)
+$Window(0, "谢兹", "t")
+$Anim(1, "谢兹", "Status")
+$Window(2, "谢兹")
+我变得强一些了吗？$Wait(0)
+
+[MID_LVUP_3_Shez]
+$Type(1)
+$Window(0, "谢兹", "t")
+$Anim(1, "谢兹", "Relax")
+$Window(2, "谢兹")
+希望我的实力是真的有所成长。$Wait(0)
+
+[MID_LVUP_4_Shez]
+$Type(1)
+$Window(0, "谢兹", "t")
+$Anim(1, "谢兹", "Smile")
+$Window(2, "谢兹")
+我很高兴能有如此卓越的进步……！$Wait(0)
+
+[MID_LVUP_LIMIT_Shez]
+$Type(1)
+$Window(0, "谢兹", "t")
+$Anim(1, "谢兹", "Smile")
+$Window(2, "谢兹")
+看来我已经变得十分强大了。
+照这个步调继续加油吧。$Wait(0)
+
+[MID_LVUP_CC_Shez]
+$Type(1)
+$Window(0, "谢兹", "t")
+$Anim(1, "谢兹", "Smile")
+$Window(2, "谢兹")
+这一套新装束还适合我吗？
+我会好好运用这份力量继续努力的。$Wait(0)
+
+[MID_LVUP_CC2_Shez]
+$Type(1)
+$Window(0, "谢兹", "t")
+$Anim(1, "谢兹", "Smile")
+$Window(2, "谢兹")
+我感觉到了一股充满暖意的全新力量。
+今后我会用这个新的力量为大家而战……！$Wait(0)
+
+[MID_LVUP_1_Yaoling]
+$Type(1)
+$Window(0, "Yaoling", "t")
+$Anim(1, "Yaoling", "Sad")
+$Window(2, "Yaoling")
+(⊙o⊙)…，好像搞砸了
+...$Wait(0)
+
+[MID_LVUP_2_Yaoling]
+$Type(1)
+$Window(0, "Yaoling", "t")
+$Anim(1, "Yaoling", "Normal")
+$Window(2, "Yaoling")
+积少成多.$Wait(0)
+
+[MID_LVUP_3_Yaoling]
+$Type(1)
+$Window(0, "Yaoling", "t")
+$Anim(1, "Yaoling", "Smile")
+$Window(2, "Yaoling")
+哇！多么富有成效的战斗$Wait(0)
+
+[MID_LVUP_4_Yaoling]
+$Type(1)
+$Window(0, "Yaoling", "t")
+$Anim(1, "Yaoling", "Smile")
+$Window(2, "Yaoling")
+我才刚刚开始！！
+$Wait(0)
+
+[MID_LVUP_LIMIT_Yaoling]
+$Type(1)
+$Window(0, "Yaoling", "t")
+$Anim(1, "Yaoling", "Shy")
+$Window(2, "Yaoling")
+这样的成果令人满意
+$Wait(0)
+
+[MID_LVUP_CC_Yaoling]
+$Type(1)
+$Window(0, "Yaoling", "t")
+$Anim(1, "Yaoling", "Smile")
+$Window(2, "Yaoling")
+我希望这种新的力量能帮助我保护他人。
+$Wait(0)
+
+[MID_LVUP_1_Mia]
+$Type(1)
+$Window(0, "瓦尤", "t")
+$Anim(1, "瓦尤", "Sad")
+$Window(2, "瓦尤")
+好像没怎么变呢……$Wait(0)
+
+[MID_LVUP_2_Mia]
+$Type(1)
+$Window(0, "瓦尤", "t")
+$Anim(1, "瓦尤", "Status")
+$Window(2, "瓦尤")
+我变得强一些了吗？$Wait(0)
+
+[MID_LVUP_3_Mia]
+$Type(1)
+$Window(0, "瓦尤", "t")
+$Anim(1, "瓦尤", "Relax")
+$Window(2, "瓦尤")
+希望我的实力是真的有所成长。$Wait(0)
+
+[MID_LVUP_4_Mia]
+$Type(1)
+$Window(0, "瓦尤", "t")
+$Anim(1, "瓦尤", "Smile")
+$Window(2, "瓦尤")
+我很高兴能有如此卓越的进步……！$Wait(0)
+
+[MID_LVUP_LIMIT_Mia]
+$Type(1)
+$Window(0, "瓦尤", "t")
+$Anim(1, "瓦尤", "Smile")
+$Window(2, "瓦尤")
+看来我已经变得十分强大了。
+照这个步调继续加油吧。$Wait(0)
+
+[MID_LVUP_CC_Mia]
+$Type(1)
+$Window(0, "瓦尤", "t")
+$Anim(1, "瓦尤", "Smile")
+$Window(2, "瓦尤")
+这一套新装束还适合我吗？
+我会好好运用这份力量继续努力的。$Wait(0)
+
+[MID_LVUP_CC2_Mia]
+$Type(1)
+$Window(0, "瓦尤", "t")
+$Anim(1, "瓦尤", "Smile")
+$Window(2, "瓦尤")
+我感觉到了一股充满暖意的全新力量。
+今后我会用这个新的力量为大家而战……！$Wait(0)
+
+[MID_LVUP_1_Jingliu]
+$Type(1)
+$Window(0, "Jingliu", "t")
+$Anim(1, "Jingliu", "Serious")
+$Window(2, "Jingliu")
+This was a small improvement, but nothing
+more.$Wait(0)
+
+[MID_LVUP_2_Jingliu]
+$Type(1)
+$Window(0, "Jingliu", "t")
+$Anim(1, "Jingliu", "Normal")
+$Window(2, "Jingliu")
+There is a story in every scar.$Wait(0)
+
+[MID_LVUP_3_Jingliu]
+$Type(1)
+$Window(0, "Jingliu", "t")
+$Anim(1, "Jingliu", "Normal")
+$Window(2, "Jingliu")
+If I am to cut through the heart of a
+star, more time is needed.$Wait(0)
+
+[MID_LVUP_4_Jingliu]
+$Type(1)
+$Window(0, "Jingliu", "t")
+$Anim(1, "Jingliu", "Smile")
+$Window(2, "Jingliu")
+Pushing my limits is what made me who
+I am today. I will not stop here.$Wait(0)
+
+[MID_LVUP_CC_Jingliu]
+$Type(1)
+$Window(0, "Jingliu", "t")
+$Anim(1, "Jingliu", "Status")
+$Window(2, "Jingliu")
+Even with brand new tricks to learn, I'll
+make this work.$Wait(0)
+
+[MID_LVUP_CC2_Jingliu]
+$Type(1)
+$Window(0, "Jingliu", "t")
+$Anim(1, "Jingliu", "Status")
+$Window(2, "Jingliu")
+My blade's reflection illuminates the
+past and perhaps one day the future too.$Wait(0)
+
+[MID_LVUP_LIMIT_Jingliu]
+$Type(1)
+$Window(0, "Jingliu", "t")
+$Anim(1, "Jingliu", "Serious")
+$Window(2, "Jingliu")
+With a blade of moonlight, all my foes
+shall be frozen for eternity.$Wait(0)

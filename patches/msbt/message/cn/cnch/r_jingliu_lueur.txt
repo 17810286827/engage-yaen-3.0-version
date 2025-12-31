@@ -1,0 +1,520 @@
+[MID_RELIANCE_A_#001]
+$Type(2)
+$Window(0, "PID_リュール", "1")
+$Window(0, "PID_Jingliu", "2")
+$Window(2, "PID_リュール")
+Jingliu, I wanted to thank you.$Wait(0)
+
+[MID_RELIANCE_A_#002]
+$Window(2, "PID_Jingliu")
+Thank me? For what?$Wait(0)
+
+[MID_RELIANCE_A_#003]
+$Window(2, "PID_リュール")
+For trusting my allies and I during the last battle.
+And also for sparring with me after that.$Wait(0)
+
+[MID_RELIANCE_A_#004]
+$Window(2, "PID_Jingliu")
+That trust was not given lightly, but given my standing
+in this world and in your army, I had little choice.$Wait(0)
+
+[MID_RELIANCE_A_#005]
+$Window(2, "PID_Jingliu")
+Regardless, I do believe you'll make a fine ruler in
+Lythos. You've earned my belief through your actions.$Wait(0)
+
+[MID_RELIANCE_A_#006]
+$Window(2, "PID_リュール")
+Really? It means a lot to hear you say that. I know
+you've been through a lot in your life.$Wait(0)
+
+[MID_RELIANCE_A_#007]
+$Window(2, "PID_Jingliu")
+Only because I'm older than you, and perhaps if the
+Sedition of Imbibitor Lunae did not occur...$Wait(0)
+
+[MID_RELIANCE_A_#008]
+$Window(2, "PID_Jingliu")
+No, the past cannot be changed for me but you still
+have hundreds of years to make the right choices.$Wait(0)
+
+[MID_RELIANCE_A_#009]
+$Window(2, "PID_リュール")
+Those are high expectations. I'll be honest, I
+thought you'd never stop looking down on me.$Wait(0)
+
+[MID_RELIANCE_A_#010]
+$Window(2, "PID_Jingliu")
+I apologize. I'm used to receiving hostility all the time
+that I've forgotten what normal interactions are like.$Wait(0)
+
+[MID_RELIANCE_A_#011]
+$Window(2, "PID_リュール")
+Well until you return to your homeland, I hope that
+you can have some more 'normal interactions' here.$Wait(0)
+
+[MID_RELIANCE_A_#012]
+$Window(2, "PID_リュール")
+And I think a willingness to change requires boldness and
+you are definitely bold if not anything else.$Wait(0)
+
+[MID_RELIANCE_A_#013]
+$Window(2, "PID_Jingliu")
+You have a way of making everything sound so
+simple.$Wait(0)
+
+[MID_RELIANCE_A_#014]
+$Window(2, "PID_リュール")
+It's not simple, but just how reality here is. Together,
+we're stronger than we are alone.$Wait(0)
+
+[MID_RELIANCE_A_#015]
+$Window(2, "PID_Jingliu")
+If I heard someone say that without context, I'd say
+it's cliche and immature.$Wait(0)
+
+[MID_RELIANCE_A_#016]
+$Window(2, "PID_Jingliu")
+Yet somehow, you managed to prove that to be true.$Wait(0)
+
+[MID_RELIANCE_A_#017]
+$Window(2, "PID_リュール")
+And you've shown me that strength can that come
+from...very intense resilience.$Wait(0)
+
+[MID_RELIANCE_A_#018]
+$Window(2, "PID_リュール")
+Given how strict you were in our last training session,
+you definitely showed your own soldiers no mercy.$Wait(0)
+
+[MID_RELIANCE_A_#019]
+$Window(2, "PID_Jingliu")
+Well if I didn't, they wouldn't be ready to defend
+the Xianzhou Luofu with their life.$Wait(0)
+
+[MID_RELIANCE_A_#020]
+$Window(2, "PID_Jingliu")
+When a warrior fights, they must be prepared to put
+everything on the line for their country.$Wait(0)
+
+[MID_RELIANCE_A_#021]
+$Window(2, "PID_Jingliu")
+Today, the Cloud Knights are not as united as they
+used to be, but their fervent spirits are still there.$Wait(0)
+
+[MID_RELIANCE_A_#022]
+$Window(2, "PID_Jingliu")
+As for you, I'd recommend taking on apprentices of
+your own. Perhaps those two young stewards?$Wait(0)
+
+[MID_RELIANCE_A_#023]
+$Window(2, "PID_リュール")
+Knowing them, I'm sure they'd be ecstatic, but I don't
+think I'm quite ready to be a mentor like you yet.$Wait(0)
+
+[MID_RELIANCE_A_#024]
+$Window(2, "PID_リュール")
+Once we win this war though, I'll definitely think
+it over.$Wait(0)
+
+[MID_RELIANCE_A_#025]
+$Window(2, "PID_Jingliu")
+Do not go easy on them as I did for you. Make them
+swing the sword a hundred times even if they tire.$Wait(0)
+
+[MID_RELIANCE_A_#026]
+$Window(2, "PID_リュール")
+Isn't that a bit excessive?$Wait(0)
+
+[MID_RELIANCE_A_#027]
+$Window(2, "PID_Jingliu")
+Not in the slightest. If you are prepared to guide
+humanity for the foreseeable future...$Wait(0)
+
+[MID_RELIANCE_A_#028]
+$Window(2, "PID_Jingliu")
+Then you'll have to make decisions that they may
+not like for their own good. That's weight in itself.$Wait(0)
+
+[MID_RELIANCE_A_#029]
+$Window(2, "PID_リュール")
+That makes sense, but my mother was loved by all
+in Lythos so I don't see why I can't please everyone.$Wait(0)
+
+[MID_RELIANCE_A_#030]
+$Window(2, "PID_Jingliu")
+Knowing you I wouldn't be surprised if that were
+to happen.$Wait(0)
+
+[MID_RELIANCE_A_#031]
+$Window(2, "PID_Jingliu")
+Though promises may have lost meaning for me, see
+to that you remain discerning in who you depend on.$Wait(0)
+
+[MID_RELIANCE_A_#032]
+$Window(2, "PID_Jingliu")
+You may have been betrayed before but you've
+learned from what has worked and what hasn't...$Wait(0)
+
+[MID_RELIANCE_A_#033]
+$Window(2, "PID_Jingliu")
+So continue to build yourself further so that you can
+become someone that your people respect by merit.$Wait(0)
+
+[MID_RELIANCE_A_#034]
+$Window(2, "PID_リュール")
+Thanks, Jingliu. I will certainly try my hardest. I know
+you've said you don't need your old friends anymore...$Wait(0)
+
+[MID_RELIANCE_A_#035]
+$Window(2, "PID_リュール")
+But if you find a way to overcome your rage, I
+believe you'll have a place on the Luofu.$Wait(0)
+
+[MID_RELIANCE_A_#036]
+$Window(2, "PID_Jingliu")
+A small possibility, but a possibility regardless. Let's
+see our own goals accomplished, shall we?$Wait(0)
+
+[MID_RELIANCE_A_#037]
+$Window(2, "PID_リュール")
+Yes, I look forward to our new alliance!$Wait(0)
+
+[MID_RELIANCE_B_#001]
+$Type(2)
+$Window(0, "PID_リュール", "1")
+$Window(0, "PID_Jingliu", "2")
+$Window(2, "PID_リュール")
+Jingliu, I've been thinking about what you said before,
+about trust and dependency holding me back.$Wait(0)
+
+[MID_RELIANCE_B_#002]
+$Window(2, "PID_Jingliu")
+Do you understand now? Fighting on the battlefield
+while worrying about others is an unnecessary burden.$Wait(0)
+
+[MID_RELIANCE_B_#003]
+$Window(2, "PID_リュール")
+That's not what I meant. I think trust is fragile,
+but that doesn't make it a weakness.$Wait(0)
+
+[MID_RELIANCE_B_#004]
+$Window(2, "PID_リュール")
+When Veyle betrayed me, it hurt but I kept fighting
+with my other allies because I believed in them.$Wait(0)
+
+[MID_RELIANCE_B_#005]
+$Window(2, "PID_リュール")
+And I wouldn't have ever known that she didn't mean
+to hurt me if I didn't see her again at Florra Port.$Wait(0)
+
+[MID_RELIANCE_B_#006]
+$Window(2, "PID_Jingliu")
+So despite her betrayal and the fact that she almost
+killed all of you in the process, you still accepted her?$Wait(0)
+
+[MID_RELIANCE_B_#007]
+$Window(2, "PID_リュール")
+I did because I knew she was suffering and she didn't
+want to choose the path that was laid out for her.$Wait(0)
+
+[MID_RELIANCE_B_#008]
+$Window(2, "PID_リュール")
+So, I'm not ignorant to what people are like, but
+shutting them out will only make things worse.$Wait(0)
+
+[MID_RELIANCE_B_#009]
+$Window(2, "PID_Jingliu")
+Your point of view is valid, but as I said before, I too
+thought similarly at your age.$Wait(0)
+
+[MID_RELIANCE_B_#010]
+$Window(2, "PID_リュール")
+Maybe you once did, but I see how much you carry
+on your own. It doesn't have to be that way.$Wait(0)
+
+[MID_RELIANCE_B_#011]
+$Window(2, "PID_Jingliu")
+But what if those whom I regarded close and
+abandoned also chose to abandon one other in turn?$Wait(0)
+
+[MID_RELIANCE_B_#012]
+$Window(2, "PID_リュール")
+...$Wait(0)
+
+[MID_RELIANCE_B_#013]
+$Window(2, "PID_Jingliu")
+Centuries ago, my four friends and I made a promise
+at a location known as Scalegorge Waterscape...$Wait(0)
+
+[MID_RELIANCE_B_#014]
+$Window(2, "PID_Jingliu")
+That seven centuries later, we would gather there and
+celebrate. Ultimately, the day would never come.$Wait(0)
+
+[MID_RELIANCE_B_#015]
+$Window(2, "PID_Jingliu")
+One was reborn without their memories, one seeks
+death but cannot find it, and another has passed on.$Wait(0)
+
+[MID_RELIANCE_B_#016]
+$Window(2, "PID_Jingliu")
+In the end, our friendship was no more and thus I no
+longer felt the need to "forge bonds" ever again.$Wait(0)
+
+[MID_RELIANCE_B_#017]
+$Window(2, "PID_Jingliu")
+Furthermore, I will be sentenced to imprisonment in
+due time, so what purpose will I have for it then?$Wait(0)
+
+[MID_RELIANCE_B_#018]
+$Window(2, "PID_リュール")
+Everything isn't a means to end, but given your
+stance, I suppose I'll have to be practical.$Wait(0)
+
+[MID_RELIANCE_B_#019]
+$Window(2, "PID_リュール")
+I understand that you don't rely on others because you
+think it's meaningless, but what about here in Elyos?$Wait(0)
+
+[MID_RELIANCE_B_#020]
+$Window(2, "PID_リュール")
+You won't be able fight all our enemies here on your
+own. In your weakened state, you'd become cornered.$Wait(0)
+
+[MID_RELIANCE_B_#021]
+$Window(2, "PID_Jingliu")
+Are you implying that I must depend on you for my
+own sake? $Wait(0)
+
+[MID_RELIANCE_B_#022]
+$Window(2, "PID_リュール")
+Not just me. This war against the Fell Dragon, though
+it isn't yours, can't be won alone.$Wait(0)
+
+[MID_RELIANCE_B_#023]
+$Window(2, "PID_リュール")
+And even though you were cast away from allies and
+don't want to rely on anyone ever again...$Wait(0)
+
+[MID_RELIANCE_B_#024]
+$Window(2, "PID_リュール")
+I want you to try while you're here in Elyos and even
+if not for me, then at least for your own survival.$Wait(0)
+
+[MID_RELIANCE_B_#025]
+$Window(2, "PID_Jingliu")
+You raise a valid point. I must admit, for having only
+woken up a few months ago without memories...$Wait(0)
+
+[MID_RELIANCE_B_#026]
+$Window(2, "PID_Jingliu")
+You seem to know just what to say to convince those
+around you.$Wait(0)
+
+[MID_RELIANCE_B_#027]
+$Window(2, "PID_Jingliu")
+Heh, this takes me back to my own time when I once
+led the Cloud Knights into battle.$Wait(0)
+
+[MID_RELIANCE_B_#028]
+$Window(2, "PID_Jingliu")
+And fighting alongside the High-Cloud Quintet so that
+no Denizen of Abundance would harm my homeland.$Wait(0)
+
+[MID_RELIANCE_B_#029]
+$Window(2, "PID_Jingliu")
+Perhaps indulging in old feelings, if but for even a
+fleeting moment, may prove to be a nice repose.$Wait(0)
+
+[MID_RELIANCE_B_#030]
+$Window(2, "PID_リュール")
+Does that mean you're willing to fight alongside us
+as a team?$Wait(0)
+
+[MID_RELIANCE_B_#031]
+$Window(2, "PID_Jingliu")
+It does, so long as you continue to lead in a
+professional and effective manner.$Wait(0)
+
+[MID_RELIANCE_B_#032]
+$Window(2, "PID_リュール")
+Thanks, Jingliu. It'll be reassuring to have a former
+general looking out for all of us.$Wait(0)
+
+[MID_RELIANCE_B_#033]
+$Window(2, "PID_Jingliu")
+I will do what I can for your little endeavor. Well
+then, shall I show you some of my techniques?$Wait(0)
+
+[MID_RELIANCE_B_#034]
+$Window(2, "PID_リュール")
+I'd gladly appreciate it.$Wait(0)
+
+
+[MID_RELIANCE_C_#001]
+$Type(2)
+$Window(0, "PID_リュール", "1")
+$Window(0, "PID_Jingliu", "2")
+$Window(2, "PID_リュール")
+There you are, Jingliu. I wasn't sure if you were
+still on the Somniel and...$Wait(0)
+
+[MID_RELIANCE_C_#002]
+$Window(2, "PID_リュール")
+Are you...looking for something?$Wait(0)
+
+[MID_RELIANCE_C_#003]
+$Window(2, "PID_Jingliu")
+Divine Dragon. I was searching the wares for a
+way to soothe my thoughts.$Wait(0)
+
+[MID_RELIANCE_C_#004]
+$Window(2, "PID_Jingliu")
+Though my mind is far more clear in Lythos, I
+still feel my rage surging up time and time again.$Wait(0)
+
+[MID_RELIANCE_C_#005]
+$Window(2, "PID_リュール")
+Rage? You don't strike me as someone who has a
+lack of self control or anything.$Wait(0)
+
+[MID_RELIANCE_C_#006]
+$Window(2, "PID_Jingliu")
+Retaining a hold on my sanity takes a great deal
+of effort.$Wait(0)
+
+[MID_RELIANCE_C_#007]
+$Window(2, "PID_Jingliu")
+I tried consulting that young doctor you recruited
+but alas, he was unable to find a cure.$Wait(0)
+
+[MID_RELIANCE_C_#008]
+$Window(2, "PID_リュール")
+Jean is still in training, Jingliu. There's plenty
+of professional help here in Lythos.$Wait(0)
+
+[MID_RELIANCE_C_#009]
+$Window(2, "PID_Jingliu")
+There's no need. I know a sound solution for my
+problem in my own world.$Wait(0)
+
+[MID_RELIANCE_C_#010]
+$Window(2, "PID_Jingliu")
+But enough of that. What is it you seek of me?$Wait(0)
+
+[MID_RELIANCE_C_#011]
+$Window(2, "PID_リュール")
+Well, I've noticed you've been training alone a lot
+recently...$Wait(0)
+
+[MID_RELIANCE_C_#012]
+$Window(2, "PID_リュール")
+And I was hoping you'd get a chance to spar with our
+allies in the arena. We could learn a lot from you.$Wait(0)
+
+[MID_RELIANCE_C_#013]
+$Window(2, "PID_Jingliu")
+...$Wait(0)
+
+[MID_RELIANCE_C_#014]
+$Window(2, "PID_Jingliu")
+No, I will not.$Wait(0)
+
+[MID_RELIANCE_C_#015]
+$Window(2, "PID_リュール")
+Huh? Why?$Wait(0)
+
+[MID_RELIANCE_C_#016]
+$Window(2, "PID_Jingliu")
+I disciplined myself through solitude which allowed
+my blade and skills to be honed undisturbed.$Wait(0)
+
+[MID_RELIANCE_C_#017]
+$Window(2, "PID_Jingliu")
+Only then was I able to reach the pinnacle of my
+strength.$Wait(0)
+
+[MID_RELIANCE_C_#018]
+$Window(2, "PID_Jingliu")
+Would someone like you cast off your allies in
+order to reach your maximum potential?$Wait(0)
+
+[MID_RELIANCE_C_#019]
+$Window(2, "PID_リュール")
+Of course not! All the people I've met along the
+way are irreplaceable.$Wait(0)
+
+[MID_RELIANCE_C_#020]
+$Window(2, "PID_リュール")
+They each have their own reasons for fighting and
+some are doing it because I'm the Divine Dragon.$Wait(0)
+
+[MID_RELIANCE_C_#021]
+$Window(2, "PID_リュール")
+If I'm not leading them into battle but instead
+pushing them away, then I'd fail as their leader.$Wait(0)
+
+[MID_RELIANCE_C_#022]
+$Window(2, "PID_リュール")
+Not only that, but I'd feel terrible denying them
+any hope that I could give them.$Wait(0)
+
+[MID_RELIANCE_C_#023]
+$Window(2, "PID_Jingliu")
+I used to think that once, but given that you're a 
+long-life species, your attitude will change in time.$Wait(0)
+
+[MID_RELIANCE_C_#024]
+$Window(2, "PID_Jingliu")
+You and your sister will outlive the humans around
+you and your relationship with their kind will sour.$Wait(0)
+
+[MID_RELIANCE_C_#025]
+$Window(2, "PID_Jingliu")
+And at the very end of it all, you will become their
+enemy, just like the Fell Dragon you are now hunting.$Wait(0)
+
+[MID_RELIANCE_C_#026]
+$Window(2, "PID_リュール")
+No, I won't. Celica and Corrin have told me of dragons
+that have degenerated in their world, sure...$Wait(0)
+
+[MID_RELIANCE_C_#027]
+$Window(2, "PID_リュール")
+But I've also heard of Naga from Tiki and Lucina
+who guided humanity for thousands of years.$Wait(0)
+
+[MID_RELIANCE_C_#028]
+$Window(2, "PID_リュール")
+My mother didn't give in to this 'sourness' you
+mentioned either and neither will I!$Wait(0)
+
+[MID_RELIANCE_C_#029]
+$Window(2, "PID_Jingliu")
+Bold words for someone so young.$Wait(0)
+
+[MID_RELIANCE_C_#030]
+$Window(2, "PID_リュール")
+Look, no matter what you say, I won't stop depending
+on others. Closing yourself off isn't the answer.$Wait(0)
+
+[MID_RELIANCE_C_#031]
+$Window(2, "PID_Jingliu")
+You speak as if trust is a choice without consequence.
+Shattered trust destroys even the strongest.$Wait(0)
+
+[MID_RELIANCE_C_#032]
+$Window(2, "PID_リュール")
+Maybe, but I'd rather risk that than live in isolation.$Wait(0)
+
+[MID_RELIANCE_C_#033]
+$Window(2, "PID_Jingliu")
+Then at least entertain the thought. We can talk
+again after our next mission.$Wait(0)
+
+[MID_RELIANCE_C_#034]
+$Window(2, "PID_Jingliu")
+Perhaps, then, you'll finally understand the reality
+of your situation.$Wait(0)

@@ -1,0 +1,260 @@
+[MID_OP5_Jingliu1_#001]
+$Type(1)
+$Window(0, "Jingliu", "t")
+$Anim(1, "Jingliu", "Smile")
+$Window(2, "Jingliu")
+这次或许是最后一次与你并肩作战了，
+让我们彻底消灭敌人吧.$Wait(2)
+
+[MID_OP5_Marth1_#001]
+$Type(1)
+$Window(0, "马尔斯", "t")
+$Anim(1, "马尔斯", "Smile")
+$Window(2,"马尔斯")
+我们要并肩作战到最后一刻.$Wait(2)
+
+[MID_OP5_Siglud1_#001]
+$Type(1)
+$Window(0, "西格尔特", "t")
+$Anim(1, "西格尔特", "Smile")
+$Window(2,"西格尔特")
+无论前方有多大困难，我都会保护你的.$Wait(2)
+
+[MID_OP5_Celica1_#001]
+$Type(1)
+$Window(0, "赛莉卡", "t")
+$Anim(1, "赛莉卡", "Smile")
+$Window(2,"赛莉卡")
+有我跟在你身边，放心地去战斗吧.$Wait(2)
+
+[MID_OP5_Micaiah1_#001]
+$Type(1)
+$Window(0, "米卡雅", "t")
+$Anim(1, "米卡雅", "Smile")
+$Window(2,"米卡雅")
+最后一刻了，为了这个世界的解放，请使用我的力量吧.$Wait(2)
+
+[MID_OP5_Roy1_#001]
+$Type(1)
+$Window(0, "罗伊", "t")
+$Anim(1, "罗伊", "Smile")
+$Window(2,"罗伊")
+战斗才刚要开始，我会拼尽全力.$Wait(2)
+
+[MID_OP5_Leaf1_#001]
+$Type(1)
+$Window(0, "里弗", "t")
+$Anim(1, "里弗", "Smile")
+$Window(2,"里弗")
+也让我贡献出自己的一份力量吧.$Wait(2)
+
+[MID_OP5_Lucina1_#001]
+$Type(1)
+$Window(0, "露琪娜", "t")
+$Anim(1, "露琪娜", "Smile")
+$Window(2,"露琪娜")
+就让我们亲手抓住充满希望的未来吧.$Wait(2)
+
+[MID_OP5_Lin1_#001]
+$Type(1)
+$Window(0, "琳", "t")
+$Anim(1, "琳", "Smile")
+$Window(2,"琳")
+我将与你同在，让我来支援你吧.$Wait(2)
+
+[MID_OP5_Ike1_#001]
+$Type(1)
+$Window(0, "艾克", "t")
+$Anim(1, "艾克", "Smile")
+$Window(2,"艾克")
+这场战争终将赢来胜利.$Wait(2)
+
+[MID_OP5_Byleth1_#001]
+$Type(1)
+$Window(0, "贝雷特", "t")
+$Anim(1, "贝雷特", "Smile")
+$Window(2,"贝雷特")
+$P，我会保护好你和大家的.$Wait(2)
+
+[MID_OP5_Kamui1_#001]
+$Type(1)
+$Window(0, "神威", "t")
+$Anim(1, "神威", "Smile")
+$Window(2,"神威")
+$P，我们要一起走下去.$Wait(2)
+
+[MID_OP5_Eirik1_#001]
+$Type(1)
+$Window(0, "艾莉可", "t")
+$Anim(1, "艾莉可", "Smile")
+$Window(2,"艾莉可")
+经历了这么多，相信我们会胜利的.$Wait(2)
+
+[MID_OP5_Edelgard1_#001]
+$Type(1)
+$Window(0, "艾黛尔贾特", "t")
+$Anim(1, "艾黛尔贾特", "Smile")
+$Window(2,"艾黛尔贾特")
+这个世界的邪龙，让我来斩杀吧.$Wait(2)
+
+[MID_OP5_Dimitri1_#001]
+$Type(1)
+$Window(0, "帝弥托利", "t")
+$Anim(1, "帝弥托利", "Smile")
+$Window(2,"帝弥托利")
+就让我来助你最后一程吧.$Wait(2)
+
+[MID_OP5_Claude1_#001]
+$Type(1)
+$Window(0, "库罗德", "t")
+$Anim(1, "库罗德", "Smile")
+$Window(2,"库罗德")
+这个时候该说兄弟齐心，其利断金嘛.$Wait(2)
+
+[MID_OP5_Tiki1_#001]
+$Type(1)
+$Window(0, "琪姬", "t")
+$Anim(1, "琪姬", "Smile")
+$Window(2,"琪姬")
+我将赐予你最后的祝福，.$Wait(2)
+
+[MID_OP5_Hector1_#001]
+$Type(1)
+$Window(0, "海克托尔", "t")
+$Anim(1, "海克托尔", "Smile")
+$Window(2,"海克托尔")
+前排就交给我吧.$Wait(2)
+
+[MID_OP5_Veronica1_#001]
+$Type(1)
+$Window(0, "维罗妮卡", "t")
+$Anim(1, "维罗妮卡", "Smile")
+$Window(2,"维罗妮卡")
+我要击败你，已经在想契约的内容了，呵呵.$Wait(2)
+
+[MID_OP5_Senerio1_#001]
+$Type(1)
+$Window(0, "塞涅里欧", "t")
+$Anim(1, "塞涅里欧", "Smile")
+$Window(2,"塞涅里欧")
+敌人就在眼前，已经不需要多余的计策了.$Wait(2)
+
+[MID_OP5_Camilla1_#001]
+$Type(1)
+$Window(0, "卡美拉", "t")
+$Anim(1, "卡美拉", "Smile")
+$Window(2,"卡美拉")
+让大姐姐我把这些不听话的孩子通通教育一下.$Wait(2)
+
+[MID_OP5_Chrom1_#001]
+$Type(1)
+$Window(0, "库洛武", "t")
+$Anim(1, "库洛武", "Smile")
+$Window(2,"库洛武")
+让我助你一臂之力吧.$Wait(2)
+
+[MID_OP5_Reflet1_#001]
+$Type(1)
+$Window(0, "鲁弗莱", "t")
+$Anim(1, "鲁弗莱", "Smile")
+$Window(2,"鲁弗莱")
+我会助你一臂之力.$Wait(2)
+
+[MID_OP5_Ephraim1_#001]
+$Type(1)
+$Window(0, "艾夫拉姆", "t")
+$Anim(1, "艾夫拉姆", "Smile")
+$Window(2,"艾夫拉姆")
+我会助你击败这里的魔王的.$Wait(2)
+
+[MID_OP5_Sombre1_#001]
+$Type(1)
+$Window(0, "尚卜尔", "t")
+$Anim(1, "尚卜尔", "Smile")
+$Window(2,"尚卜尔")
+哼，与自己打架竟是这种感觉.$Wait(2)
+
+[MID_OP5_Morion1_#001]
+$Type(1)
+$Window(0, "莫力翁", "t")
+$Anim(1, "莫力翁", "Smile")
+$Window(2,"莫力翁")
+邪龙，受死吧.$Wait(2)
+
+[MID_OP5_Hyacinth1_#001]
+$Type(1)
+$Window(0, "海亚信斯", "t")
+$Anim(1, "海亚信斯", "Smile")
+$Window(2,"海亚信斯")
+邪龙大人，请你安息.$Wait(2)
+
+[MID_OP5_Eve1_#001]
+$Type(1)
+$Window(0, "伊芙", "t")
+$Anim(1, "伊芙", "Smile")
+$Window(2,"伊芙")
+邪龙，我不会让你破坏这个世界的和平的.$Wait(2)
+
+[MID_OP5_Sfoglia1_#001]
+$Type(1)
+$Window(0, "丝弗丽雅", "t")
+$Anim(1, "丝弗丽雅", "Smile")
+$Window(2,"丝弗丽雅")
+邪龙，我不会让你伤害我的子民的.$Wait(2)
+
+[MID_OP5_Lumiere1_#001]
+$Type(1)
+$Window(0, "琉弥艾尔", "t")
+$Anim(1, "琉弥艾尔", "Smile")
+$Window(2,"琉弥艾尔")
+尚卜尔，一千年了，是时候终结这一切了.$Wait(2)
+
+[MID_OP5_Aqua1_#001]
+$Type(1)
+$Window(0, "阿库娅", "t")
+$Anim(1, "阿库娅", "Smile")
+$Window(2,"阿库娅")
+让我用歌声鼓舞大家吧.$Wait(2)
+
+[MID_OP5_Reinhardt1_#001]
+$Type(1)
+$Window(0, "莱因哈特", "t")
+$Anim(1, "莱因哈特", "Smile")
+$Window(2,"莱因哈特")
+我来协助你，给予敌人雷霆一击.$Wait(2)
+
+[MID_OP5_Shez1_#001]
+$Type(1)
+$Window(0, "谢兹", "t")
+$Anim(1, "谢兹", "Smile")
+$Window(2,"谢兹")
+我会以雇佣兵的身份战斗到最后.$Wait(2)
+
+[MID_OP5_Nanzhu1_#001]
+$Type(1)
+$Window(0, "男琉尔", "t")
+$Anim(1, "男琉尔", "Smile")
+$Window(2,"男琉尔")
+邪龙，我不会让你继续危害世界了.$Wait(2)
+
+[MID_OP5_Nvzhu1_#001]
+$Type(1)
+$Window(0, "女琉尔", "t")
+$Anim(1, "女琉尔", "Smile")
+$Window(2,"女琉尔")
+邪龙，我不会让你继续危害世界了.$Wait(2)
+
+[MID_OP5_Yaoling1_#001]
+$Type(1)
+$Window(0, "Yaoling", "t")
+$Anim(1, "Yaoling", "Smile")
+$Window(2,"Yaoling")
+最后一战，尽情战斗吧.$Wait(2)
+
+[MID_OP5_Mia1_#001]
+$Type(1)
+$Window(0, "瓦尤", "t")
+$Anim(1, "瓦尤", "Smile")
+$Window(2,"瓦尤")
+大将，我来助你破阵.$Wait(2)
+

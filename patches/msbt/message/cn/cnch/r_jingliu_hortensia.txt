@@ -1,0 +1,691 @@
+[MID_RELIANCE_A_#001]
+$Type(2)
+$Window(0, "PID_オルテンシア", "1")
+$Window(0, "PID_Jingliu", "2")
+$Window(2, "PID_オルテンシア")
+What you think, Jingliu? I bet you've never
+experienced hot springs like that before!$Wait(0)
+
+[MID_RELIANCE_A_#002]
+$Window(2, "PID_Jingliu")
+It truly has been a long time since I was last able
+to relax in one.$Wait(0)
+
+[MID_RELIANCE_A_#003]
+$Window(2, "PID_Jingliu")
+Perhaps if I am able to integrate myself back into
+Xianzhou society...$Wait(0)
+
+[MID_RELIANCE_A_#004]
+$Window(2, "PID_Jingliu")
+I may just request my former apprentice to build one
+on the Luofu.$Wait(0)
+
+[MID_RELIANCE_A_#005]
+$Window(2, "PID_オルテンシア")
+From what you told me, your homeland is a massive
+flagship, right?$Wait(0)
+
+[MID_RELIANCE_A_#006]
+$Window(2, "PID_オルテンシア")
+These Elusian hotsprings are completely natural
+and we have Goldmary's family to thank for them...$Wait(0)
+
+[MID_RELIANCE_A_#007]
+$Window(2, "PID_オルテンシア")
+So I'm not exactly sure if they can be remade so
+easily or even naturally in your world.$Wait(0)
+
+[MID_RELIANCE_A_#008]
+$Window(2, "PID_Jingliu")
+From where I come from, traveling around the stars
+is a simple feat.$Wait(0)
+
+[MID_RELIANCE_A_#009]
+$Window(2, "PID_Jingliu")
+It allows for interastral trade and services to fluorish,
+so I believe it can be done easily.$Wait(0)
+
+[MID_RELIANCE_A_#010]
+$Window(2, "PID_オルテンシア")
+Dang, the world... er... worlds that you come from
+sound really advanced.$Wait(0)
+
+[MID_RELIANCE_A_#011]
+$Window(2, "PID_オルテンシア")
+I never really thought about what lies beyond Elyos.
+What other continents are beyond the sea.$Wait(0)
+
+[MID_RELIANCE_A_#012]
+$Window(2, "PID_オルテンシア")
+But I can assure you that no matter how many
+people exist, I will always be the cutest there is!$Wait(0)
+
+[MID_RELIANCE_A_#013]
+$Window(2, "PID_Jingliu")
+Perhaps in Elyos, yes, but aesthetics vary greatly by
+region and planet...$Wait(0)
+
+[MID_RELIANCE_A_#014]
+$Window(2, "PID_Jingliu")
+Thus I believe many others on foreign lands would
+not think highly of your fashion choices.$Wait(0)
+
+[MID_RELIANCE_A_#015]
+$Window(2, "PID_オルテンシア")
+Oh? Didn't you say a few days ago that fashion
+wasn't your thing? How can you be so sure?$Wait(0)
+
+[MID_RELIANCE_A_#016]
+$Window(2, "PID_Jingliu")
+I only said I didn't concern myself with appearances,
+but we're getting sidetracked.$Wait(0)
+
+[MID_RELIANCE_A_#017]
+$Window(2, "PID_Jingliu")
+This country has been rid of both the corrupted
+abominations and those dissenters from before.$Wait(0)
+
+[MID_RELIANCE_A_#018]
+$Window(2, "PID_Jingliu")
+Cleaning up the flaws from the previous leadership
+was done quite efficiently, if I do say so myself.$Wait(0)
+
+[MID_RELIANCE_A_#019]
+$Window(2, "PID_オルテンシア")
+Well, the Hounds' leadership, yeah, but still wonder
+how my father would have gone about fixing things.$Wait(0)
+
+[MID_RELIANCE_A_#020]
+$Window(2, "PID_オルテンシア")
+When everyone needed him most- no, when I needed
+him most, he fell victim to the Fell Dragon's schemes.$Wait(0)
+
+[MID_RELIANCE_A_#021]
+$Window(2, "PID_オルテンシア")
+I've only been able to help with Elusia's speedy
+recovery mainly because of what he taught me.$Wait(0)
+
+[MID_RELIANCE_A_#022]
+$Window(2, "PID_オルテンシア")
+So, I guess in a way I'm just trying to restore the
+country to the way he wanted it to be.$Wait(0)
+
+[MID_RELIANCE_A_#023]
+$Window(2, "PID_Jingliu")
+I'd refrain from doing that if I were in your
+position.$Wait(0)
+
+[MID_RELIANCE_A_#024]
+$Window(2, "PID_Jingliu")
+If you continue to imitate those whom you idolize,
+then your country will never change.$Wait(0)
+
+[MID_RELIANCE_A_#025]
+$Window(2, "PID_Jingliu")
+Nations must learn from their past mistakes in order
+to prevent the same disasters from occurring again.$Wait(0)
+
+[MID_RELIANCE_A_#026]
+$Window(2, "PID_Jingliu")
+So I ask you this: what kind of nation do you want
+Elusia to be?$Wait(0)
+
+[MID_RELIANCE_A_#027]
+$Window(2, "PID_オルテンシア")
+...$Wait(0)
+
+[MID_RELIANCE_A_#028]
+$Window(2, "PID_オルテンシア")
+I want Elusia to be a nation that doesn't need to
+worry about war, unpredictability, or inside threats.$Wait(0)
+
+[MID_RELIANCE_A_#029]
+$Window(2, "PID_オルテンシア")
+So basically... I want everyone in Elusia to be able
+to live as they please so long as they do it peacefully.$Wait(0)
+
+[MID_RELIANCE_A_#030]
+$Window(2, "PID_Jingliu")
+Very well. Hold onto that conviction and see to that
+when you become an adult, you never let it falter.$Wait(0)
+
+[MID_RELIANCE_A_#031]
+$Window(2, "PID_Jingliu")
+I do have more to say on the matter but, this is not
+the time or place for such matters.$Wait(0)
+
+[MID_RELIANCE_A_#032]
+$Window(2, "PID_Jingliu")
+Instead, since we have the rest of the day off, I
+would like to spend time on more productive deeds.$Wait(0)
+
+[MID_RELIANCE_A_#033]
+$Window(2, "PID_オルテンシア")
+Heh, like helping out in small ways, right? I never
+thought about how effective that could be before.$Wait(0)
+
+[MID_RELIANCE_A_#034]
+$Window(2, "PID_オルテンシア")
+And I should be glad that I still have the opportunity
+to support Elusia's citizens the way I have.$Wait(0)
+
+[MID_RELIANCE_A_#035]
+$Window(2, "PID_オルテンシア")
+I mean, this adorable face still has its youthfulness.
+I gotta make sure people see it as often as possible!$Wait(0)
+
+[MID_RELIANCE_A_#036]
+$Window(2, "PID_Jingliu")
+Heh, you've made it work before and you have a
+strong desire to reach greater heights.$Wait(0)
+
+[MID_RELIANCE_A_#037]
+$Window(2, "PID_オルテンシア")
+Believe me, I won't be stopping anytime soon! Now,
+we've stood around long enough. Let's get moving!$Wait(0)
+
+[MID_RELIANCE_A_#038]
+$Window(2, "PID_オルテンシア")
+There are issues and anxieties that need to be quelled,
+and we won't get many opportunities to do this.$Wait(0)
+
+[MID_RELIANCE_A_#039]
+$Window(2, "PID_Jingliu")
+I'll follow you lead, princess Hortensia.$Wait(0)
+
+[MID_RELIANCE_B_#001]
+$Type(2)
+$Window(0, "PID_オルテンシア", "1")
+$Window(0, "PID_Jingliu", "2")
+$Window(0, "PID_イルシオン村人_壮年女1", "3")
+$Window(2, "PID_オルテンシア")
+Well, if that's the case, maybe you should head
+to the Mage Academy to see your brother.$Wait(0)
+
+[MID_RELIANCE_B_#002]
+$Window(2, "PID_オルテンシア")
+And if you can't, at least send him a letter so he
+knows you're thinking of him.$Wait(0)
+
+[MID_RELIANCE_B_#003]
+$Window(2, "PID_オルテンシア")
+I'd assume that at his age, he might want some
+alone time...$Wait(0)
+
+[MID_RELIANCE_B_#004]
+$Window(2, "PID_オルテンシア")
+But you'll never know unless you ask. Maybe also
+get him a small gift while you're at it.$Wait(0)
+
+[MID_RELIANCE_B_#005]
+$Window(2, "PID_イルシオン村人_壮年女1")
+I'll give it a try. Thank you Princess Hortensia for
+helping me out!$Wait(0)
+
+[MID_RELIANCE_B_#006]
+$Window(2, "PID_オルテンシア")
+Yep, yep! The problems of the people of Elusia are
+my problem too.$Wait(0)
+
+[MID_RELIANCE_B_#007]
+$Window(2, "PID_オルテンシア")
+But I've really got to be going now or I'll be late
+to my meeting.$Wait(0)
+
+[MID_RELIANCE_B_#008]
+$Window(2, "PID_イルシオン村人_壮年女1")
+For being about the same age, you seem really smart
+and work very hard too.$Wait(0)
+
+[MID_RELIANCE_B_#009]
+$Window(2, "PID_イルシオン村人_壮年女1")
+I'm glad the future of Elusia is in yours and Princess
+Ivy's hands and not those Four Hounds.$Wait(0)
+
+[MID_RELIANCE_B_#010]
+$Window(2, "PID_オルテンシア")
+Thanks for the compliment! It's the job of royalty to
+help their people anyways.$Wait(0)
+
+[MID_RELIANCE_B_#011]
+$Window(2, "PID_オルテンシア")
+Now, if you'll excuse me!$Wait(0)
+
+[MID_RELIANCE_B_#012]
+$Window(2, "PID_Jingliu")
+...$Wait(0)
+
+[MID_RELIANCE_B_#013]
+$Window(2, "PID_Jingliu")
+So that's how the people view her.$Wait(0)
+
+[MID_RELIANCE_B_#014]
+$Window(2, "PID_オルテンシア")
+Ugh, I still have a lot to learn.$Wait(0)
+
+[MID_RELIANCE_B_#015]
+$Window(2, "PID_オルテンシア")
+Reallocating funds from the Fell Dragon church
+towards Services and Agriculture...$Wait(0)
+
+[MID_RELIANCE_B_#016]
+$Window(2, "PID_オルテンシア")
+Then reopening Givre Port is going to require the
+renewed trust of multiple parties.$Wait(0)
+
+[MID_RELIANCE_B_#017]
+$Window(2, "PID_オルテンシア")
+Fixing the mess the Hounds left is going to take
+a long while.$Wait(0)
+
+[MID_RELIANCE_B_#018]
+$Window(0, "PID_S011_シーフ", "3")
+$Window(0, "PID_S011_イルシオン兵_ベルセルク", "4")
+$Window(2, "PID_S011_シーフ")
+Or why not leave things the way they are?$Wait(0)
+
+[MID_RELIANCE_B_#019]
+$Window(2, "PID_オルテンシア")
+Huh? Who's there?!$Wait(0)
+
+[MID_RELIANCE_B_#020]
+$Window(2, "PID_S011_シーフ")
+This momentum that the Hounds left behind will
+allow Elusia to become a supreme nation!$Wait(0)
+
+[MID_RELIANCE_B_#021]
+$Window(2, "PID_S011_シーフ")
+Then all will know the name of the Fell Dragon
+that brings happiness to all!$Wait(0)
+
+[MID_RELIANCE_B_#022]
+$Window(2, "PID_オルテンシア")
+And you would be?$Wait(0)
+
+[MID_RELIANCE_B_#023]
+$Window(2, "PID_S011_シーフ")
+None of your concern, little lady.$Wait(0)
+
+[MID_RELIANCE_B_#024]
+$Window(2, "PID_S011_シーフ")
+We already have more than enough allies to see our
+new Elusia through!$Wait(0)
+
+[MID_RELIANCE_B_#025]
+$Window(2, "PID_S011_シーフ")
+All for Sombron!$Wait(0)
+
+[MID_RELIANCE_B_#026]
+$Window(2, "PID_オルテンシア")
+Wow, you're totally in over your head.$Wait(0)
+
+[MID_RELIANCE_B_#027]
+$Window(2, "PID_S011_シーフ")
+What was that?$Wait(0)
+
+[MID_RELIANCE_B_#028]
+$Window(2, "PID_オルテンシア")
+You went through all that effort to avoid the guards
+just to talk with me first?$Wait(0)
+
+[MID_RELIANCE_B_#029]
+$Window(2, "PID_オルテンシア")
+You could have tried to get a clean kill without the
+exposition first...$Wait(0)
+
+[MID_RELIANCE_B_#030]
+$Window(2, "PID_オルテンシア")
+But since you were so kind, we can talk this out.$Wait(0)
+
+[MID_RELIANCE_B_#031]
+$Window(2, "PID_S011_イルシオン兵_ベルセルク")
+And you think you can sway us?$Wait(0)
+
+[MID_RELIANCE_B_#032]
+$Window(2, "PID_オルテンシア")
+Like I said, you're the ones who chose to talk with me
+first so let's come to an agreement.$Wait(0)
+
+[MID_RELIANCE_B_#033]
+$Window(2, "PID_オルテンシア")
+Think about it. If you killed my sister and I, the people
+would revolt against you.$Wait(0)
+
+[MID_RELIANCE_B_#034]
+$Window(2, "PID_オルテンシア")
+Wouldn't convincing me to agree to your plan have
+more benefits?$Wait(0)
+
+[MID_RELIANCE_B_#035]
+$Window(2, "PID_オルテンシア")
+A figurehead that is already accepted would help your
+cause gain more traction.$Wait(0)
+
+[MID_RELIANCE_B_#036]
+$Window(2, "PID_オルテンシア")
+So, how about it? Most of Elusia's citizens can't resist
+my adorableness anyways.$Wait(0)
+
+[MID_RELIANCE_B_#037]
+$Window(2, "PID_S011_イルシオン兵_ベルセルク")
+What do you think? She makes a good point.$Wait(0)
+
+[MID_RELIANCE_B_#038]
+$Window(2, "PID_S011_シーフ")
+Who cares what she says? Our gang's plan is already
+too far ahead to change now!$Wait(0)
+
+[MID_RELIANCE_B_#039]
+$Window(2, "PID_S011_シーフ")
+If you won't kill her, then I will!$Wait(0)
+
+[MID_RELIANCE_B_#040]
+$Window(2, "PID_オルテンシア")
+Well, in that case-$Wait(0)
+
+[MID_RELIANCE_B_#041]
+$Window(2, "PID_Jingliu")
+This has gone on long enough.$Wait(0)
+
+[MID_RELIANCE_B_#042]
+$Window(2, "PID_Jingliu")
+In lunar flame!$Wait(0)
+
+[MID_RELIANCE_B_#043]
+$Window(2, "PID_S011_シーフ")
+Argh!$Wait(0)
+
+[MID_RELIANCE_B_#044]
+$Window(2, "PID_オルテンシア")
+Jingliu! What are you doing here?$Wait(0)
+
+[MID_RELIANCE_B_#045]
+$Window(2, "PID_Jingliu")
+I'm impressed by your ability to diffuse situations
+like this, Princess.$Wait(0)
+
+[MID_RELIANCE_B_#046]
+$Window(2, "PID_Jingliu")
+However, there's no need to entertain these
+adversaries any longer.$Wait(0)
+
+[MID_RELIANCE_B_#047]
+$Window(2, "PID_オルテンシア")
+Heh, I suppose I should be thanking you, so thanks
+a bunch!$Wait(0)
+
+[MID_RELIANCE_B_#048]
+$Window(2, "PID_Jingliu")
+...$Wait(0)
+
+[MID_RELIANCE_B_#049]
+$Window(2, "PID_オルテンシア")
+Eh heh.$Wait(0)
+
+[MID_RELIANCE_B_#050]
+$Window(2, "PID_Jingliu")
+You're quite the deceptive little liar, aren't you?$Wait(0)
+
+[MID_RELIANCE_B_#051]
+$Window(2, "PID_オルテンシア")
+Well I really hate lying, especially to my own people,
+but sometimes you've got to do what you got to do.$Wait(0)
+
+[MID_RELIANCE_B_#052]
+$Window(2, "PID_オルテンシア")
+And it's just a little survival skill I picked up when
+growing up.$Wait(0)
+
+[MID_RELIANCE_B_#053]
+$Window(2, "PID_Jingliu")
+It was a necessity for you given the situation.$Wait(0)
+
+[MID_RELIANCE_B_#054]
+$Window(2, "PID_オルテンシア")
+I'm surprised that you're not talking down on me
+like you did before. For taking a big risk like that.$Wait(0)
+
+[MID_RELIANCE_B_#055]
+$Window(2, "PID_オルテンシア")
+I still have a lot yet to learn and honestly I'm
+surprised I've even made it this far in life.$Wait(0)
+
+[MID_RELIANCE_B_#056]
+$Window(2, "PID_Jingliu")
+Do not belittle yourself.$Wait(0)
+
+[MID_RELIANCE_B_#057]
+$Window(2, "PID_Jingliu")
+You are aware of your shortcomings and making the
+decision to overcome them is the first step.$Wait(0)
+
+[MID_RELIANCE_B_#058]
+$Window(2, "PID_Jingliu")
+And you are only 14 years of age. Rebuilding Elusia
+is task that you can help out in your own way.$Wait(0)
+
+[MID_RELIANCE_B_#059]
+$Window(2, "PID_Jingliu")
+For example, by helping the people in the city like you
+did just recently.$Wait(0)
+
+[MID_RELIANCE_B_#060]
+$Window(2, "PID_オルテンシア")
+You saw that?$Wait(0)
+
+[MID_RELIANCE_B_#061]
+$Window(2, "PID_Jingliu")
+Yes, and you should focus on those small tasks and
+leave the heavier decisions to your sister and court.$Wait(0)
+
+[MID_RELIANCE_B_#062]
+$Window(2, "PID_Jingliu")
+In fact, I know a young boy your age who is in a
+similar situation as yourself...$Wait(0)
+
+[MID_RELIANCE_B_#063]
+$Window(2, "PID_Jingliu")
+Yet he is trying too hard to prove himself to his
+master by tracking down criminals and the like.$Wait(0)
+
+[MID_RELIANCE_B_#064]
+$Window(2, "PID_Jingliu")
+If he focused on his own training, like I believe
+you should, then you'll be ready when you grow up.$Wait(0)
+
+[MID_RELIANCE_B_#065]
+$Window(2, "PID_オルテンシア")
+Heh, Lindon told me something similar.$Wait(0)
+
+[MID_RELIANCE_B_#066]
+$Window(2, "PID_オルテンシア")
+I'm not mature enough like Céline or Chloé and I was
+scolded by Ivy for trying to start my own fan club.$Wait(0)
+
+[MID_RELIANCE_B_#067]
+$Window(2, "PID_オルテンシア")
+I guess I do have a long way to go, so I'll take your
+advice and focus on helping out in small ways first.$Wait(0)
+
+[MID_RELIANCE_B_#068]
+$Window(2, "PID_オルテンシア")
+Regardless, I said I was going to show you around
+Elusia, but I gotta tell Ivy about these insurgents first.$Wait(0)
+
+[MID_RELIANCE_B_#069]
+$Window(2, "PID_Jingliu")
+Allow me to accompany you. I've delt with the
+Disciples of Sanctus Medicus in my world before...$Wait(0)
+
+[MID_RELIANCE_B_#070]
+$Window(2, "PID_Jingliu")
+These two assassins were tactless and disorganized
+in comparison and likely is their little group.$Wait(0)
+
+[MID_RELIANCE_B_#071]
+$Window(2, "PID_オルテンシア")
+I should have expected you to be familiar with this
+kind of stuff.$Wait(0)
+
+[MID_RELIANCE_B_#072]
+$Window(2, "PID_オルテンシア")
+So thanks again, Jingliu. After this, we'll have fun
+for real!$Wait(0)
+
+[MID_RELIANCE_C_#001]
+$Type(2)
+$Window(0, "PID_オルテンシア", "1")
+$Window(0, "PID_Jingliu", "2")
+$Window(2, "PID_オルテンシア")
+There you are, Jingliu! You really keep to yourself
+all the time, don't you?$Wait(0)
+
+[MID_RELIANCE_C_#002]
+$Window(2, "PID_Jingliu")
+Do you have some business with me?$Wait(0)
+
+[MID_RELIANCE_C_#003]
+$Window(2, "PID_オルテンシア")
+You bet I do. I was hoping to show you how to have
+a fun time around Elusia.$Wait(0)
+
+[MID_RELIANCE_C_#004]
+$Window(2, "PID_Jingliu")
+You are in the middle of a war and yet you have
+time for such frivolities?$Wait(0)
+
+[MID_RELIANCE_C_#005]
+$Window(2, "PID_オルテンシア")
+Well, the Divine Dragon gives us standby time
+inbetween fights and neither of us are training...$Wait(0)
+
+[MID_RELIANCE_C_#006]
+$Window(2, "PID_オルテンシア")
+Plus, every person needs something that's not
+all doom and gloom every minute of the day.$Wait(0)
+
+[MID_RELIANCE_C_#007]
+$Window(2, "PID_オルテンシア")
+And that is exactly why I wanted to show you around
+my home kingdom!$Wait(0)
+
+[MID_RELIANCE_C_#008]
+$Window(2, "PID_オルテンシア")
+We can try on new clothes or get our hair done. I
+bet you'd look amazing with a new hairstyle!$Wait(0)
+
+[MID_RELIANCE_C_#009]
+$Window(2, "PID_Jingliu")
+I don't concern myself with appearances. I only
+need to wear what's convenient during battle.$Wait(0)
+
+[MID_RELIANCE_C_#010]
+$Window(2, "PID_オルテンシア")
+Oh, come on! You're always so serious. Would it
+hurt to loosen up just this once?$Wait(0)
+
+[MID_RELIANCE_C_#011]
+$Window(2, "PID_オルテンシア")
+It's like you're trapped in "emotionless warrior" mode
+no matter what you're doing.$Wait(0)
+
+[MID_RELIANCE_C_#012]
+$Window(2, "PID_Jingliu")
+Hundreds of years of living demands focus. I don't
+have time for such diversions.$Wait(0)
+
+[MID_RELIANCE_C_#013]
+$Window(2, "PID_Jingliu")
+And yet somehow you, the second princess of Elusia,
+do.$Wait(0)
+
+[MID_RELIANCE_C_#014]
+$Window(2, "PID_Jingliu")
+Do you not think yourself as a burden to your sister...$Wait(0)
+
+[MID_RELIANCE_C_#015]
+$Window(2, "PID_Jingliu")
+Or do you feel yourself free from any responsibility
+that you may hold?$Wait(0)
+
+[MID_RELIANCE_C_#016]
+$Window(2, "PID_オルテンシア")
+Hey, life's not that simple! Plus, you were a general
+once, so you should know.$Wait(0)
+
+[MID_RELIANCE_C_#017]
+$Window(2, "PID_オルテンシア")
+So tell me: could your leaders not afford to spend
+a single day acting as a guide to a visitor?$Wait(0)
+
+[MID_RELIANCE_C_#018]
+$Window(2, "PID_オルテンシア")
+And not just for any visitor, but a perhaps for a
+renowned swordswoman from another planet?$Wait(0)
+
+[MID_RELIANCE_C_#019]
+$Window(2, "PID_オルテンシア")
+It's proper courtesy to be a good host and maybe
+even an honor for a princess herself to do it.$Wait(0)
+
+[MID_RELIANCE_C_#020]
+$Window(2, "PID_Jingliu")
+That was merely a jest, though your answer has
+piqued my interest.$Wait(0)
+
+[MID_RELIANCE_C_#021]
+$Window(2, "PID_Jingliu")
+I shall accept your offer just this once. In return,
+allow me to teach you sometime.$Wait(0)
+
+[MID_RELIANCE_C_#022]
+$Window(2, "PID_オルテンシア")
+Teach me?$Wait(0)
+
+[MID_RELIANCE_C_#023]
+$Window(2, "PID_Jingliu")
+From my observations, you may have even greater
+aptitude than your sister in many ways.$Wait(0)
+
+[MID_RELIANCE_C_#024]
+$Window(2, "PID_Jingliu")
+So I'd like to teach you some of what I know about
+tactical strategy, foreign relations...$Wait(0)
+
+[MID_RELIANCE_C_#025]
+$Window(2, "PID_Jingliu")
+Mind you that this information may not be very
+applicable in your world.$Wait(0)
+
+[MID_RELIANCE_C_#026]
+$Window(2, "PID_Jingliu")
+And if you wish for more immediate and practical
+assistance, I know a thing or two about ice magic.$Wait(0)
+
+[MID_RELIANCE_C_#027]
+$Window(2, "PID_オルテンシア")
+You'd really do that for me?$Wait(0)
+
+[MID_RELIANCE_C_#028]
+$Window(2, "PID_Jingliu")
+Consider it a fair trade.$Wait(0)
+
+[MID_RELIANCE_C_#029]
+$Window(2, "PID_オルテンシア")
+Alrighty, Jingliu! To be honest, I wasn't really sure
+whether you'd accept, but give me some time...$Wait(0)
+
+[MID_RELIANCE_C_#030]
+$Window(2, "PID_オルテンシア")
+I have some business to attend to in the castle
+first and once I'm done...$Wait(0)
+
+[MID_RELIANCE_C_#031]
+$Window(2, "PID_オルテンシア")
+I'll show you the most popular places in the kingdom.
+I'm quite proud of them, I'll have you know!$Wait(0)
+
+[MID_RELIANCE_C_#032]
+$Window(2, "PID_Jingliu")
+I look forward to it.$Wait(0)

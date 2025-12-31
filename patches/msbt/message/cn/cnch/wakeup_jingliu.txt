@@ -1,0 +1,153 @@
+[MID_WU_A_1_HELLO_#001]
+Awake at last.$Wait(0)
+
+[MID_WU_A_1_HELLO_#002]
+Did the cold winds of my presence rouse you?$Wait(0)
+
+[MID_WU_A_1_HELLO_#003]
+Regardless, your some of your allies are waiting
+to speak with you. Get ready quickly.$Wait(0)
+
+[MID_WU_A_1_IN_#001]
+Still asleep, are you?.$Wait(0)
+
+[MID_WU_A_1_IN_#002]
+Rest is fleeting. Let's make this swift.$Wait(0)
+
+[MID_WU_A_1_SOON_#001]
+You're already stirring?$Wait(0)
+
+[MID_WU_A_1_SOON_#002]
+Hmph. Faster than I expected.$Wait(0)
+
+[MID_WU_A_1_SOON_#003]
+Perhaps I've lost my touch.$Wait(0)
+
+[MID_WU_A_1_WAKEUP_#001]
+You sleep until the last second like Jing Yuan.$Wait(0)
+
+[MID_WU_A_1_WAKEUP_#002]
+And so to do you manage to get ready and make it
+to your meetings and such on time.$Wait(0)
+
+[MID_WU_A_1_WAKEUP_#003]
+I suppose some behaviors can't be helped.$Wait(0)
+
+[MID_WU_A_2_HELLO_#001]
+I hope your rest was undisturbed.$Wait(0)
+
+[MID_WU_A_2_HELLO_#002]
+This silence and serenity in the air lingers
+still around us.$Wait(0)
+
+[MID_WU_A_2_HELLO_#003]
+Be sure to appreciate it while you can.$Wait(0)
+
+[MID_WU_A_2_HELLO_#004]
+It won't last forever.$Wait(0)
+
+[MID_WU_A_2_IN_#001]
+Divine Dragon, I have to wonder why your allies
+have a responsibility to wake you up.$Wait(0)
+
+[MID_WU_A_2_SOON_#001]
+You're up already? Impressive.$Wait(0)
+
+[MID_WU_A_2_SOON_#002]
+I sense no hesitation in getting ready for the
+day. Good.$Wait(0)
+
+[MID_WU_A_2_WAKEUP_#001]
+I wonder how someone such as yourself can manage
+to fall into deep sleep.$Wait(0)
+
+[MID_WU_A_2_WAKEUP_#002]
+You've been doing so for a thousand years and
+that seems excessive enough to me.$Wait(0)
+
+[MID_WU_A_2_WAKEUP_#003]
+But then again, your situation is quite different
+from my own.$Wait(0)
+
+[MID_WU_B_1_HELLO_#001]
+You linger in dreams too long.$Wait(0)
+
+[MID_WU_B_1_HELLO_#002]
+Splash some water on your face and get ready.$Wait(0)
+
+[MID_WU_B_1_HELLO_#003]
+We have much work to do today. Shall we start
+with a sparring match?$Wait(0)
+
+[MID_WU_B_1_IN_#001]
+I am here. Rise.$Wait(0)
+
+[MID_WU_B_1_SOON_#001]
+You are quicker than before.$Wait(0)
+
+[MID_WU_B_1_SOON_#002]
+A promising sign that your skills are honing.$Wait(0)
+
+[MID_WU_B_1_WAKEUP_#001]
+Do not resist the temptation of dreams.$Wait(0)
+
+[MID_WU_B_1_WAKEUP_#002]
+You must face the day.$Wait(0)
+
+[MID_WU_B_1_WAKEUP_#003]
+There is no refuge in sleep.$Wait(0)
+
+[MID_WU_C_1_HELLO_#001]
+Morning.$Wait(0)
+
+[MID_WU_C_1_HELLO_#002]
+I'd advise against weariness overtaking you.$Wait(0)
+
+[MID_WU_C_1_IN_#001]
+Still asleep? I suppose I have no choice.$Wait(0)
+
+[MID_WU_C_1_SOON_#001]
+I suppose I didn't have to resort to drastic
+measures.$Wait(0)
+
+[MID_WU_C_1_SOON_#002]
+Do not linger here longer than needed. There is
+work to be done.$Wait(0)
+
+[MID_WU_C_1_WAKEUP_#001]
+Was my ice too cold for you?$Wait(0)
+
+[MID_WU_C_1_WAKEUP_#002]
+I've heard that dragons are sensitive to ice.$Wait(0)
+
+[MID_WU_C_1_WAKEUP_#003]
+Be sure not to oversleep next time.$Wait(0)
+
+[MID_WU_C_2_HELLO_#001]
+Hmph... You're awake.$Wait(0)
+
+[MID_WU_C_2_HELLO_#002]
+I thought you'd linger longer in sleep.$Wait(0)
+
+[MID_WU_C_2_HELLO_#003]
+The morning is fleeting. Do not waste it.$Wait(0)
+
+[MID_WU_C_2_IN_#001]
+Let's make this quick. I have other matters to attend
+to.$Wait(0)
+
+[MID_WU_C_2_SOON_#001]
+Good. You're up. I won't repeat myself.$Wait(0)
+
+[MID_WU_C_2_SOON_#002]
+If you're ready, I'll be going now.$Wait(0)
+
+[MID_WU_C_2_WAKEUP_#001]
+If you insist on staying idle...$Wait(0)
+
+[MID_WU_C_2_WAKEUP_#002]
+I'll continue my training.$Wait(0)
+
+[MID_WU_C_2_WAKEUP_#003]
+Though if I did... the others would be quite upset.
+How bothersome.$Wait(0)

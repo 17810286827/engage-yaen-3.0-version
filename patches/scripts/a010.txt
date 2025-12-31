@@ -1,0 +1,83 @@
+Include("Common")
+
+g_pid_lueur					= "PID_リュール"
+-- -----------------------------------
+
+function Startup()
+	
+	Log("Startup")
+
+	-- 勝利条件設定：到达指定地点
+	WinRuleSetEnemyNumberLessThanOrEqualTo(-1)
+	WinRuleSetMID( "MID_RULE_A010" )
+
+	イベント登録()
+	
+end
+function 标记消除()
+	EffectDelete("魔法陣_G001",9, 22)	
+end
+function MapOpening()
+	
+	Log("MapOpening")
+	EffectCreate("魔法陣_G001",9, 22)
+	
+end
+function イベント登録()
+	EventEntryTurnAfter(标记消除, 2, 2, FORCE_PLAYER)
+	EventEntryArea(VariableSet, 9, 22, 9, 22,FORCE_PLAYER, condition_MOD勝利判定, "勝利", 1)
+	EventEntryTurn(勝利条件, 1, 1, FORCE_PLAYER)
+	EventEntryTurn(進撃開始直後イベント, 1, 1,  FORCE_PLAYER)
+
+	EventEntryArea(EmptyFunction, 7, 1, 11, 1, FORCE_PLAYER, "勝利")
+	
+	-- 宝箱
+	EventEntryTbox(宝箱入手,  7, 7, "IID_絆のかけら5000")
+	EventEntryTbox(宝箱入手, 11, 7, "IID_絆のかけら5000")
+end
+function condition_MOD勝利判定()
+	
+	if MapGetTurn() == 1 then
+		return true
+	end
+	
+	return false
+	
+end
+function 進撃開始直後イベント()
+
+	MapCameraWait()
+	CursorSetPos(7, 1)	
+	MapCameraWait()
+	CursorAnimeCreate( 7, 1, "W5H1" )
+	Dialog( "MID_TUT_NAVI_MOD_005" )
+	WaitTime( 1.0 )
+	CursorAnimeDelete()
+	MapCameraWait()
+	
+end
+
+function EmptyFunction()
+end
+
+function MapEnding()
+	
+	Log("MapEnding")
+
+	if MapGetTurn() == 1 then
+	ItemGift("A10跳关礼包", "MID_TGLB")
+	end
+	
+end
+function Ending()
+	
+	Log("Ending")
+	
+end
+function Cleanup()
+	
+	Log("Cleanup");
+	
+end
+
+	

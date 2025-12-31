@@ -1,0 +1,1222 @@
+[MID_DIE_CASUAL_Lueur]
+$Type(1)
+$Window(0, "リュール", "b")
+$Anim(1, "リュール", "Pain")
+$Window(2, "リュール")
+暂且……先撤退了……$Wait(0)
+
+[MID_DIE_Lueur]
+$Type(1)
+$Window(0, "リュール", "t")
+$Anim(1, "リュール", "Pain")
+$Window(2, "リュール")
+啊……没想到会是这样的结果……
+大伙儿……对不起……$Wait(0)
+
+[MID_DIE_Lueur_Marth]
+$Type(1)
+$Window(0, "マルス", "t")
+$Anim(1, "マルス", "Sad")
+$Window(2, "マルス")
+怎么会这样！别死啊，$P……！
+我们不是约好……要并肩作战到最后一刻的吗……！？$Wait(0)
+
+[MID_DIE_Lueur_Celica]
+$Type(1)
+$Window(0, "セリカ", "t")
+$Anim(1, "セリカ", "Sad")
+$Window(2, "セリカ")
+$P……这不是真的……！
+不要啊！有我跟在你身边，居然还会……！$Wait(0)
+
+[MID_DIE_Lueur_Siglud]
+$Type(1)
+$Window(0, "シグルド", "t")
+$Anim(1, "シグルド", "Sad")
+$Window(2, "シグルド")
+别死啊，$P……！
+我对琉弥艾尔发过誓……要保护你的啊……！$Wait(0)
+
+[MID_DIE_Lueur_Leaf]
+$Type(1)
+$Window(0, "リーフ", "t")
+$Anim(1, "リーフ", "Sad")
+$Window(2, "リーフ")
+骗人的吧……$P……！
+你醒一醒！把眼睛睁开啊……！$Wait(0)
+
+[MID_DIE_Lueur_Roy]
+$Type(1)
+$Window(0, "ロイ", "t")
+$Anim(1, "ロイ", "Sad")
+$Window(2, "ロイ")
+现在还不是时候……$P……！
+战斗才刚要开始……快睁开眼睛啊……！$Wait(0)
+
+[MID_DIE_Lueur_Lin]
+$Type(1)
+$Window(0, "リン", "t")
+$Anim(1, "リン", "Sad")
+$Window(2, "リン")
+$P……这是骗人的吧……！
+我们不能在这里失去你啊……！$Wait(0)
+
+[MID_DIE_Lueur_Eirik]
+$Type(1)
+$Window(0, "エイリーク", "t")
+$Anim(1, "エイリーク", "Sad")
+$Window(2, "エイリーク")
+$P！怎么会……不行！
+你不该死在这里！求求你……睁开眼睛！$Wait(0)
+
+[MID_DIE_Lueur_Ike]
+$Type(1)
+$Window(0, "アイク", "t")
+$Anim(1, "アイク", "Pain")
+$Window(2, "アイク")
+$P，你快醒醒……！
+没有了你……这场战争就……！$Wait(0)
+
+[MID_DIE_Lueur_Micaiah]
+$Type(1)
+$Window(0, "ミカヤ", "t")
+$Anim(1, "ミカヤ", "Sad")
+$Window(2, "ミカヤ")
+$P，不能睡啊……！
+唉……要是我可以代替你就好了……$Wait(0)
+
+[MID_DIE_Lueur_Lucina]
+$Type(1)
+$Window(0, "ルキナ", "t")
+$Anim(1, "ルキナ", "Sad")
+$Window(2, "ルキナ")
+$P，别丢下我们……！
+我不能接受没有你的未来……！$Wait(0)
+
+[MID_DIE_Lueur_Kamui]
+$Type(1)
+$Window(0, "カムイ", "t")
+$Anim(1, "カムイ", "Sad")
+$Window(2, "カムイ")
+不可能……$P……！
+快回来！我们要一起走下去……！$Wait(0)
+
+[MID_DIE_Lueur_Byleth]
+$Type(1)
+$Window(0, "ベレト", "t")
+$Anim(1, "ベレト", "Sad")
+$Window(2, "ベレト")
+$P……怎么会……
+对不起……我没能保护好你……$Wait(0)
+
+[MID_DIE_CASUAL_Vandre]
+$Type(1)
+$Window(0, "ヴァンドレ", "t")
+$Anim(1, "ヴァンドレ", "Pain")
+$Window(2, "ヴァンドレ")
+呜……这样下去也只会拖累神龙大人……
+先暂时撤退了……$Wait(0)
+
+[MID_DIE_EXIST_Vandre]
+$Type(1)
+$Window(0, "ヴァンドレ", "t")
+$Anim(1, "ヴァンドレ", "Pain")
+$Window(2, "ヴァンドレ")
+就这样死了，可没脸见琉弥艾尔大人啊……
+我就先撤退了……$Wait(0)
+
+[MID_DIE_CASUAL_Clan]
+$Type(1)
+$Window(0, "クラン", "t")
+$Anim(1, "クラン", "Pain")
+$Window(2, "クラン")
+这样下去可就没资格当守护者了啊……
+为了不妨碍大家，我还是先撤退吧……$Wait(0)
+
+[MID_DIE_Clan]
+$Type(1)
+$Window(0, "クラン", "t")
+$Anim(1, "クラン", "Pain")
+$Window(2, "クラン")
+还以为……自己终于可以帮上忙了……
+没想到……离别来得这么快……$Wait(0)
+
+[MID_DIE_CASUAL_Fram]
+$Type(1)
+$Window(0, "フラン", "t")
+$Anim(1, "フラン", "Pain")
+$Window(2, "フラン")
+虽然很想待在神龙大人身边，但我实在撑不下去了……
+非常抱歉，我先撤退了……！$Wait(0)
+
+[MID_DIE_Fram]
+$Type(1)
+$Window(0, "フラン", "t")
+$Anim(1, "フラン", "Pain")
+$Window(2, "フラン")
+神龙大人……您在哪里……
+在这最后一刻……至少让我跟您道别……$Wait(0)
+
+[MID_DIE_CASUAL_Alfred]
+$Type(1)
+$Window(0, "アルフレッド", "t")
+$Anim(1, "アルフレッド", "Pain")
+$Window(2, "アルフレッド")
+看来是我锻炼得还不够呢……
+抱歉，我先撤退了……$Wait(0)
+
+[MID_DIE_EXIST_Alfred]
+$Type(1)
+$Window(0, "アルフレッド", "t")
+$Anim(1, "アルフレッド", "Pain")
+$Window(2, "アルフレッド")
+为了费列聂王国……我不能死在这里……
+抱歉……我要先撤退了……$Wait(0)
+
+[MID_DIE_CASUAL_Boucheron]
+$Type(1)
+$Window(0, "ブシュロン", "t")
+$Anim(1, "ブシュロン", "Pain")
+$Window(2, "ブシュロン")
+非常抱歉……我受了重伤……
+布修隆在此先行撤退……$Wait(0)
+
+[MID_DIE_Boucheron]
+$Type(1)
+$Window(0, "ブシュロン", "t")
+$Anim(1, "ブシュロン", "Pain")
+$Window(2, "ブシュロン")
+请不要……为我流泪……
+直到最后……我都无怨无悔……$Wait(0)
+
+[MID_DIE_CASUAL_Etie]
+$Type(1)
+$Window(0, "エーティエ", "t")
+$Anim(1, "エーティエ", "Pain")
+$Window(2, "エーティエ")
+我竟然会败得如此难堪……
+撤退后可要重新锻炼一番了……$Wait(0)
+
+[MID_DIE_Etie]
+$Type(1)
+$Window(0, "エーティエ", "t")
+$Anim(1, "エーティエ", "Pain")
+$Window(2, "エーティエ")
+看来……再多的锻炼……都是徒劳……
+至少……要以此身为盾……替大家开路……$Wait(0)
+
+[MID_DIE_CASUAL_Celine]
+$Type(1)
+$Window(0, "セリーヌ", "t")
+$Anim(1, "セリーヌ", "Pain")
+$Window(2, "セリーヌ")
+为了和平……我必须战斗……
+虽然不甘心，但现在只能撤退了……$Wait(0)
+
+[MID_DIE_EXIST_Celine]
+$Type(1)
+$Window(0, "セリーヌ", "t")
+$Anim(1, "セリーヌ", "Pain")
+$Window(2, "セリーヌ")
+战场之外……也有属于我的战斗……
+非常抱歉……请容我先行撤退吧……$Wait(0)
+
+[MID_DIE_Celine]
+$Type(1)
+$Window(0, "セリーヌ", "t")
+$Anim(1, "セリーヌ", "Die")
+$Window(2, "セリーヌ")
+花儿……总有凋谢的一天……
+请告诉大家……我这一生……很幸福……$Wait(0)
+
+[MID_DIE_CASUAL_Louis]
+$Type(1)
+$Window(0, "ルイ", "t")
+$Anim(1, "ルイ", "Pain")
+$Window(2, "ルイ")
+非常抱歉……我先撤退了……
+我还得守护百合蔷薇之园呢……$Wait(0)
+
+[MID_DIE_Louis]
+$Type(1)
+$Window(0, "ルイ", "t")
+$Anim(1, "ルイ", "Die")
+$Window(2, "ルイ")
+我走了以后……会在天上……
+默默……看着大家的……$Wait(0)
+
+[MID_DIE_CASUAL_Chloe]
+$Type(1)
+$Window(0, "クロエ", "t")
+$Anim(1, "クロエ", "Pain")
+$Window(2, "クロエ")
+真伤脑筋……这样可没办法战斗呢……
+我还是先退到后方吧……$Wait(0)
+
+[MID_DIE_Chloe]
+$Type(1)
+$Window(0, "クロエ", "t")
+$Anim(1, "クロエ", "Die")
+$Window(2, "クロエ")
+我知道……不是每个人的结局……
+都会像童话故事一样……美好……$Wait(0)
+
+[MID_DIE_CASUAL_Yunaka]
+$Type(1)
+$Window(0, "ユナカ", "t")
+$Anim(1, "ユナカ", "Pain")
+$Window(2, "ユナカ")
+这样可没办法战斗呢……
+不好意思哟～！我尤娜卡先撤退啦……！$Wait(0)
+
+[MID_DIE_Yunaka]
+$Type(1)
+$Window(0, "ユナカ", "t")
+$Anim(1, "ユナカ", "Die")
+$Window(2, "ユナカ")
+这样也好……反正人家……
+早就……与死人无异了……$Wait(0)
+
+[MID_DIE_CASUAL_Staluke]
+$Type(1)
+$Window(0, "スタルーク", "t")
+$Anim(1, "スタルーク", "Pain")
+$Window(2, "スタルーク")
+我终究……是个不中用的王子……
+至少……别当大家的绊脚石……撤退吧……$Wait(0)
+
+[MID_DIE_EXIST_Staluke]
+$Type(1)
+$Window(0, "スタルーク", "t")
+$Anim(1, "スタルーク", "Pain")
+$Window(2, "スタルーク")
+……我先撤退了。唉……兄长、父王……
+我真希望……自己能像你们一样厉害……$Wait(0)
+
+[MID_DIE_Staluke]
+$Type(1)
+$Window(0, "スタルーク", "t")
+$Anim(1, "スタルーク", "Die")
+$Window(2, "スタルーク")
+……即便是我……多少也……帮到大家了吗……？
+啊……父王……我这就去找你了……$Wait(0)
+
+[MID_DIE_CASUAL_Citrinica]
+$Type(1)
+$Window(0, "シトリニカ", "t")
+$Anim(1, "シトリニカ", "Pain")
+$Window(2, "シトリニカ")
+我的实力果然还不够啊……
+撤退只是一时之计……我一定会重振旗鼓再次迎战的……$Wait(0)
+
+[MID_DIE_Citrinica]
+$Type(1)
+$Window(0, "シトリニカ", "t")
+$Anim(1, "シトリニカ", "Pain")
+$Window(2, "シトリニカ")
+虽然……放不下的事情还很多……
+但只要……大家没事……我就……$Wait(0)
+
+[MID_DIE_CASUAL_Lapis]
+$Type(1)
+$Window(0, "ラピス", "t")
+$Anim(1, "ラピス", "Pain")
+$Window(2, "ラピス")
+撤退并非出自我的本意……
+只是常言道……留得青山在，何愁没柴烧……$Wait(0)
+
+[MID_DIE_Lapis]
+$Type(1)
+$Window(0, "ラピス", "t")
+$Anim(1, "ラピス", "Pain")
+$Window(2, "ラピス")
+我想战斗……但身体已经……不听使唤了……
+神龙大人……史塔卢克殿下……请原谅我……$Wait(0)
+
+[MID_DIE_CASUAL_Diamand]
+$Type(1)
+$Window(0, "ディアマンド", "t")
+$Anim(1, "ディアマンド", "Pain")
+$Window(2, "ディアマンド")
+要是命丧此地……就永无胜算了……
+为了布罗帝亚……只好……撤退……$Wait(0)
+
+[MID_DIE_EXIST_Diamand]
+$Type(1)
+$Window(0, "ディアマンド", "t")
+$Anim(1, "ディアマンド", "Pain")
+$Window(2, "ディアマンド")
+为了……国家……我只有撤退一途……
+哪怕要承受败战之耻……也无所谓……$Wait(0)
+
+[MID_DIE_CASUAL_Umber]
+$Type(1)
+$Window(0, "アンバー", "t")
+$Anim(1, "アンバー", "Pain")
+$Window(2, "アンバー")
+在这里光荣就义也不错……不过……
+为了成为真正的传说……就让我急流勇退吧……！$Wait(0)
+
+[MID_DIE_Umber]
+$Type(1)
+$Window(0, "アンバー", "t")
+$Anim(1, "アンバー", "Pain")
+$Window(2, "アンバー")
+哈哈……没想到会客死异乡……
+真想……成为真正的勇者啊……$Wait(0)
+
+[MID_DIE_CASUAL_Jade]
+$Type(1)
+$Window(0, "ジェーデ", "t")
+$Anim(1, "ジェーデ", "Pain")
+$Window(2, "ジェーデ")
+……看来只能乖乖地撤退了。
+我和手中的盾牌……还不能倒下……$Wait(0)
+
+[MID_DIE_Jade]
+$Type(1)
+$Window(0, "ジェーデ", "t")
+$Anim(1, "ジェーデ", "Pain")
+$Window(2, "ジェーデ")
+什么都守护不了就丧命的骑士……
+这喜剧……写得真是太糟糕了……$Wait(0)
+
+[MID_DIE_CASUAL_Ivy]
+$Type(1)
+$Window(0, "アイビー", "t")
+$Anim(1, "アイビー", "Pain")
+$Window(2, "アイビー")
+继续战斗下去并非明智之举……
+神龙大人……非常抱歉，我要撤退了……$Wait(0)
+
+[MID_DIE_EXIST_Ivy]
+$Type(1)
+$Window(0, "アイビー", "t")
+$Anim(1, "アイビー", "Pain")
+$Window(2, "アイビー")
+我要撤退了……
+在祖国得以复兴之前……我不能死……$Wait(0)
+
+[MID_DIE_CASUAL_Zelkova]
+$Type(1)
+$Window(0, "ゼルコバ", "t")
+$Anim(1, "ゼルコバ", "Pain")
+$Window(2, "ゼルコバ")
+先撤退了……我可不打算“命丧此地”……
+还有很多“有趣的东西”在等我尝试呢……$Wait(0)
+
+[MID_DIE_Zelkova]
+$Type(1)
+$Window(0, "ゼルコバ", "t")
+$Anim(1, "ゼルコバ", "Die")
+$Window(2, "ゼルコバ")
+真是不错的“葬身之地”啊……我非常……满意……
+终于……可以……好好睡上一觉了……$Wait(0)
+
+[MID_DIE_CASUAL_Kagetsu]
+$Type(1)
+$Window(0, "カゲツ", "t")
+$Anim(1, "カゲツ", "Pain")
+$Window(2, "カゲツ")
+余技不如人，才会吞下如此败果……
+容余退战重振旗鼓……方可一雪前耻……！$Wait(0)
+
+[MID_DIE_Kagetsu]
+$Type(1)
+$Window(0, "カゲツ", "t")
+$Anim(1, "カゲツ", "Pain")
+$Window(2, "カゲツ")
+人外有人，天外有天……仅此而已……
+余将得往极乐净土……此生无憾矣……$Wait(0)
+
+[MID_DIE_CASUAL_Fogato]
+$Type(1)
+$Window(0, "フォガート", "t")
+$Anim(1, "フォガート", "Pain")
+$Window(2, "フォガート")
+看来我太得意忘形了……
+为了不拖累大家，还是先撤退吧……$Wait(0)
+
+[MID_DIE_EXIST_Fogato]
+$Type(1)
+$Window(0, "フォガート", "t")
+$Anim(1, "フォガート", "Pain")
+$Window(2, "フォガート")
+不行……我得撤退了……继续硬撑下去，
+可就没法再见到我最爱的伙伴和子民了……$Wait(0)
+
+[MID_DIE_Fogato]
+$Type(1)
+$Window(0, "フォガート", "t")
+$Anim(1, "フォガート", "Pain")
+$Window(2, "フォガート")
+哈哈……我已经……什么都看不见了……
+谢谢大家……我……最喜欢你们……了……$Wait(0)
+
+[MID_DIE_CASUAL_Pandoro]
+$Type(1)
+$Window(0, "パンドロ", "t")
+$Anim(1, "パンドロ", "Pain")
+$Window(2, "パンドロ")
+好危险……刚才差点就蒙主恩召了……
+趁我还能动，赶紧撤退吧……$Wait(0)
+
+[MID_DIE_Pandoro]
+$Type(1)
+$Window(0, "パンドロ", "t")
+$Anim(1, "パンドロ", "Pain")
+$Window(2, "パンドロ")
+神啊，请您……替即将离开……
+离开人世的我……守护大家……$Wait(0)
+
+[MID_DIE_CASUAL_Bonet]
+$Type(1)
+$Window(0, "ボネ", "t")
+$Anim(1, "ボネ", "Pain")
+$Window(2, "ボネ")
+还是先撤退吧……留在这里……
+就只能全军覆没了……$Wait(0)
+
+[MID_DIE_Bonet]
+$Type(1)
+$Window(0, "ボネ", "t")
+$Anim(1, "ボネ", "Pain")
+$Window(2, "ボネ")
+败北的滋味……还真是苦涩啊……
+为了品尝这味道……我竟然……$Wait(0)
+
+[MID_DIE_CASUAL_Misutira]
+$Type(1)
+$Window(0, "ミスティラ", "t")
+$Anim(1, "ミスティラ", "Pain")
+$Window(2, "ミスティラ")
+啊哈哈……已经没力气战斗了……
+抱歉，我先撤退了……$Wait(0)
+
+[MID_DIE_EXIST_Misutira]
+$Type(1)
+$Window(0, "ミスティラ", "t")
+$Anim(1, "ミスティラ", "Pain")
+$Window(2, "ミスティラ")
+对不起……我先……撤退了。
+身为下任女王……无论如何我都要活下去……$Wait(0)
+
+[MID_DIE_CASUAL_Merin]
+$Type(1)
+$Window(0, "メリン", "t")
+$Anim(1, "メリン", "Pain")
+$Window(2, "メリン")
+让您见笑了……
+我还是乖乖地撤退吧……$Wait(0)
+
+[MID_DIE_Merin]
+$Type(1)
+$Window(0, "メリン", "t")
+$Anim(1, "メリン", "Pain")
+$Window(2, "メリン")
+看来……已经……无法再为各位效力了……
+非常抱歉……吾主……神龙大人……$Wait(0)
+
+[MID_DIE_CASUAL_Panetone]
+$Type(1)
+$Window(0, "パネトネ", "t")
+$Anim(1, "パネトネ", "Pain")
+$Window(2, "パネトネ")
+老娘……竟然输了……
+这次就先撤了……下次一定会给你好看……$Wait(0)
+
+[MID_DIE_Panetone]
+$Type(1)
+$Window(0, "パネトネ", "t")
+$Anim(1, "パネトネ", "Pain")
+$Window(2, "パネトネ")
+这一切……就像做梦一样啊……像老娘这种人……
+居然有幸……为了守护公主……还有神明而战……$Wait(0)
+
+[MID_DIE_CASUAL_Hortensia]
+$Type(1)
+$Window(0, "オルテンシア", "t")
+$Anim(1, "オルテンシア", "Pain")
+$Window(2, "オルテンシア")
+好不甘心……！人家最讨厌输了……
+这次就先撤退了……下次一定会赢……！$Wait(0)
+
+[MID_DIE_EXIST_Hortensia]
+$Type(1)
+$Window(0, "オルテンシア", "t")
+$Anim(1, "オルテンシア", "Pain")
+$Window(2, "オルテンシア")
+……得撤退了。不管有多丢脸都没关系……
+在夺回伊尔席翁之前……人家决不能死……$Wait(0)
+
+[MID_DIE_Hortensia]
+$Type(1)
+$Window(0, "オルテンシア", "t")
+$Anim(1, "オルテンシア", "Pain")
+$Window(2, "オルテンシア")
+真不甘心……好想……亲眼见证……
+伊尔席翁……重建的……那一天……$Wait(0)
+
+[MID_DIE_CASUAL_Seadas]
+$Type(1)
+$Window(0, "セアダス", "t")
+$Anim(1, "セアダス", "Pain")
+$Window(2, "セアダス")
+趁着还能优雅地离开时……撤退吧……
+即使注定化为星辰……此刻我也要违抗命运……$Wait(0)
+
+[MID_DIE_Seadas]
+$Type(1)
+$Window(0, "セアダス", "t")
+$Anim(1, "セアダス", "Pain")
+$Window(2, "セアダス")
+看来……我的占卜结果并没有出错……
+直到最后一刻……我的舞姿……是否依然美丽呢……？$Wait(0)
+
+[MID_DIE_CASUAL_Rosado]
+$Type(1)
+$Window(0, "ロサード", "t")
+$Anim(1, "ロサード", "Pain")
+$Window(2, "ロサード")
+唉……衣服变得脏兮兮的……
+我先撤退了，之后就拜托你们喽……$Wait(0)
+
+[MID_DIE_Rosado]
+$Type(1)
+$Window(0, "ロサード", "t")
+$Anim(1, "ロサード", "Pain")
+$Window(2, "ロサード")
+就算不可爱……就算不开心……都无所谓……
+我只想要……守护大家……直到最后……$Wait(0)
+
+[MID_DIE_CASUAL_Goldmary]
+$Type(1)
+$Window(0, "ゴルドマリー", "t")
+$Anim(1, "ゴルドマリー", "Pain")
+$Window(2, "ゴルドマリー")
+咦……？我居然输了？……咦……？
+简直不敢相信……我先撤退了……$Wait(0)
+
+[MID_DIE_Goldmary]
+$Type(1)
+$Window(0, "ゴルドマリー", "t")
+$Anim(1, "ゴルドマリー", "Pain")
+$Window(2, "ゴルドマリー")
+呵呵……看来我是红颜薄命呢……真是抱歉……
+希望……来世……能生为鲜花……$Wait(0)
+
+[MID_DIE_CASUAL_Linden]
+$Type(1)
+$Window(0, "リンデン", "t")
+$Anim(1, "リンデン", "Pain")
+$Window(2, "リンデン")
+亡妻对老夫说……现在可不是重逢的时候……
+先撤退了……这条老命还有可用之处……$Wait(0)
+
+[MID_DIE_Linden]
+$Type(1)
+$Window(0, "リンデン", "t")
+$Anim(1, "リンデン", "Pain")
+$Window(2, "リンデン")
+能活到这个岁数……老夫已无悔无恨……
+各位……要长命百岁啊……$Wait(0)
+
+[MID_DIE_CASUAL_Saphir]
+$Type(1)
+$Window(0, "ザフィーア", "t")
+$Anim(1, "ザフィーア", "Pain")
+$Window(2, "ザフィーア")
+啊～我搞砸了……还是先撤退吧……
+懂得保命才算是一流的士兵呢……$Wait(0)
+
+[MID_DIE_Saphir]
+$Type(1)
+$Window(0, "ザフィーア", "t")
+$Anim(1, "ザフィーア", "Pain")
+$Window(2, "ザフィーア")
+竟然会落到如此地步……岁月真是不饶人啊……
+本来想亲眼见证未来……看来是没办法了呢……$Wait(0)
+
+[MID_DIE_CASUAL_Mauve]
+$Type(1)
+$Window(0, "モーヴ", "t")
+$Anim(1, "モーヴ", "Pain")
+$Window(2, "モーヴ")
+身为贝珥大人的骑士……我不能死……
+十分抱歉，神龙大人……请容我撤退吧……$Wait(0)
+
+[MID_DIE_Mauve]
+$Type(1)
+$Window(0, "モーヴ", "t")
+$Anim(1, "モーヴ", "Pain")
+$Window(2, "モーヴ")
+这是我……身为四狗的报应……
+玛伦……我要去……找你了……$Wait(0)
+
+[MID_DIE_CASUAL_Veyre]
+$Type(1)
+$Window(0, "ヴェイル", "t")
+$Anim(1, "ヴェイル", "Pain")
+$Window(2, "ヴェイル")
+对不起……我要撤退了……
+为了战斗到最后一刻……我愿承受所有痛苦……$Wait(0)
+
+[MID_DIE_EXIST_Veyre]
+$Type(1)
+$Window(0, "ヴェイル", "t")
+$Anim(1, "ヴェイル", "Pain")
+$Window(2, "ヴェイル")
+不论是何种伤痛……我都甘愿接受……
+但我绝对不能死……先撤退了……$Wait(0)
+
+[MID_DIE_CASUAL_Anna]
+$Type(1)
+$Window(0, "アンナ", "t")
+$Anim(1, "アンナ", "Pain")
+$Window(2, "アンナ")
+呜呜……太过分了……！
+我才没哭呢！我只是要撤退……！$Wait(0)
+
+[MID_DIE_Anna]
+$Type(1)
+$Window(0, "アンナ", "t")
+$Anim(1, "アンナ", "Pain")
+$Window(2, "アンナ")
+我还想……继续做生意……还有……
+好想和失散的家人……团聚……啊……$Wait(0)
+
+[MID_DIE_CASUAL_Jean]
+$Type(1)
+$Window(0, "ジャン", "t")
+$Anim(1, "ジャン", "Pain")
+$Window(2, "ジャン")
+看这伤势……我应该还有救吧……
+抱歉呀，我要先去后方疗伤了……$Wait(0)
+
+[MID_DIE_Jean]
+$Type(1)
+$Window(0, "ジャン", "t")
+$Anim(1, "ジャン", "Pain")
+$Window(2, "ジャン")
+致命伤吗……我可真没用啊……
+亏我还想要……拯救更多的人呢……$Wait(0)
+
+[MID_DIE_CASUAL_Lumiere]
+$Type(1)
+$Window(0, "ルミエル", "t")
+$Anim(1, "ルミエル", "Pain")
+$Window(2, "ルミエル")
+抱歉，要在这里撤退了……$Wait(0)
+
+[MID_DIE_Lumiere]
+$Type(1)
+$Window(0, "ルミエル", "t")
+$Anim(1, "ルミエル", "Pain")
+$Window(2, "ルミエル")
+抱歉，要在这里撤退了……$Wait(0)
+
+[MID_DIE_CASUAL_Marth]
+$Type(1)
+$Window(0, "马尔斯", "t")
+$Anim(1, "马尔斯", "Pain")
+$Window(2, "马尔斯")
+抱歉，要在这里撤退了……$Wait(0)
+
+[MID_DIE_Marth]
+$Type(1)
+$Window(0, "马尔斯", "t")
+$Anim(1, "马尔斯", "Pain")
+$Window(2, "马尔斯")
+抱歉，要在这里撤退了……$Wait(0)
+
+[MID_DIE_CASUAL_Siglud]
+$Type(1)
+$Window(0, "西格尔特", "t")
+$Anim(1, "西格尔特", "Pain")
+$Window(2, "西格尔特")
+抱歉，要在这里撤退了……$Wait(0)
+
+[MID_DIE_Siglud]
+$Type(1)
+$Window(0, "西格尔特", "t")
+$Anim(1, "西格尔特", "Pain")
+$Window(2, "西格尔特")
+抱歉，要在这里撤退了……$Wait(0)
+
+[MID_DIE_CASUAL_Celica]
+$Type(1)
+$Window(0, "赛莉卡", "t")
+$Anim(1, "赛莉卡", "Pain")
+$Window(2, "赛莉卡")
+抱歉，要在这里撤退了……$Wait(0)
+
+[MID_DIE_Celica]
+$Type(1)
+$Window(0, "赛莉卡", "t")
+$Anim(1, "赛莉卡", "Pain")
+$Window(2, "赛莉卡")
+抱歉，要在这里撤退了……$Wait(0)
+
+[MID_DIE_CASUAL_Micaiah]
+$Type(1)
+$Window(0, "米卡雅", "t")
+$Anim(1, "米卡雅", "Pain")
+$Window(2, "米卡雅")
+抱歉，要在这里撤退了……$Wait(0)
+
+[MID_DIE_Micaiah]
+$Type(1)
+$Window(0, "米卡雅", "t")
+$Anim(1, "米卡雅", "Pain")
+$Window(2, "米卡雅")
+抱歉，要在这里撤退了……$Wait(0)
+
+[MID_DIE_CASUAL_Roy]
+$Type(1)
+$Window(0, "罗伊", "t")
+$Anim(1, "罗伊", "Pain")
+$Window(2, "罗伊")
+抱歉，要在这里撤退了……$Wait(0)
+
+[MID_DIE_Roy]
+$Type(1)
+$Window(0, "罗伊", "t")
+$Anim(1, "罗伊", "Pain")
+$Window(2, "罗伊")
+抱歉，要在这里撤退了……$Wait(0)
+
+[MID_DIE_CASUAL_Leaf]
+$Type(1)
+$Window(0, "里弗", "t")
+$Anim(1, "里弗", "Pain")
+$Window(2, "里弗")
+抱歉，要在这里撤退了……$Wait(0)
+
+[MID_DIE_Leaf]
+$Type(1)
+$Window(0, "里弗", "t")
+$Anim(1, "里弗", "Pain")
+$Window(2, "里弗")
+抱歉，要在这里撤退了……$Wait(0)
+
+[MID_DIE_CASUAL_Lucina]
+$Type(1)
+$Window(0, "露琪娜", "t")
+$Anim(1, "露琪娜", "Pain")
+$Window(2, "露琪娜")
+抱歉，要在这里撤退了……$Wait(0)
+
+[MID_DIE_Lucina]
+$Type(1)
+$Window(0, "露琪娜", "t")
+$Anim(1, "露琪娜", "Pain")
+$Window(2, "露琪娜")
+抱歉，要在这里撤退了……$Wait(0)
+
+[MID_DIE_CASUAL_Lin]
+$Type(1)
+$Window(0, "琳", "t")
+$Anim(1, "琳", "Pain")
+$Window(2, "琳")
+抱歉，要在这里撤退了……$Wait(0)
+
+[MID_DIE_Lin]
+$Type(1)
+$Window(0, "琳", "t")
+$Anim(1, "琳", "Pain")
+$Window(2, "琳")
+抱歉，要在这里撤退了……$Wait(0)
+
+[MID_DIE_CASUAL_Ike]
+$Type(1)
+$Window(0, "艾克", "t")
+$Anim(1, "艾克", "Pain")
+$Window(2, "艾克")
+抱歉，要在这里撤退了……$Wait(0)
+
+[MID_DIE_Ike]
+$Type(1)
+$Window(0, "艾克", "t")
+$Anim(1, "艾克", "Pain")
+$Window(2, "艾克")
+抱歉，要在这里撤退了……$Wait(0)
+
+[MID_DIE_CASUAL_Byleth]
+$Type(1)
+$Window(0, "贝雷特", "t")
+$Anim(1, "贝雷特", "Pain")
+$Window(2, "贝雷特")
+抱歉，要在这里撤退了……$Wait(0)
+
+[MID_DIE_Byleth]
+$Type(1)
+$Window(0, "贝雷特", "t")
+$Anim(1, "贝雷特", "Pain")
+$Window(2, "贝雷特")
+抱歉，要在这里撤退了……$Wait(0)
+
+[MID_DIE_CASUAL_Kamui]
+$Type(1)
+$Window(0, "神威", "t")
+$Anim(1, "神威", "Pain")
+$Window(2, "神威")
+抱歉，要在这里撤退了……$Wait(0)
+
+[MID_DIE_Kamui]
+$Type(1)
+$Window(0, "神威", "t")
+$Anim(1, "神威", "Pain")
+$Window(2, "神威")
+抱歉，要在这里撤退了……$Wait(0)
+
+[MID_DIE_CASUAL_Eirik]
+$Type(1)
+$Window(0, "艾莉可", "t")
+$Anim(1, "艾莉可", "Pain")
+$Window(2, "艾莉可")
+抱歉，要在这里撤退了……$Wait(0)
+
+[MID_DIE_Eirik]
+$Type(1)
+$Window(0, "艾莉可", "t")
+$Anim(1, "艾莉可", "Pain")
+$Window(2, "艾莉可")
+抱歉，要在这里撤退了……$Wait(0)
+
+[MID_DIE_CASUAL_Edelgard]
+$Type(1)
+$Window(0, "艾黛尔贾特", "t")
+$Anim(1, "艾黛尔贾特", "Pain")
+$Window(2, "艾黛尔贾特")
+抱歉，要在这里撤退了……$Wait(0)
+
+[MID_DIE_Edelgard]
+$Type(1)
+$Window(0, "艾黛尔贾特", "t")
+$Anim(1, "艾黛尔贾特", "Pain")
+$Window(2, "艾黛尔贾特")
+抱歉，要在这里撤退了……$Wait(0)
+
+[MID_DIE_CASUAL_Dimitri]
+$Type(1)
+$Window(0, "帝弥托利", "t")
+$Anim(1, "帝弥托利", "Pain")
+$Window(2, "帝弥托利")
+抱歉，要在这里撤退了……$Wait(0)
+
+[MID_DIE_Dimitri]
+$Type(1)
+$Window(0, "帝弥托利", "t")
+$Anim(1, "帝弥托利", "Pain")
+$Window(2, "帝弥托利")
+抱歉，要在这里撤退了……$Wait(0)
+
+[MID_DIE_CASUAL_Claude]
+$Type(1)
+$Window(0, "库罗德", "t")
+$Anim(1, "库罗德", "Pain")
+$Window(2, "库罗德")
+抱歉，要在这里撤退了……$Wait(0)
+
+[MID_DIE_Claude]
+$Type(1)
+$Window(0, "库罗德", "t")
+$Anim(1, "库罗德", "Pain")
+$Window(2, "库罗德")
+抱歉，要在这里撤退了……$Wait(0)
+
+[MID_DIE_CASUAL_Hector]
+$Type(1)
+$Window(0, "海克托尔", "t")
+$Anim(1, "海克托尔", "Pain")
+$Window(2, "海克托尔")
+抱歉，要在这里撤退了……$Wait(0)
+
+[MID_DIE_Hector]
+$Type(1)
+$Window(0, "海克托尔", "t")
+$Anim(1, "海克托尔", "Pain")
+$Window(2, "海克托尔")
+抱歉，要在这里撤退了……$Wait(0)
+
+[MID_DIE_CASUAL_Veronica]
+$Type(1)
+$Window(0, "维罗妮卡", "t")
+$Anim(1, "维罗妮卡", "Pain")
+$Window(2, "维罗妮卡")
+抱歉，要在这里撤退了……$Wait(0)
+
+[MID_DIE_Veronica]
+$Type(1)
+$Window(0, "维罗妮卡", "t")
+$Anim(1, "维罗妮卡", "Pain")
+$Window(2, "维罗妮卡")
+抱歉，要在这里撤退了……$Wait(0)
+
+[MID_DIE_CASUAL_Senerio]
+$Type(1)
+$Window(0, "塞涅里欧", "t")
+$Anim(1, "塞涅里欧", "Pain")
+$Window(2, "塞涅里欧")
+抱歉，要在这里撤退了……$Wait(0)
+
+[MID_DIE_Senerio]
+$Type(1)
+$Window(0, "塞涅里欧", "t")
+$Anim(1, "塞涅里欧", "Pain")
+$Window(2, "塞涅里欧")
+抱歉，要在这里撤退了……$Wait(0)
+
+[MID_DIE_CASUAL_Camilla]
+$Type(1)
+$Window(0, "卡美拉", "t")
+$Anim(1, "卡美拉", "Pain")
+$Window(2, "卡美拉")
+抱歉，要在这里撤退了……$Wait(0)
+
+[MID_DIE_Camilla]
+$Type(1)
+$Window(0, "卡美拉", "t")
+$Anim(1, "卡美拉", "Pain")
+$Window(2, "卡美拉")
+抱歉，要在这里撤退了……$Wait(0)
+
+[MID_DIE_CASUAL_Chrom]
+$Type(1)
+$Window(0, "库洛武", "t")
+$Anim(1, "库洛武", "Pain")
+$Window(2, "库洛武")
+抱歉，要在这里撤退了……$Wait(0)
+
+[MID_DIE_Chrom]
+$Type(1)
+$Window(0, "库洛武", "t")
+$Anim(1, "库洛武", "Pain")
+$Window(2, "库洛武")
+抱歉，要在这里撤退了……$Wait(0)
+
+[MID_DIE_CASUAL_Reflet]
+$Type(1)
+$Window(0, "鲁弗莱", "t")
+$Anim(1, "鲁弗莱", "Pain")
+$Window(2, "鲁弗莱")
+抱歉，要在这里撤退了……$Wait(0)
+
+[MID_DIE_Reflet]
+$Type(1)
+$Window(0, "鲁弗莱", "t")
+$Anim(1, "鲁弗莱", "Pain")
+$Window(2, "鲁弗莱")
+抱歉，要在这里撤退了……$Wait(0)
+
+[MID_DIE_CASUAL_Ephraim]
+$Type(1)
+$Window(0, "艾夫拉姆", "t")
+$Anim(1, "艾夫拉姆", "Pain")
+$Window(2, "艾夫拉姆")
+抱歉，要在这里撤退了……$Wait(0)
+
+[MID_DIE_Ephraim]
+$Type(1)
+$Window(0, "艾夫拉姆", "t")
+$Anim(1, "艾夫拉姆", "Pain")
+$Window(2, "艾夫拉姆")
+抱歉，要在这里撤退了……$Wait(0)
+
+[MID_DIE_CASUAL_Tiki]
+$Type(1)
+$Window(0, "琪姬", "t")
+$Anim(1, "琪姬", "Pain")
+$Window(2, "琪姬")
+抱歉，要在这里撤退了……$Wait(0)
+
+[MID_DIE_Tiki]
+$Type(1)
+$Window(0, "琪姬", "t")
+$Anim(1, "琪姬", "Pain")
+$Window(2, "琪姬")
+抱歉，要在这里撤退了……$Wait(0)
+
+[MID_DIE_CASUAL_Eve]
+$Type(1)
+$Window(0, "イヴ", "t")
+$Anim(1, "イヴ", "Pain")
+$Window(2, "イヴ")
+抱歉，要在这里撤退了……$Wait(0)
+
+[MID_DIE_Eve]
+$Type(1)
+$Window(0, "イヴ", "t")
+$Anim(1, "イヴ", "Pain")
+$Window(2, "イヴ")
+抱歉，要在这里撤退了……$Wait(0)
+
+[MID_DIE_CASUAL_Sfoglia]
+$Type(1)
+$Window(0, "スフォリア", "t")
+$Anim(1, "スフォリア", "Pain")
+$Window(2, "スフォリア")
+抱歉，要在这里撤退了……$Wait(0)
+
+[MID_DIE_Sfoglia]
+$Type(1)
+$Window(0, "スフォリア", "t")
+$Anim(1, "スフォリア", "Pain")
+$Window(2, "スフォリア")
+抱歉，要在这里撤退了……$Wait(0)
+
+[MID_DIE_CASUAL_Morion]
+$Type(1)
+$Window(0, "モリオン", "t")
+$Anim(1, "モリオン", "Pain")
+$Window(2, "モリオン")
+抱歉，要在这里撤退了……$Wait(0)
+
+[MID_DIE_Morion]
+$Type(1)
+$Window(0, "モリオン", "t")
+$Anim(1, "モリオン", "Pain")
+$Window(2, "モリオン")
+抱歉，要在这里撤退了……$Wait(0)
+
+[MID_DIE_CASUAL_Hyacinth]
+$Type(1)
+$Window(0, "ハイアシンス", "t")
+$Anim(1, "ハイアシンス", "Pain")
+$Window(2, "ハイアシンス")
+抱歉，要在这里撤退了……$Wait(0)
+
+[MID_DIE_Hyacinth]
+$Type(1)
+$Window(0, "ハイアシンス", "t")
+$Anim(1, "ハイアシンス", "Pain")
+$Window(2, "ハイアシンス")
+抱歉，要在这里撤退了……$Wait(0)
+
+[MID_DIE_CASUAL_Sombre]
+$Type(1)
+$Window(0, "ソンブル", "t")
+$Anim(1, "ソンブル", "Pain")
+$Window(2, "ソンブル")
+不可能，孤居然会败在这种家伙的手里了……$Wait(0)
+
+[MID_DIE_Sombre]
+$Type(1)
+$Window(0, "ソンブル", "t")
+$Anim(1, "ソンブル", "Pain")
+$Window(2, "ソンブル")
+不可能，孤居然会败在这种家伙的手里了……$Wait(0)
+
+[MID_DIE_CASUAL_Nanzhu]
+$Type(1)
+$Window(0, "男琉尔", "t")
+$Anim(1, "男琉尔", "Pain")
+$Window(2, "男琉尔")
+抱歉，要在这里撤退了……$Wait(0)
+
+[MID_DIE_Nanzhu]
+$Type(1)
+$Window(0, "男琉尔", "t")
+$Anim(1, "男琉尔", "Pain")
+$Window(2, "男琉尔")
+抱歉，要在这里撤退了……$Wait(0)
+
+[MID_DIE_CASUAL_Nvzhu]
+$Type(1)
+$Window(0, "女琉尔", "t")
+$Anim(1, "女琉尔", "Pain")
+$Window(2, "女琉尔")
+抱歉，要在这里撤退了……$Wait(0)
+
+[MID_DIE_Nvzhu]
+$Type(1)
+$Window(0, "女琉尔", "t")
+$Anim(1, "女琉尔", "Pain")
+$Window(2, "女琉尔")
+抱歉，要在这里撤退了……$Wait(0)
+
+[MID_DIE_CASUAL_Aqua]
+$Type(1)
+$Window(0, "阿库娅", "t")
+$Anim(1, "阿库娅", "Pain")
+$Window(2, "阿库娅")
+抱歉，要在这里撤退了……$Wait(0)
+
+[MID_DIE_Aqua]
+$Type(1)
+$Window(0, "阿库娅", "t")
+$Anim(1, "阿库娅", "Pain")
+$Window(2, "阿库娅")
+抱歉，要在这里撤退了……$Wait(0)
+
+[MID_DIE_CASUAL_Reinhardt]
+$Type(1)
+$Window(0, "莱因哈特", "t")
+$Anim(1, "莱因哈特", "Pain")
+$Window(2, "莱因哈特")
+抱歉，要在这里撤退了……$Wait(0)
+
+[MID_DIE_Reinhardt]
+$Type(1)
+$Window(0, "莱因哈特", "t")
+$Anim(1, "莱因哈特", "Pain")
+$Window(2, "莱因哈特")
+抱歉，要在这里撤退了……$Wait(0)
+
+[MID_DIE_CASUAL_Shez]
+$Type(1)
+$Window(0, "谢兹", "t")
+$Anim(1, "谢兹", "Pain")
+$Window(2, "谢兹")
+抱歉，要在这里撤退了……$Wait(0)
+
+[MID_DIE_Shez]
+$Type(1)
+$Window(0, "谢兹", "t")
+$Anim(1, "谢兹", "Pain")
+$Window(2, "谢兹")
+抱歉，要在这里撤退了……$Wait(0)
+
+[MID_DIE_CASUAL_Yaoling]
+$Type(1)
+$Window(0, "Yaoling", "t")
+$Anim(1, "Yaoling", "Pain")
+$Window(2, "Yaoling")
+抱歉，要在这里撤退了…….$Wait(0)
+
+[MID_DIE_Yaoling]
+$Type(1)
+$Window(0, "Yaoling", "t")
+$Anim(1, "Yaoling", "Pain")
+$Window(2, "Yaoling")
+抱歉，要在这里撤退了…….$Wait(0)
+
+[MID_DIE_CASUAL_Mia]
+$Type(1)
+$Window(0, "瓦尤", "t")
+$Anim(1, "瓦尤", "Pain")
+$Window(2, "瓦尤")
+抱歉，要在这里撤退了…….$Wait(0)
+
+[MID_DIE_Mia]
+$Type(1)
+$Window(0, "瓦尤", "t")
+$Anim(1, "瓦尤", "Pain")
+$Window(2, "瓦尤")
+抱歉，要在这里撤退了…….$Wait(0)
+
+[MID_DIE_Jingliu]
+$Type(1)
+$Window(0, "Jingliu", "t")
+$Anim(1, "Jingliu", "Pain")
+$Window(2, "Jingliu")
+Finally, the end of it... I feel the Mara
+fading away already...$Wait(0)
+
+[MID_DIE_CASUAL_Jingliu]
+$Type(1)
+$Window(0, "Jingliu", "t")
+$Anim(1, "Jingliu", "Pain")
+$Window(2, "Jingliu")
+I've been far too weakened in this world.
+I'll back off for now.$Wait(0)
