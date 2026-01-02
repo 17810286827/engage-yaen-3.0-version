@@ -36,8 +36,8 @@
       <Param Name="水" Condition="スキル所持( &quot;水魔法&quot; );" Function="min(int((総レベル+内部レベル) *0.2),武器レベル);0;" />
       <Param Name="暗" Condition="スキル所持( &quot;暗魔法&quot; );" Function="min(int((総レベル+内部レベル) *0.2),武器レベル);0;" />
       <Param Name="光" Condition="相手のスキル所持( &quot;光魔法&quot; );" Function="相手の武器レベル;0;" />
-      <Param Name="命中补正" Condition="スキル所持( &quot;敌方通用&quot; );" Function="int((総レベル+内部レベル) *0.25);int((総レベル+内部レベル) *0.125);" />
-      <Param Name="必避补正" Condition="スキル所持( &quot;敌方通用&quot; );" Function="int((総レベル+内部レベル) *0.25);int((総レベル+内部レベル) *0.125);" />
+      <Param Name="命中补正" Condition="スキル所持( &quot;我方通用&quot; );" Function="int((総レベル+内部レベル) *0.25);int((総レベル+内部レベル) *0.125);" />
+      <Param Name="必避补正" Condition="スキル所持( &quot;我方通用&quot; );" Function="int((総レベル+内部レベル) *0.25);int((総レベル+内部レベル) *0.125);" />
       <Param Name="高等级武器公式" Condition="(総レベル+内部レベル)&lt;=5;(総レベル+内部レベル)&lt;=10&amp;&amp;(総レベル+内部レベル)&gt;5;(総レベル+内部レベル)&lt;=15&amp;&amp;(総レベル+内部レベル)&gt;10;(総レベル+内部レベル)&lt;=20&amp;&amp;(総レベル+内部レベル)&gt;15;" Function="1;2;3;4;5;" />
       <Param Name="高等级武器" Condition="スキル所持( &quot;我方通用&quot; );" Function="min(1+(高等级武器公式-武器レベル)*0.15,1);1;" />
       <Param Name="双重攻击" Condition="(スキル所持( &quot;三角攻击_成立效果&quot; )&amp;&amp;相手のスキル所持(&quot;三角攻击_成立效果&quot;))||相手のスキル所持(&quot;Gimle基姆雷&quot;)||スキル所持(&quot;职业技_鲁弗莱&quot;)||スキル所持(&quot;双重攻击&quot;)||スキル所持(&quot;残像_琳&quot;);" Function="威力計算*0.5;0;" />
